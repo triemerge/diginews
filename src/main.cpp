@@ -38,7 +38,7 @@ std::string get_gemini_response(const std::string& prompt, const std::string& ap
             }},
             {"tools", {
                 {
-                    {"googleSearchRetrieval", json::object()}
+                    {"google_search", json::object()}
                 }
             }}
         };
