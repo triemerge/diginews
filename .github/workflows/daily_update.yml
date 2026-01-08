@@ -1,6 +1,8 @@
 name: Daily Tech News Update
 
 on:
+  push:
+    branches: [ "master" ]
   schedule:
     - cron: '0 8 * * *' # Runs at 08:00 UTC daily
   workflow_dispatch: # Allows manual trigger
