@@ -23,7 +23,7 @@ std::string get_gemini_response(const std::string& prompt, const std::string& ap
 
     curl = curl_easy_init();
     if(curl) {
-        std::string url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key=" + api_key;
+        std::string url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=" + api_key;
         
         // Construct the JSON payload
         json payload = {
