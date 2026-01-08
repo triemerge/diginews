@@ -1,0 +1,40 @@
+name: Daily Tech News Update
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Runs at 08:00 UTC daily
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libcurl4-openssl-dev nlohmann-json3-dev
+
+    - name: Compile C++ Code
+      run: |
+        g++ -std=c++17 -o diginews src/main.cpp -lcurl
+
+    - name: Run News Updater
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        ./diginews
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "Aditya Kumar Gupta"
+        git config --global user.email "aditya.rakesh.2005@gmail.com"
+        git add README.md
+        # Only commit if there are changes
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily news digest" && git push)
