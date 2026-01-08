@@ -35,6 +35,11 @@ std::string get_gemini_response(const std::string& prompt, const std::string& ap
                         {{"text", prompt}}
                     }}
                 }
+            }},
+            {"tools", {
+                {
+                    {"googleSearchRetrieval", json::object()}
+                }
             }}
         };
 
@@ -108,7 +113,7 @@ int main() {
     }
     std::string api_key = env_api_key;
 
-    std::string prompt = "Generate a concise digest of the top 5 most important tech news stories from the last 24 hours. Format it as a Markdown list with bold titles and short summaries. Include a 'Last Updated' timestamp at the top.";
+    std::string prompt = "Provide exactly one single most important latest tech news story from the last 6 hours. Ground this news with a Google Search to ensure it is accurate and up-to-date. Quality is more important than quantity. Format the output in Markdown as follows:\n\n**Last Updated:** [Current Date and Time]\n\n### [News Title]\n[Comprehensive summary of the news]\n\n**Key Takeaway:** [One sentence takeaway]";
 
     int max_retries = 5;
     for (int i = 0; i < max_retries; ++i) {
