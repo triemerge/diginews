@@ -16,6 +16,21 @@ size_t WriteCallback(void* contents, size_t size, size_t nmemb, void* userp) {
     return size * nmemb;
 }
 
+void list_models(const std::string& api_key) {
+    CURL* curl = curl_easy_init();
+    if(curl) {
+        std::string url = "https://generativelanguage.googleapis.com/v1beta/models?key=" + api_key;
+        std::string readBuffer;
+        curl_easy_setopt(curl, CURLOPT_URL, url.c_str());
+        curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteCallback);
+        curl_easy_setopt(curl, CURLOPT_WRITEDATA, &readBuffer);
+        CURLcode res = curl_easy_perform(curl);
+        if(res == CURLE_OK) std::cerr << "AVAILABLE MODELS LIST: " << readBuffer << std::endl;
+        else std::cerr << "Failed to list models" << std::endl;
+        curl_easy_cleanup(curl);
+    }
+}
+
 std::string get_gemini_response(const std::string& prompt, const std::string& api_key) {
     CURL* curl;
     CURLcode res;
@@ -124,6 +139,7 @@ int main() {
             update_readme(generated_text);
         } else {
             std::cerr << "Invalid response format: " << response << std::endl;
+            list_models(api_key);
             return 1;
         }
 
