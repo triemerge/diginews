@@ -6,6 +6,8 @@
 #include <curl/curl.h>
 #include <nlohmann/json.hpp>
 #include <cstdlib>
+#include <thread>
+#include <chrono>
 
 // For convenience
 using json = nlohmann::json;
@@ -108,32 +110,52 @@ int main() {
 
     std::string prompt = "Generate a concise digest of the top 5 most important tech news stories from the last 24 hours. Format it as a Markdown list with bold titles and short summaries. Include a 'Last Updated' timestamp at the top.";
 
-    std::string response = get_gemini_response(prompt, api_key);
-    
-    if (response.empty()) {
-        std::cerr << "Empty response from API." << std::endl;
-        return 1;
-    }
-
-    try {
-        json response_json = json::parse(response);
-        
-        // Check if candidates exist
-        if (response_json.contains("candidates") && !response_json["candidates"].empty()) {
-            std::string generated_text = response_json["candidates"][0]["content"]["parts"][0]["text"];
-            update_readme(generated_text);
-        } else {
-            std::cerr << "Invalid response format: " << response << std::endl;
-            return 1;
+    int max_retries = 5;
+    for (int i = 0; i < max_retries; ++i) {
+        if (i > 0) {
+            std::cout << "Retrying request (" << i << "/" << max_retries << ")..." << std::endl;
+            std::this_thread::sleep_for(std::chrono::seconds(10));
         }
 
-    } catch (json::parse_error& e) {
-        std::cerr << "JSON parse error: " << e.what() << std::endl;
-        return 1;
-    } catch (std::exception& e) {
-        std::cerr << "Error: " << e.what() << std::endl;
-        return 1;
+        std::string response = get_gemini_response(prompt, api_key);
+        
+        if (response.empty()) {
+            std::cerr << "Empty response from API." << std::endl;
+            continue;
+        }
+
+        try {
+            json response_json = json::parse(response);
+            
+            // Check for success
+            if (response_json.contains("candidates") && !response_json["candidates"].empty()) {
+                std::string generated_text = response_json["candidates"][0]["content"]["parts"][0]["text"];
+                update_readme(generated_text);
+                return 0; // Success!
+            } 
+            
+            // Check for overload error (503)
+            if (response_json.contains("error")) {
+                int code = response_json["error"].value("code", 0);
+                std::string msg = response_json["error"].value("message", "Unknown error");
+                
+                if (code == 503) {
+                    std::cerr << "Server is overloaded (503). " << msg << std::endl;
+                    continue; // Retry
+                }
+                
+                // Fatal error
+                std::cerr << "API Error " << code << ": " << msg << std::endl;
+                return 1;
+            }
+
+        } catch (json::parse_error& e) {
+            std::cerr << "JSON parse error: " << e.what() << std::endl;
+        } catch (std::exception& e) {
+            std::cerr << "Error: " << e.what() << std::endl;
+        }
     }
 
-    return 0;
+    std::cerr << "Max retries exceeded." << std::endl;
+    return 1;
 }
