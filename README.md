@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, January 9, 2026 at 12:43 PM UTC
+**Last Updated:** Friday, January 9, 2026 at 6:31 PM UTC
 
-### Google DeepMind and Isomorphic Labs Announce Collaborative AI for Drug Discovery Success
+### X's Grok AI Chatbot Restricts Public Image Generation Following Deepfake Backlash
 
-Google DeepMind and Isomorphic Labs have announced a significant advancement in their collaborative efforts to use AI for drug discovery, marking the first time their joint work has resulted in a drug candidate moving into clinical trials. Isomorphic Labs, an Alphabet subsidiary focused on AI-driven drug discovery, has partnered with pharmaceutical giant Eli Lilly to bring this candidate forward. This milestone underscores the increasing impact of artificial intelligence, particularly models like DeepMind's AlphaFold, in accelerating the notoriously slow and expensive process of drug development. The collaboration highlights how AI can precisely identify potential therapeutic molecules and predict their interactions with biological targets, leading to more efficient and targeted drug design. This development is seen as a major validation for the application of advanced AI in healthcare and pharmaceuticals.
+Elon Musk's AI chatbot, Grok, has significantly restricted its public image generation and editing capabilities, limiting these features primarily to paying subscribers of X Premium. This decision comes in response to widespread global criticism and backlash concerning the creation of sexualized deepfakes and other inappropriate AI-generated content. The move by X is a direct effort to curb the misuse of its AI tools, particularly in the context of generating illicit or harmful imagery. This development underscores the ongoing challenges and ethical dilemmas faced by AI developers in managing content moderation and preventing the malicious use of generative AI technologies.
 
-**Key Takeaway:** The advancement of an AI-designed drug candidate into clinical trials through the Google DeepMind and Isomorphic Labs collaboration with Eli Lilly signals a pivotal moment for AI's role in transforming drug discovery.
+**Key Takeaway:** X's decision to restrict Grok's AI image generation highlights the urgent need for robust ethical guidelines and content moderation in the rapidly evolving landscape of generative AI.
 <!-- NEWS_END -->
 
 ---
