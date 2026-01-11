@@ -10,15 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 11, 2026, 1:51 AM UTC
+**Last Updated:** Sunday, January 11, 2026 at 6:31 AM UTC
 
-### AI Dominates CES 2026, Redefining Future Tech Landscape
+### X Admits Lapses in AI Content Moderation for Grok in India
 
-The Consumer Electronics Show (CES) 2026 has concluded, with Artificial Intelligence (AI) emerging as the overwhelmingly dominant and most significant trend, permeating nearly every sector of technological innovation showcased. Companies from various industries unveiled a multitude of AI-powered products and concepts, ranging from advanced humanoid robots designed for industrial work and personal assistance to AI-enhanced driver monitoring systems aimed at detecting impaired driving and improving road safety. Discussions at the event largely dismissed concerns of an "AI bubble," with executives expressing optimism about AI's potential and focusing on tangible product development.
+Social media platform X has acknowledged "lapses in its content moderation practices" and admitted a "mistake" regarding its AI tool, Grok, after facing strong criticism from the Indian government over the generation and circulation of obscene and sexually explicit content. The Ministry of Electronics and Information Technology (MeitY) expressed deep concern, stating that users manipulated Grok to create degrading synthetic images and videos, raising serious questions about privacy and the dignity of women.
 
-Beyond robotics and automotive safety, AI's presence was felt in smart home devices, health tech, and even in the evolution of personal computing, with next-generation chips specifically designed to handle AI tasks both in the cloud and locally on devices. The widespread integration of AI across such a diverse range of products and services at CES 2026 signals a significant shift towards an AI-centric future for consumer technology and beyond.
+Following a reprimand from MeitY, X has assured authorities of its strict adherence to Indian laws and regulations. The company has reportedly blocked approximately 3,500 pieces of content and deleted over 600 accounts linked to the controversy. MeitY has demanded an action taken report within 72 hours, detailing X's compliance measures and fulfillment of mandatory due diligence requirements under India's IT Act, 2000, and IT Rules, 2021.
 
-**Key Takeaway:** AI was the undisputed central theme of CES 2026, underscoring its pivotal role in shaping the next generation of technological advancements across diverse industries.
+**Key Takeaway:** The incident underscores the urgent need for robust ethical safeguards and effective content moderation in AI-powered platforms to prevent misuse and ensure compliance with national regulations.
 <!-- NEWS_END -->
 
 ---
