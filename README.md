@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Sunday, January 11, 2026 at 6:28 PM UTC
+**Last Updated:** January 12, 2026 at 1:48 AM UTC
 
-### Meta Secures Massive Nuclear Power Supply for AI Data Centers
+### Google Enhances Gemini AI Chatbot with Expanded Retail Shopping Capabilities
 
-Meta is making a significant long-term investment in its artificial intelligence infrastructure by securing a massive supply of nuclear power to energize its burgeoning AI data centers. This strategic move highlights the immense energy demands of advanced AI operations and Meta's commitment to building out its capabilities. The agreement involves a Seattle-area nuclear company, TerraPower, which is backed by Bill Gates, to construct up to eight small modular reactors in the U.S., with the first expected to come online as early as 2032. This initiative underscores the critical need for sustainable and powerful energy sources to support the rapidly expanding world of AI.
+Google is significantly advancing the e-commerce functionalities of its Gemini AI chatbot by integrating direct shopping features through new partnerships with major retailers. The Gemini app will now function as both a virtual assistant and a merchant, allowing users to make purchases directly within the platform. This expansion includes collaborations with prominent retailers such as Walmart, Shopify, and Wayfair.
 
-**Key Takeaway:** Meta's substantial investment in nuclear power for its AI data centers signals a critical industry shift towards addressing the escalating energy requirements of artificial intelligence.
+This strategic move is part of Google's broader initiative to embed AI across its services, including Gmail, where Gemini 3 AI features are being introduced to assist with writing messages and managing inboxes. The integration into the Gemini app and AI Mode will enable product checkout and introduce a "Business Agent" feature in Google Search, streamlining the shopping experience for consumers.
+
+**Key Takeaway:** Google is deepening its AI integration into e-commerce by enabling direct shopping through its Gemini chatbot via partnerships with major retailers, positioning Gemini as a powerful virtual merchant.
 <!-- NEWS_END -->
 
 ---
