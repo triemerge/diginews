@@ -10,15 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 12, 2026 at 1:48 AM UTC
+**Last Updated:** Monday, January 12, 2026 at 6:36 AM UTC
 
-### Google Enhances Gemini AI Chatbot with Expanded Retail Shopping Capabilities
+### Meta Deactivates Over Half a Million Underage Accounts Following Australian Social Media Ban
 
-Google is significantly advancing the e-commerce functionalities of its Gemini AI chatbot by integrating direct shopping features through new partnerships with major retailers. The Gemini app will now function as both a virtual assistant and a merchant, allowing users to make purchases directly within the platform. This expansion includes collaborations with prominent retailers such as Walmart, Shopify, and Wayfair.
+Meta has announced that it deactivated more than 544,000 accounts belonging to users under 16 across its Facebook, Instagram, and Threads platforms in Australia. This action comes in the wake of a new Australian ban on social media for individuals under the age of 16, which came into effect a month prior. The deactivated accounts include 330,639 on Instagram, 173,497 on Facebook, and 39,916 on Threads.
 
-This strategic move is part of Google's broader initiative to embed AI across its services, including Gmail, where Gemini 3 AI features are being introduced to assist with writing messages and managing inboxes. The integration into the Gemini app and AI Mode will enable product checkout and introduce a "Business Agent" feature in Google Search, streamlining the shopping experience for consumers.
+The company began deactivating these accounts between December 4 and December 11, 2025, after the ban became law. Meta stated that ongoing compliance with the new regulation will be a "multi-layered process" that they will continue to refine, while reiterating concerns about establishing age online without a universal industry standard. Other major platforms affected by the ban, including Twitch, Kick, YouTube, X, TikTok, and Reddit, had also implemented age checks by December 10, 2025. The Australian government's eSafety commissioner has reportedly inquired about the number of deactivated accounts but has not yet released the data. The effectiveness of the ban and how teens might circumvent it by migrating to other platforms not initially covered is being closely monitored globally.
 
-**Key Takeaway:** Google is deepening its AI integration into e-commerce by enabling direct shopping through its Gemini chatbot via partnerships with major retailers, positioning Gemini as a powerful virtual merchant.
+**Key Takeaway:** Meta's mass deactivation of underage accounts in Australia marks a significant, immediate consequence of new social media regulations, highlighting the challenges and impacts of age verification and online child safety policies on major tech platforms.
 <!-- NEWS_END -->
 
 ---
