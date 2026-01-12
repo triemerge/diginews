@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, January 12, 2026 at 6:36 AM UTC
+**Last Updated:** Monday, January 12, 2026 at 12:46 PM UTC
 
-### Meta Deactivates Over Half a Million Underage Accounts Following Australian Social Media Ban
+### Accenture Acquires UK AI Business Faculty
 
-Meta has announced that it deactivated more than 544,000 accounts belonging to users under 16 across its Facebook, Instagram, and Threads platforms in Australia. This action comes in the wake of a new Australian ban on social media for individuals under the age of 16, which came into effect a month prior. The deactivated accounts include 330,639 on Instagram, 173,497 on Facebook, and 39,916 on Threads.
+Accenture, a global professional services company, has acquired Faculty, a prominent UK-based artificial intelligence (AI) business. The acquisition aims to enhance Accenture's AI capabilities and expand its talent pool in critical areas such as responsible AI and machine learning operations (MLOps). Faculty is known for its work in developing and deploying AI solutions for various organizations, including government entities and private sector companies. This strategic move is expected to bolster Accenture's ability to deliver advanced AI solutions to its clients globally, further solidifying its position in the rapidly evolving AI market.
 
-The company began deactivating these accounts between December 4 and December 11, 2025, after the ban became law. Meta stated that ongoing compliance with the new regulation will be a "multi-layered process" that they will continue to refine, while reiterating concerns about establishing age online without a universal industry standard. Other major platforms affected by the ban, including Twitch, Kick, YouTube, X, TikTok, and Reddit, had also implemented age checks by December 10, 2025. The Australian government's eSafety commissioner has reportedly inquired about the number of deactivated accounts but has not yet released the data. The effectiveness of the ban and how teens might circumvent it by migrating to other platforms not initially covered is being closely monitored globally.
-
-**Key Takeaway:** Meta's mass deactivation of underage accounts in Australia marks a significant, immediate consequence of new social media regulations, highlighting the challenges and impacts of age verification and online child safety policies on major tech platforms.
+**Key Takeaway:** Accenture's acquisition of UK AI firm Faculty significantly strengthens its capabilities and talent in responsible AI and MLOps, reflecting the ongoing consolidation and growth in the artificial intelligence sector.
 <!-- NEWS_END -->
 
 ---
