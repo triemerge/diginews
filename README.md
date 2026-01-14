@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 14, 2026, 6:34 AM UTC
+**Last Updated:** January 14, 2026, 12:45 PM UTC
 
-### TCS and AMD Forge Strategic Alliance to Accelerate AI Adoption at Scale
+### US Approves Conditional Nvidia AI Chip Exports to China
 
-Tata Consultancy Services (TCS) and AMD have announced a strategic collaboration aimed at helping enterprises globally accelerate their adoption of Artificial Intelligence (AI) from pilot projects to full-scale production. The partnership focuses on modernizing legacy IT environments and building secure, high-performance digital workplaces. This alliance leverages the expertise of both companies to facilitate the broader integration of AI across various industries.
+The United States government has officially approved the sale of Nvidia's second-most-advanced AI processor, the H200, to Chinese companies, albeit under strict conditions. This decision was reported by the South China Morning Post, citing the US Commerce Department's Bureau of Industry and Security. The approval mandates that Nvidia certify there is no domestic shortage of H200 chips, and critically, shipments to China cannot exceed 50% of the total produced for the US market. The Commerce Department will review export applications on a case-by-case basis.
 
-**Key Takeaway:** The collaboration between TCS and AMD signifies a major push to integrate AI more deeply and efficiently into enterprise operations, aiming to unlock new growth opportunities across diverse sectors.
+China, in turn, has clarified its own import policy for the H200 chips, setting new conditions and allowing approval only under special circumstances. Industry analysts, such as Richard Windsor, founder of Radio Free Mobile, suggest that China's directive is deliberately vague but implies that H200 chips will likely be permitted for purposes like university research. Despite these ongoing restrictions, China is reportedly advancing rapidly towards technological independence, and there are concerns within China regarding cybersecurity. Companies like Alibaba and TikTok-parent ByteDance are reportedly keen to place significant orders for the H200. This development underscores the complex interplay of technological competition and trade relations between the US and China, particularly in the critical field of artificial intelligence.
+
+**Key Takeaway:** The US has conditionally approved Nvidia's export of advanced AI chips to China, reflecting a nuanced approach to managing strategic technological competition while allowing some trade.
 <!-- NEWS_END -->
 
 ---
