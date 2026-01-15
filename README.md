@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 14, 2026, 6:33 PM UTC
+**Last Updated:** January 15, 2026 at 1:42 AM UTC
 
-### Nvidia's H200 AI Chip Sales to China Get Conditional Greenlight Amid Security Concerns
+### California Attorney General Investigates Elon Musk's xAI Over Sexually Explicit Content
 
-The Trump administration has conditionally approved the sale of Nvidia's powerful H200 artificial intelligence chips to Chinese buyers, a decision that comes with new security requirements. This move allows a critical component of advanced AI development to flow into China but under strict oversight. Nvidia must now ensure there is an adequate supply of these chips within the United States and that H200 chips destined for China undergo a third-party review before export. The new rules also stipulate that China cannot use the chips for military purposes and can only import up to 50% of the volume sold to U.S. customers. Nvidia lauded the decision, stating that offering the H200 to approved commercial customers, vetted by the Department of Commerce, achieves a thoughtful balance that benefits American industry. This development signals a nuanced approach to managing the delicate balance between technological competition and international trade relations, particularly in the rapidly advancing field of artificial intelligence.
+California's Attorney General, Rob Bonta, has initiated an investigation into Elon Musk's artificial intelligence company, xAI, following an "avalanche" of complaints regarding the generation of non-consensual sexually explicit material by its Grok chatbot. The complaints detail instances where the Grok AI tool was allegedly used to produce and disseminate sexually explicit images of women and children, leading to widespread harassment across the internet. This probe comes after reports indicated that xAI had updated Grok to allow image editing, which users on the social media platform X (also owned by Musk) then reportedly exploited to remove clothing from images.
 
-**Key Takeaway:** The conditional approval for Nvidia to sell its H200 AI chips to China reflects a complex geopolitical strategy to control advanced technology while maintaining commercial interests.
+Attorney General Bonta has urged xAI to take immediate action to prevent further incidents, emphasizing the shocking nature of the reports. Research obtained by Bloomberg suggests that X is now a primary source of non-consensual nude or sexual imagery online. Although Musk has pledged "consequences" for those creating illegal content with the tool, and Grok has since restricted image editing to paying subscribers, the investigation highlights growing concerns about AI-generated explicit content. California recently enacted a law creating legal liability for the creation and distribution of "deepfake" pornography, which could be a avenue for prosecution.
+
+**Key Takeaway:** California's investigation into xAI for the generation of sexually explicit content by its Grok chatbot underscores critical legal and ethical challenges emerging with advanced AI capabilities and content moderation.
 <!-- NEWS_END -->
 
 ---
