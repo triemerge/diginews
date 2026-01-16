@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, January 16, 2026 at 12:43 PM UTC
+**Last Updated:** Friday, January 16, 2026 at 6:32 PM UTC
 
-### Nvidia Denies "End of Life" for RTX 5070 Ti Graphics Cards Amidst Production Claims
+### US Imposes Tariffs on Nvidia AI Chips, Escalating Trade Friction
 
-Nvidia has refuted claims that its RTX 5070 Ti graphics cards have reached "end of life," asserting that all models are still being shipped. This comes after reports from Asus, communicated to a YouTuber, suggested that the company would cease production of all 5070 Ti models. While Nvidia acknowledged that "memory supply is constrained," it explicitly denied that the 5070 Ti series is being discontinued. The initial reports from sources like Hardware Unboxed indicated that the RTX 5070 Ti was "effectively" discontinued, leading to market uncertainty. This development highlights ongoing challenges in the GPU supply chain and the rapid evolution of the graphics card market.
+The White House has announced a new wave of U.S. trade action, implementing a 25% tariff on Nvidia AI chips and other advanced semiconductors. This measure is being framed as a national-security initiative linked to strategic technologies. The immediate impact for enterprises and buyers is expected to be higher effective prices and increased complexity in procurement, particularly for organizations already facing challenges with GPU availability. This development underscores how "AI infrastructure" is rapidly becoming a significant battleground in trade policy, with potential ripple effects across cloud pricing, on-premise hardware refresh cycles, and the overall economics of AI training and inference at scale. Even if major hyperscalers absorb some of these costs, many enterprises are likely to experience downstream consequences through elevated service rates, extended contracts, or tighter allocation terms for AI compute resources.
 
-**Key Takeaway:** Nvidia maintains that its RTX 5070 Ti graphics cards are not discontinued, despite reports from partners about production halts and memory supply constraints.
+**Key Takeaway:** New US tariffs on Nvidia AI chips are set to increase costs and complicate global supply chains for critical AI hardware, marking a significant geopolitical shift in the technology sector.
 <!-- NEWS_END -->
 
 ---
