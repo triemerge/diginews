@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 16, 2026, 1:44 AM UTC
+**Last Updated:** Friday, January 16, 2026 at 6:33 AM UTC
 
-### Gemini Gains Personal Intelligence for Enhanced Responses
+### OpenAI Invests in Sam Altman's Brain-Computer Interface Startup, Merge Labs
 
-Google's AI model, Gemini, has introduced a new "Personal Intelligence" feature that allows it to personalize responses by accessing and utilizing data from a user's Google applications. This capability is initially available to Google's AI Pro and AI Ultra subscribers and can draw information from four of the company's products at launch. The integration aims to make Gemini's interactions more relevant and tailored to individual user needs by leveraging their existing data within the Google ecosystem.
+OpenAI, the creator of ChatGPT, has announced an investment in Merge Labs, a brain-computer interface (BCI) startup founded by OpenAI CEO Sam Altman. The move signals a direct challenge to Elon Musk's Neuralink, as Merge Labs aims to develop safe and scalable BCIs that could allow humans to interact directly with artificial intelligence through neural signals.
 
-**Key Takeaway:** Google's Gemini is enhancing its personalization by integrating with user data across Google apps, marking a significant step in AI's contextual understanding and utility.
+Merge Labs' mission is centered on bridging biological and artificial intelligence to enhance human ability, agency, and experience. While the size of OpenAI's investment has not been disclosed, this partnership underscores OpenAI's expanding interest in technologies that extend beyond software into hardware and human augmentation. Merge Labs is focused on creating fundamentally new approaches to BCIs that offer higher bandwidth interfaces with the brain.
+
+**Key Takeaway:** OpenAI's investment in Merge Labs marks a significant step towards the future integration of AI with direct human neural interaction, intensifying the race in the brain-computer interface sector.
 <!-- NEWS_END -->
 
 ---
