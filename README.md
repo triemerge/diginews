@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, January 16, 2026 at 6:33 AM UTC
+**Last Updated:** Friday, January 16, 2026 at 12:43 PM UTC
 
-### OpenAI Invests in Sam Altman's Brain-Computer Interface Startup, Merge Labs
+### Nvidia Denies "End of Life" for RTX 5070 Ti Graphics Cards Amidst Production Claims
 
-OpenAI, the creator of ChatGPT, has announced an investment in Merge Labs, a brain-computer interface (BCI) startup founded by OpenAI CEO Sam Altman. The move signals a direct challenge to Elon Musk's Neuralink, as Merge Labs aims to develop safe and scalable BCIs that could allow humans to interact directly with artificial intelligence through neural signals.
+Nvidia has refuted claims that its RTX 5070 Ti graphics cards have reached "end of life," asserting that all models are still being shipped. This comes after reports from Asus, communicated to a YouTuber, suggested that the company would cease production of all 5070 Ti models. While Nvidia acknowledged that "memory supply is constrained," it explicitly denied that the 5070 Ti series is being discontinued. The initial reports from sources like Hardware Unboxed indicated that the RTX 5070 Ti was "effectively" discontinued, leading to market uncertainty. This development highlights ongoing challenges in the GPU supply chain and the rapid evolution of the graphics card market.
 
-Merge Labs' mission is centered on bridging biological and artificial intelligence to enhance human ability, agency, and experience. While the size of OpenAI's investment has not been disclosed, this partnership underscores OpenAI's expanding interest in technologies that extend beyond software into hardware and human augmentation. Merge Labs is focused on creating fundamentally new approaches to BCIs that offer higher bandwidth interfaces with the brain.
-
-**Key Takeaway:** OpenAI's investment in Merge Labs marks a significant step towards the future integration of AI with direct human neural interaction, intensifying the race in the brain-computer interface sector.
+**Key Takeaway:** Nvidia maintains that its RTX 5070 Ti graphics cards are not discontinued, despite reports from partners about production halts and memory supply constraints.
 <!-- NEWS_END -->
 
 ---
