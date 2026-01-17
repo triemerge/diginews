@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 17, 2026, 6:30 AM UTC
+**Last Updated:** Friday, January 17, 2026 at 12:38 PM UTC
 
-### China Blocks Nvidia H200 AI Chip Shipments, Halting Production for Suppliers
+### Justice Department Calls for Google Breakup and Chrome Sale
 
-Chinese customs officials have reportedly blocked shipments of Nvidia's newly approved H200 artificial intelligence processors from entering China, leading to a halt in production by parts suppliers for the chip. The Financial Times reported this development, citing sources familiar with the matter, though Reuters could not immediately verify the report. Nvidia, which did not immediately respond to requests for comment, had anticipated over one million orders from Chinese clients for the H200 chips, with suppliers operating around the clock for planned shipments as early as March. This move by Chinese authorities signals a new escalation in the ongoing technology tensions between the U.S. and China, particularly concerning advanced AI semiconductors. The H200 chip is Nvidia's second most powerful AI chip, and the directive to customs agents against its entry, without formal reasons or an indication of whether it's a temporary or permanent ban, creates significant uncertainty in the global AI supply chain and market.
+The U.S. Justice Department has reportedly called for a significant restructuring of Google, proposing the sale of its dominant Chrome web browser and imposing restrictions aimed at preventing its Android smartphone software from favoring its own search engine. This move represents a major regulatory challenge to one of the world's largest technology companies and could have far-reaching implications for competition within the digital landscape. The proposed breakup targets Google's core businesses, aiming to address concerns about its market dominance and potential anti-competitive practices.
 
-**Key Takeaway:** China's blocking of Nvidia's H200 AI chip shipments marks a significant escalation in U.S.-China tech rivalry, disrupting global AI supply chains and impacting the future availability of advanced AI processors in a critical market.
+**Key Takeaway:** The Justice Department's push for Google to divest Chrome and alter Android's favoritism toward its search engine signals a substantial escalation in antitrust efforts against major tech firms.
 <!-- NEWS_END -->
 
 ---
