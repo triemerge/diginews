@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, January 16, 2026 at 6:32 PM UTC
+**Last Updated:** Friday, January 17, 2026, 1:38 AM UTC
 
-### US Imposes Tariffs on Nvidia AI Chips, Escalating Trade Friction
+### OpenAI to Introduce Advertisements in ChatGPT
 
-The White House has announced a new wave of U.S. trade action, implementing a 25% tariff on Nvidia AI chips and other advanced semiconductors. This measure is being framed as a national-security initiative linked to strategic technologies. The immediate impact for enterprises and buyers is expected to be higher effective prices and increased complexity in procurement, particularly for organizations already facing challenges with GPU availability. This development underscores how "AI infrastructure" is rapidly becoming a significant battleground in trade policy, with potential ripple effects across cloud pricing, on-premise hardware refresh cycles, and the overall economics of AI training and inference at scale. Even if major hyperscalers absorb some of these costs, many enterprises are likely to experience downstream consequences through elevated service rates, extended contracts, or tighter allocation terms for AI compute resources.
+OpenAI is reportedly planning to introduce advertisements within its popular generative AI chatbot, ChatGPT. This development marks a significant shift in the company's business model, moving beyond its existing subscription tiers to include an ad-supported revenue stream. While specific details regarding the ad formats or their implementation are still emerging, the move indicates OpenAI's strategy to monetize the widely-used AI platform more broadly. The introduction of ads could impact the user experience for millions of ChatGPT users and reshape how AI services are delivered and funded in the future.
 
-**Key Takeaway:** New US tariffs on Nvidia AI chips are set to increase costs and complicate global supply chains for critical AI hardware, marking a significant geopolitical shift in the technology sector.
+**Key Takeaway:** OpenAI is transitioning ChatGPT towards an ad-supported model, fundamentally altering its monetization strategy and potential user experience.
 <!-- NEWS_END -->
 
 ---
