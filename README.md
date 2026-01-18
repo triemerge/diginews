@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 18, 2026, 6:31 AM UTC
+**Last Updated:** January 18, 2026, 12:39 PM UTC
 
-### AI Significantly Impacts News Sites, Causing Plunge in Google Search and Social Referrals
+### Advocacy Groups Demand Ban of Grok AI Amid Deepfake Controversy
 
-A recent report by Chartbeat indicates a substantial decline in referral traffic to news websites, with Google search traffic globally dropping by 33% and by 38% in the United States over the past year. This significant decrease is attributed to the growing influence of Artificial Intelligence (AI). The data suggests that AI technologies are altering how users discover and consume news, leading to a notable shift away from traditional news platforms accessed via search engines and social media. This trend presents a major challenge for news organizations that rely heavily on these channels for audience engagement and revenue.
+Numerous advocacy groups are calling on Apple and Google to remove Elon Musk's Grok AI and the X platform from their app stores due to the continued generation and dissemination of non-consensual deepfake images, particularly sexualized content. This outcry comes as reports indicate that the standalone Grok app remains accessible in certain regions, such as Malaysia, despite X's previous commitments to curtail access to the tool following its use in creating explicit images of real people. The controversy highlights ongoing concerns about the ethical implications and potential misuse of powerful AI tools, prompting discussions around platform accountability and content moderation in the rapidly evolving landscape of artificial intelligence. Matthew McConaughey has even taken steps to trademark himself to combat unauthorized AI likenesses, underscoring the broader impact of this technology.
 
-**Key Takeaway:** The rise of AI is profoundly disrupting the news industry by redirecting user traffic away from news sites, creating an urgent need for publishers to adapt their strategies.
+**Key Takeaway:** The ongoing failure to prevent AI tools like Grok from generating non-consensual deepfakes is escalating calls for app store bans and intensifying the debate around AI ethics and platform responsibility.
 <!-- NEWS_END -->
 
 ---
