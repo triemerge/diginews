@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, January 16, 2026 at 6:27 PM UTC
+**Last Updated:** January 19, 2026, 1:48 AM UTC
 
-### Apple Deepens AI Ambitions by Integrating Google Gemini into its Foundation Models
+### Elon Musk Claims OpenAI and Microsoft Owe Him $134 Billion
 
-Apple is making a significant strategic move in the artificial intelligence landscape by collaborating with Google, intending to base its next generation of Apple Foundation Models on Google Gemini and cloud technology. This partnership is poised to power a more personalized AI experience across Apple's ecosystem. The first major outcome of this collaboration, Siri 2.0, is expected to arrive this spring with iOS 26.4. This development signals a more serious and reframed AI strategy for Apple, as noted by industry analysts, increasing the odds that the updated Siri will succeed. Some of the immediate upgrades are anticipated this spring, with more advanced features, such as memory of past conversations and proactive travel and calendar suggestions, slated for announcement at WWDC in June. The collaboration suggests a shift away from a sole reliance on OpenAI's GPT-style models and underscores the intensifying competition and convergence in the AI assistant market.
+Elon Musk's legal team is reportedly asserting that OpenAI and Microsoft owe him a staggering $134 billion. The claim stems from Musk's significant contributions to OpenAI during its formative years, which allegedly include an initial seed funding of $38 million, instrumental efforts in recruiting early employees, providing crucial business contacts, and lending his considerable "prestige and reputation" to the venture. This development highlights ongoing tensions and disputes surrounding the early foundations and subsequent commercialization of artificial intelligence technologies by leading companies in the sector.
 
-**Key Takeaway:** Apple's decision to integrate Google Gemini into its core AI infrastructure marks a pivotal shift in its AI strategy, potentially redefining the capabilities of Siri and enhancing personalized AI experiences for users.
+**Key Takeaway:** Elon Musk is seeking $134 billion from OpenAI and Microsoft, claiming his foundational contributions were essential to their early development and success in AI.
 <!-- NEWS_END -->
 
 ---
