@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, January 19, 2026 at 12:49 PM UTC
+**Last Updated:** Monday, January 19, 2026 at 6:32 PM UTC
 
-### "Physical AI" Emerges as Dominant Trend at CES 2026
+### BlackRock Signals Major Shift in AI Investment Strategy Towards Infrastructure and Energy
 
-The Consumer Electronics Show (CES) 2026 highlighted "physical AI" as the leading buzzword, signaling a significant shift in the artificial intelligence landscape from software-focused applications to smart hardware. After years dominated by AI chatbots and digital assistants, the industry is now geared towards integrating AI into tangible devices that interact with the physical world. This pervasive theme was evident across numerous exhibits at CES, showcasing a future where physical devices are endowed with enhanced intelligence and practicality.
+BlackRock, a leading global asset manager, has indicated a significant evolution in artificial intelligence (AI) investment for 2026, pivoting from platform builders and model designers to companies that supply and sustain the essential ecosystem for AI to function at scale. This strategic shift, outlined in BlackRock's latest Investment Directions report, highlights a growing focus on energy providers, grid infrastructure, and long-term power planning as critical areas for returns. The report suggests that while AI remains central to investment portfolios, the momentum that drove tech giants in 2025 is now spreading across a wider ecosystem, with private markets expected to play a larger role in funding efficiency upgrades and grid improvements. This re-evaluation by BlackRock, based on interviews with over 700 EMEA clients, underscores the recognition that AI's expansion is intrinsically linked to robust physical infrastructure and a stable, clean energy supply.
 
-Exemplifying this trend were innovations spanning various sectors, including self-driving vehicles capable of handling complex road nuances without constant human intervention, advanced humanoid robots for factory work, and a new generation of companion robots designed for emotional support. The vision presented by industry leaders, such as Nvidia CEO Jensen Huang, suggests that as AI models become more accessible, the ability to program and customize robots will extend beyond large corporations to individuals for both professional and domestic applications. This indicates a move towards making physical devices more intelligent and functional in everyday scenarios, from troubleshooting assembly line anomalies to providing comfort.
-
-**Key Takeaway:** The tech industry is rapidly moving towards "physical AI," embedding artificial intelligence into tangible hardware to create smarter, more practical devices that interact directly with the real world, marking a significant evolution from software-centric AI.
+**Key Takeaway:** BlackRock's updated investment strategy signals a critical shift in the AI industry, where the focus and capital are now moving towards foundational energy and infrastructure to support scalable AI growth.
 <!-- NEWS_END -->
 
 ---
