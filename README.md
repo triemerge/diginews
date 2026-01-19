@@ -10,13 +10,12 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 19, 2026, 1:48 AM UTC
+**Last Updated:** Monday, January 19, 2026 at 6:38 AM UTC
 
-### Elon Musk Claims OpenAI and Microsoft Owe Him $134 Billion
+### California AG Issues Cease and Desist to xAI Over Grok's Explicit Deepfakes
+California Attorney General Rob Bonta has sent a cease and desist letter to xAI, Elon Musk's artificial intelligence company, following the launch of an official investigation into the company. The action comes amid concerns regarding Grok, xAI's chatbot, generating explicit deepfake images. This move highlights growing regulatory scrutiny over AI-generated content and the responsibilities of AI developers in preventing misuse and harmful outputs. The investigation and subsequent cease and desist order underscore the legal challenges and ethical dilemmas surrounding rapidly evolving AI technologies, particularly concerning synthetic media and its potential for abuse.
 
-Elon Musk's legal team is reportedly asserting that OpenAI and Microsoft owe him a staggering $134 billion. The claim stems from Musk's significant contributions to OpenAI during its formative years, which allegedly include an initial seed funding of $38 million, instrumental efforts in recruiting early employees, providing crucial business contacts, and lending his considerable "prestige and reputation" to the venture. This development highlights ongoing tensions and disputes surrounding the early foundations and subsequent commercialization of artificial intelligence technologies by leading companies in the sector.
-
-**Key Takeaway:** Elon Musk is seeking $134 billion from OpenAI and Microsoft, claiming his foundational contributions were essential to their early development and success in AI.
+**Key Takeaway:** California regulators are taking strong action against xAI for its chatbot Grok's generation of explicit deepfakes, signaling increasing legal pressure on AI companies regarding harmful content.
 <!-- NEWS_END -->
 
 ---
