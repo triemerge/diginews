@@ -10,15 +10,17 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 20, 2026, 6:36 AM UTC
+**Last Updated:** Tuesday, January 20, 2026 at 12:49 PM UTC
 
-### X Open-Sources New Recommendation Algorithm in Bid for Transparency
+### SC Ventures and Fujitsu Launch Quantum Computing Joint Venture, Qubitra Technologies
 
-X, formerly Twitter, has officially open-sourced its new recommendation algorithm as of January 20, 2026, delivering on a promise made by CEO Elon Musk. The move aims to enhance transparency regarding how organic and advertising posts are recommended to users on the social media platform. This initiative is a response to increasing pressure from regulators, including the European Commission, France, and the UK, concerning content moderation and algorithmic bias.
+Standard Chartered's venture capital arm, SC Ventures, has partnered with Japanese technology giant Fujitsu to establish a new joint venture named Qubitra Technologies. Unveiled today, January 20, 2026, Qubitra aims to accelerate quantum capabilities and value by integrating quantum resources and talent onto a digital platform.
 
-The company plans to release updated code and comprehensive developer notes every four weeks, allowing outside developers and researchers to review the system and propose technical improvements. Musk had initially pledged to open-source the algorithm in 2023, with a version made available then, but without subsequent updates. The current commitment ensures ongoing transparency and collaboration in the algorithm's development.
+Based in the UK, Qubitra will leverage a superconducting quantum computer developed by Fujitsu. The platform is designed to provide developers with pre-built algorithms specifically tailored for financial applications, including fraud detection, risk simulations, derivative pricing, and credit decision-making. The new company, initially incubated as Project Quanta since September last year, plans a two-part strategy. The first part focuses on delivering "high-performance, quantum-enabled applications" for financial institutions, hedge funds, and family offices, with initial implementations expected in early 2026. The second part will involve creating a digital marketplace platform to host software, hardware, and open-source tools from various third-party providers, alongside Fujitsu's own technologies such as the Digital Annealer.
 
-**Key Takeaway:** X (formerly Twitter) has open-sourced its new recommendation algorithm, increasing transparency and inviting external scrutiny to address concerns about algorithmic bias and content moderation.
+The founding leadership team for Qubitra includes Vishal Shete as CEO, Daniel Wynne as COO, and Kugendran Naidoo as chief scientific officer.
+
+**Key Takeaway:** A new joint venture between SC Ventures and Fujitsu is set to advance quantum computing applications for the financial sector, providing specialized algorithms and a platform for quantum development.
 <!-- NEWS_END -->
 
 ---
