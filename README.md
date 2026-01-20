@@ -10,12 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 20, 2026, 1:43 AM UTC
+**Last Updated:** January 20, 2026, 6:36 AM UTC
 
-### Asus Hints at Potential Exit from Smartphone Market, Confirms Support for Existing Devices
-Asus Chairman Jonney Shih has stated that the company will continue to provide software updates and warranty assistance for its current smartphone lineup. This assurance comes amid broader news suggesting that Asus may not launch any new phones in 2026 and could potentially withdraw from the Android smartphone market entirely. While the company commits to supporting existing users, the long-term future of Asus in the mobile phone sector appears uncertain, indicating a strategic re-evaluation of its presence in the highly competitive smartphone industry.
+### X Open-Sources New Recommendation Algorithm in Bid for Transparency
 
-**Key Takeaway:** Asus is signaling a significant shift away from the Android smartphone market by potentially halting new phone launches in 2026, though it reassures continued support for existing devices.
+X, formerly Twitter, has officially open-sourced its new recommendation algorithm as of January 20, 2026, delivering on a promise made by CEO Elon Musk. The move aims to enhance transparency regarding how organic and advertising posts are recommended to users on the social media platform. This initiative is a response to increasing pressure from regulators, including the European Commission, France, and the UK, concerning content moderation and algorithmic bias.
+
+The company plans to release updated code and comprehensive developer notes every four weeks, allowing outside developers and researchers to review the system and propose technical improvements. Musk had initially pledged to open-source the algorithm in 2023, with a version made available then, but without subsequent updates. The current commitment ensures ongoing transparency and collaboration in the algorithm's development.
+
+**Key Takeaway:** X (formerly Twitter) has open-sourced its new recommendation algorithm, increasing transparency and inviting external scrutiny to address concerns about algorithmic bias and content moderation.
 <!-- NEWS_END -->
 
 ---
