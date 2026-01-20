@@ -10,17 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Tuesday, January 20, 2026 at 12:49 PM UTC
+**Last Updated:** January 20, 2026, 6:36 PM UTC
 
-### SC Ventures and Fujitsu Launch Quantum Computing Joint Venture, Qubitra Technologies
+### Elon Musk Seeks $134 Billion Payout from OpenAI and Microsoft
 
-Standard Chartered's venture capital arm, SC Ventures, has partnered with Japanese technology giant Fujitsu to establish a new joint venture named Qubitra Technologies. Unveiled today, January 20, 2026, Qubitra aims to accelerate quantum capabilities and value by integrating quantum resources and talent onto a digital platform.
+Elon Musk is reportedly demanding a colossal $134 billion payout from artificial intelligence powerhouse OpenAI and tech giant Microsoft. This significant development stems from his claims that the companies have veered from OpenAI's original non-profit mission. The news emerged as one of the biggest stories in the tech world this morning.
 
-Based in the UK, Qubitra will leverage a superconducting quantum computer developed by Fujitsu. The platform is designed to provide developers with pre-built algorithms specifically tailored for financial applications, including fraud detection, risk simulations, derivative pricing, and credit decision-making. The new company, initially incubated as Project Quanta since September last year, plans a two-part strategy. The first part focuses on delivering "high-performance, quantum-enabled applications" for financial institutions, hedge funds, and family offices, with initial implementations expected in early 2026. The second part will involve creating a digital marketplace platform to host software, hardware, and open-source tools from various third-party providers, alongside Fujitsu's own technologies such as the Digital Annealer.
-
-The founding leadership team for Qubitra includes Vishal Shete as CEO, Daniel Wynne as COO, and Kugendran Naidoo as chief scientific officer.
-
-**Key Takeaway:** A new joint venture between SC Ventures and Fujitsu is set to advance quantum computing applications for the financial sector, providing specialized algorithms and a platform for quantum development.
+**Key Takeaway:** Elon Musk's substantial financial claim against OpenAI and Microsoft marks a major escalation in the ongoing dispute over the direction and commercialization of leading AI technologies.
 <!-- NEWS_END -->
 
 ---
