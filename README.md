@@ -10,13 +10,12 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, January 19, 2026 at 6:32 PM UTC
+**Last Updated:** January 20, 2026, 1:43 AM UTC
 
-### BlackRock Signals Major Shift in AI Investment Strategy Towards Infrastructure and Energy
+### Asus Hints at Potential Exit from Smartphone Market, Confirms Support for Existing Devices
+Asus Chairman Jonney Shih has stated that the company will continue to provide software updates and warranty assistance for its current smartphone lineup. This assurance comes amid broader news suggesting that Asus may not launch any new phones in 2026 and could potentially withdraw from the Android smartphone market entirely. While the company commits to supporting existing users, the long-term future of Asus in the mobile phone sector appears uncertain, indicating a strategic re-evaluation of its presence in the highly competitive smartphone industry.
 
-BlackRock, a leading global asset manager, has indicated a significant evolution in artificial intelligence (AI) investment for 2026, pivoting from platform builders and model designers to companies that supply and sustain the essential ecosystem for AI to function at scale. This strategic shift, outlined in BlackRock's latest Investment Directions report, highlights a growing focus on energy providers, grid infrastructure, and long-term power planning as critical areas for returns. The report suggests that while AI remains central to investment portfolios, the momentum that drove tech giants in 2025 is now spreading across a wider ecosystem, with private markets expected to play a larger role in funding efficiency upgrades and grid improvements. This re-evaluation by BlackRock, based on interviews with over 700 EMEA clients, underscores the recognition that AI's expansion is intrinsically linked to robust physical infrastructure and a stable, clean energy supply.
-
-**Key Takeaway:** BlackRock's updated investment strategy signals a critical shift in the AI industry, where the focus and capital are now moving towards foundational energy and infrastructure to support scalable AI growth.
+**Key Takeaway:** Asus is signaling a significant shift away from the Android smartphone market by potentially halting new phone launches in 2026, though it reassures continued support for existing devices.
 <!-- NEWS_END -->
 
 ---
