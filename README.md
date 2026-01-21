@@ -10,15 +10,17 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 21, 2026, 12:49 PM UTC
+**Last Updated:** January 21, 2026, 6:41 PM UTC
 
-### EU Broadens Scope to Phase Out 'High-Risk' Tech Suppliers Across Critical Sectors
+### Meta Warns EU Against Targeting US Tech Firms Amid Greenland Tariff Threat
 
-The European Union has unveiled a significant draft proposal aiming to phase out components and equipment from "high-risk suppliers" across 18 critical sectors, extending far beyond the existing focus on mobile networks. This move, which implicitly targets Chinese telecommunications giants like Huawei, will impact areas such as medical devices and cloud services, signaling a deepened commitment to cybersecurity and economic independence. The proposal, released on Tuesday, has already drawn strong criticism from companies likely to be affected, with Huawei being a prime example.
+A senior executive at Meta has issued a warning to the European Union, stating that it would be "self-defeating" for Europe to retaliate against potential U.S. tariffs by targeting the American technology industry. Joel Kaplan, Meta's Chief Global Affairs Officer, made these remarks on Wednesday, January 21, 2026, on the sidelines of the World Economic Forum in Davos. His comments come as discussions continue regarding President Donald Trump's threatened tariffs on countries opposing a U.S. takeover of Greenland.
 
-The initiative comes amidst heightened concerns over cyber threats, espionage, and geopolitical leverage, pushing the EU to implement stricter oversight of its digital infrastructure supply chains. Under the draft rules, mobile network operators would have a 36-month grace period from the formal identification of a high-risk supplier to replace key components, while timelines for fixed networks are yet to be announced. By expanding restrictions to such a wide array of critical sectors, Brussels emphasizes that cybersecurity is now integral to both economic and physical security.
+Kaplan emphasized that such a move by Europe would not be in its best interest, highlighting the reliance of millions of European small businesses on U.S. tech services for reaching customers, growing their operations, and creating jobs. He suggested that targeting U.S. tech firms, which dominate markets in smartphones, IT operating systems, social media, and cloud services in Europe, could lead to a "further retaliatory spiral" that would negatively impact everyone involved.
 
-**Key Takeaway:** The EU is significantly expanding its regulatory efforts to remove "high-risk" tech suppliers from 18 critical sectors, a move with major geopolitical and economic implications for global technology companies.
+Treasury Secretary Scott Bessent also urged European officials to engage in discussions with President Trump in Davos, rather than reacting with "reflexive anger," to understand his arguments regarding the acquisition of Greenland. European officials are reportedly considering various responses, including the activation of the EU's "anti-coercion" mechanism, which could involve tariffs on U.S. goods or restrictions on U.S. firms from participating in European tenders.
+
+**Key Takeaway:** Meta warns that European retaliation against potential U.S. tariffs on countries opposing a Greenland takeover by targeting American tech firms would be detrimental to Europe's own economic interests.
 <!-- NEWS_END -->
 
 ---
