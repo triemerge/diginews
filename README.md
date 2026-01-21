@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 21, 2026, 1:46 AM UTC
+**Last Updated:** Wednesday, January 21, 2026 at 6:36 AM UTC
 
-### OpenAI's Ambitious Advertising Revenue Projections Threaten Google's Dominance
+### Taiwan and US Forge Strategic High-Tech and AI Supply Chain Partnership
 
-OpenAI, the creator of the popular ChatGPT, is projected to achieve a staggering $25 billion in annual advertising revenue by 2030, a forecast that suggests a significant challenge to Google's long-standing dominance in the digital advertising market. This ambitious projection, made by tech analysts, hinges on OpenAI's successful integration of advertising and its ability to leverage valuable user intent data. Analysts believe that if OpenAI can effectively implement conversational ad experiences within ChatGPT, it could prompt advertisers to reallocate their marketing budgets, particularly given the platform's high-intent user engagement. While acknowledging Google's entrenched ecosystem, including its Chrome browser and established user habits, the potential for a new, powerful competitor in the advertising space is seen as a significant development.
+Taiwan and the United States have formalized a new tariffs deal aimed at establishing a "democratic" high-tech supply chain and a strategic artificial intelligence (AI) partnership. The agreement, announced yesterday by Taipei's top negotiator, seeks to bolster US production of semiconductors, particularly those crucial for AI development, with substantial investments from Taiwanese companies. Under the terms of the deal, chipmakers like Taiwan Semiconductor Manufacturing Co (TSMC) that expand their manufacturing capacity in the US will benefit from lower tariffs on imported semiconductors and related equipment, with some items even entering duty-free.
 
-**Key Takeaway:** OpenAI's projected $25 billion in annual ad revenue by 2030 signals a potential major disruption to Google's digital advertising hegemony, fueled by the evolving landscape of AI-powered conversational platforms.
+This long-negotiated agreement also includes a reduction in broad tariffs on most other Taiwanese exports to the US, from 20 percent to 15 percent. Taiwanese enterprises are poised to invest a considerable $250 billion to boost semiconductor and AI production in the US, complemented by an additional $250 billion in credit guaranteed by Taiwan to facilitate further investment. Vice Premier Cheng Li-chiun emphasized that this deal is not intended to diminish Taiwan's vital chip industry but rather to empower its high-tech sectors to expand their international footprint, particularly in the United States. Chipmakers increasing their US presence will be permitted to import up to 2.5 times their new capacity of semiconductors and wafers without extra tariffs during an approved construction period, and will receive preferential treatment for quantities exceeding this quota.
+
+**Key Takeaway:** The new US-Taiwan agreement is a landmark deal poised to significantly reshape global high-tech supply chains and accelerate AI development through massive investments and strategic partnerships.
 <!-- NEWS_END -->
 
 ---
