@@ -10,15 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Wednesday, January 21, 2026 at 6:36 AM UTC
+**Last Updated:** Wednesday, January 21, 2026 at 8:37 AM UTC
 
-### Taiwan and US Forge Strategic High-Tech and AI Supply Chain Partnership
+### AI Inferencing Startup Baseten Secures $300 Million Funding, Valued at $5 Billion
 
-Taiwan and the United States have formalized a new tariffs deal aimed at establishing a "democratic" high-tech supply chain and a strategic artificial intelligence (AI) partnership. The agreement, announced yesterday by Taipei's top negotiator, seeks to bolster US production of semiconductors, particularly those crucial for AI development, with substantial investments from Taiwanese companies. Under the terms of the deal, chipmakers like Taiwan Semiconductor Manufacturing Co (TSMC) that expand their manufacturing capacity in the US will benefit from lower tariffs on imported semiconductors and related equipment, with some items even entering duty-free.
+Baseten, an AI inferencing startup, has successfully raised $300 million in a new growth capital funding round, pushing its valuation to an impressive $5 billion. The investment round was spearheaded by Institutional Venture Partners and CapitalG, Alphabet's growth fund known for its focus on late-stage investments. Chip manufacturing giant Nvidia also participated, reportedly contributing approximately $150 million to the round. This development, first reported by SiliconANGLE based on Wall Street Journal coverage, highlights the escalating demand for robust infrastructure to deploy AI models in production environments.
 
-This long-negotiated agreement also includes a reduction in broad tariffs on most other Taiwanese exports to the US, from 20 percent to 15 percent. Taiwanese enterprises are poised to invest a considerable $250 billion to boost semiconductor and AI production in the US, complemented by an additional $250 billion in credit guaranteed by Taiwan to facilitate further investment. Vice Premier Cheng Li-chiun emphasized that this deal is not intended to diminish Taiwan's vital chip industry but rather to empower its high-tech sectors to expand their international footprint, particularly in the United States. Chipmakers increasing their US presence will be permitted to import up to 2.5 times their new capacity of semiconductors and wafers without extra tariffs during an approved construction period, and will receive preferential treatment for quantities exceeding this quota.
+Baseten specializes in building infrastructure designed to run AI models in production. The company's core focus is on "inference," which is the critical stage where a trained AI model is actively used to generate predictions or answers. As more organizations integrate AI applications into their operations, there is a growing need for reliable, scalable, and low-latency infrastructure to execute these models efficiently. Baseten's platform aims to simplify the operationalization of machine learning models, allowing teams to deploy models with minimal configuration, automatically managing resources, and optimizing execution across GPUs in various cloud environments. Beyond model execution, the platform also provides crucial management and monitoring functionalities, enabling teams to track performance and manage different versions of their AI models.
 
-**Key Takeaway:** The new US-Taiwan agreement is a landmark deal poised to significantly reshape global high-tech supply chains and accelerate AI development through massive investments and strategic partnerships.
+**Key Takeaway:** Significant new funding for Baseten, with participation from Nvidia and Alphabet, underscores the critical and rapidly expanding market for infrastructure that enables efficient AI model deployment.
 <!-- NEWS_END -->
 
 ---
