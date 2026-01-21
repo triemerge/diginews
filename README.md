@@ -10,15 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Wednesday, January 21, 2026 at 8:37 AM UTC
+**Last Updated:** January 21, 2026, 12:49 PM UTC
 
-### AI Inferencing Startup Baseten Secures $300 Million Funding, Valued at $5 Billion
+### EU Broadens Scope to Phase Out 'High-Risk' Tech Suppliers Across Critical Sectors
 
-Baseten, an AI inferencing startup, has successfully raised $300 million in a new growth capital funding round, pushing its valuation to an impressive $5 billion. The investment round was spearheaded by Institutional Venture Partners and CapitalG, Alphabet's growth fund known for its focus on late-stage investments. Chip manufacturing giant Nvidia also participated, reportedly contributing approximately $150 million to the round. This development, first reported by SiliconANGLE based on Wall Street Journal coverage, highlights the escalating demand for robust infrastructure to deploy AI models in production environments.
+The European Union has unveiled a significant draft proposal aiming to phase out components and equipment from "high-risk suppliers" across 18 critical sectors, extending far beyond the existing focus on mobile networks. This move, which implicitly targets Chinese telecommunications giants like Huawei, will impact areas such as medical devices and cloud services, signaling a deepened commitment to cybersecurity and economic independence. The proposal, released on Tuesday, has already drawn strong criticism from companies likely to be affected, with Huawei being a prime example.
 
-Baseten specializes in building infrastructure designed to run AI models in production. The company's core focus is on "inference," which is the critical stage where a trained AI model is actively used to generate predictions or answers. As more organizations integrate AI applications into their operations, there is a growing need for reliable, scalable, and low-latency infrastructure to execute these models efficiently. Baseten's platform aims to simplify the operationalization of machine learning models, allowing teams to deploy models with minimal configuration, automatically managing resources, and optimizing execution across GPUs in various cloud environments. Beyond model execution, the platform also provides crucial management and monitoring functionalities, enabling teams to track performance and manage different versions of their AI models.
+The initiative comes amidst heightened concerns over cyber threats, espionage, and geopolitical leverage, pushing the EU to implement stricter oversight of its digital infrastructure supply chains. Under the draft rules, mobile network operators would have a 36-month grace period from the formal identification of a high-risk supplier to replace key components, while timelines for fixed networks are yet to be announced. By expanding restrictions to such a wide array of critical sectors, Brussels emphasizes that cybersecurity is now integral to both economic and physical security.
 
-**Key Takeaway:** Significant new funding for Baseten, with participation from Nvidia and Alphabet, underscores the critical and rapidly expanding market for infrastructure that enables efficient AI model deployment.
+**Key Takeaway:** The EU is significantly expanding its regulatory efforts to remove "high-risk" tech suppliers from 18 critical sectors, a move with major geopolitical and economic implications for global technology companies.
 <!-- NEWS_END -->
 
 ---
