@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 22, 2026, 1:46 AM UTC
+**Last Updated:** Thursday, January 22, 2026 at 6:34 AM UTC
 
-### Apple Reportedly Overhauling Siri into an AI Chatbot and Developing a Wearable AI Pin
+### Global Chip Stocks Surge as Nvidia CEO Fuels AI Enthusiasm at Davos
 
-Apple is reportedly making a significant strategic push into artificial intelligence, with plans to transform its virtual assistant Siri into a more advanced AI chatbot and to develop a new wearable AI pin. These developments signal a major shift in Apple's approach to AI, as the company has been perceived by some to be lagging behind competitors in the rapidly evolving AI landscape. The overhaul of Siri is expected to bring more sophisticated conversational capabilities, aligning it with the functionalities seen in other modern AI chatbots. Concurrently, the rumored development of a wearable AI pin suggests Apple is exploring new form factors for integrating artificial intelligence directly into users' daily lives, potentially expanding beyond its traditional device ecosystem. This comprehensive AI strategy indicates Apple's intent to reassert its presence in the AI sector through both software enhancements and innovative hardware.
+Global semiconductor stocks have experienced a significant surge, with Nvidia CEO Jensen Huang's remarks at the World Economic Forum in Davos reinforcing investor confidence in the artificial intelligence (AI) sector. On Thursday, memory chipmaker Samsung Electronics Co. saw its shares jump by as much as 5% to an unprecedented high, pushing South Korea's benchmark Kospi index above 5,000 for the first time. This follows a more than 3% increase in the Philadelphia Semiconductor Index on Wednesday, largely driven by Nvidia.
 
-**Key Takeaway:** Apple is reportedly embarking on a significant dual-pronged AI strategy by transforming Siri into an advanced AI chatbot and developing a wearable AI pin, signaling a major push to integrate artificial intelligence deeply into its ecosystem and future products.
+Huang's comments at the forum further fueled this rally, as he highlighted that the global expansion of AI infrastructure will necessitate trillions of dollars in investment. Analysts note that the "AI Revolution" is a dominant theme at Davos, with the US tech sector leading the charge. This AI boom continues robustly into 2026, despite concerns over high valuations and international tensions. Further insights into crucial industry capital expenditure plans are anticipated with upcoming earnings reports from major tech companies like Intel Corp, Apple Inc, and Meta Platforms Inc.
+
+**Key Takeaway:** Investor enthusiasm for AI, propelled by Nvidia's CEO at Davos, is driving a substantial rally in global semiconductor stocks, signaling massive future investments in AI infrastructure.
 <!-- NEWS_END -->
 
 ---
