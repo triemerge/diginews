@@ -10,17 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 21, 2026, 6:41 PM UTC
+**Last Updated:** January 22, 2026, 1:46 AM UTC
 
-### Meta Warns EU Against Targeting US Tech Firms Amid Greenland Tariff Threat
+### Apple Reportedly Overhauling Siri into an AI Chatbot and Developing a Wearable AI Pin
 
-A senior executive at Meta has issued a warning to the European Union, stating that it would be "self-defeating" for Europe to retaliate against potential U.S. tariffs by targeting the American technology industry. Joel Kaplan, Meta's Chief Global Affairs Officer, made these remarks on Wednesday, January 21, 2026, on the sidelines of the World Economic Forum in Davos. His comments come as discussions continue regarding President Donald Trump's threatened tariffs on countries opposing a U.S. takeover of Greenland.
+Apple is reportedly making a significant strategic push into artificial intelligence, with plans to transform its virtual assistant Siri into a more advanced AI chatbot and to develop a new wearable AI pin. These developments signal a major shift in Apple's approach to AI, as the company has been perceived by some to be lagging behind competitors in the rapidly evolving AI landscape. The overhaul of Siri is expected to bring more sophisticated conversational capabilities, aligning it with the functionalities seen in other modern AI chatbots. Concurrently, the rumored development of a wearable AI pin suggests Apple is exploring new form factors for integrating artificial intelligence directly into users' daily lives, potentially expanding beyond its traditional device ecosystem. This comprehensive AI strategy indicates Apple's intent to reassert its presence in the AI sector through both software enhancements and innovative hardware.
 
-Kaplan emphasized that such a move by Europe would not be in its best interest, highlighting the reliance of millions of European small businesses on U.S. tech services for reaching customers, growing their operations, and creating jobs. He suggested that targeting U.S. tech firms, which dominate markets in smartphones, IT operating systems, social media, and cloud services in Europe, could lead to a "further retaliatory spiral" that would negatively impact everyone involved.
-
-Treasury Secretary Scott Bessent also urged European officials to engage in discussions with President Trump in Davos, rather than reacting with "reflexive anger," to understand his arguments regarding the acquisition of Greenland. European officials are reportedly considering various responses, including the activation of the EU's "anti-coercion" mechanism, which could involve tariffs on U.S. goods or restrictions on U.S. firms from participating in European tenders.
-
-**Key Takeaway:** Meta warns that European retaliation against potential U.S. tariffs on countries opposing a Greenland takeover by targeting American tech firms would be detrimental to Europe's own economic interests.
+**Key Takeaway:** Apple is reportedly embarking on a significant dual-pronged AI strategy by transforming Siri into an advanced AI chatbot and developing a wearable AI pin, signaling a major push to integrate artificial intelligence deeply into its ecosystem and future products.
 <!-- NEWS_END -->
 
 ---
