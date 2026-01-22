@@ -10,15 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Thursday, January 22, 2026 at 6:34 AM UTC
+**Last Updated:** January 22, 2026, 12:49 PM UTC
 
-### Global Chip Stocks Surge as Nvidia CEO Fuels AI Enthusiasm at Davos
+### Gates Foundation and OpenAI Launch $50M Initiative to Integrate AI into African Healthcare Systems
 
-Global semiconductor stocks have experienced a significant surge, with Nvidia CEO Jensen Huang's remarks at the World Economic Forum in Davos reinforcing investor confidence in the artificial intelligence (AI) sector. On Thursday, memory chipmaker Samsung Electronics Co. saw its shares jump by as much as 5% to an unprecedented high, pushing South Korea's benchmark Kospi index above 5,000 for the first time. This follows a more than 3% increase in the Philadelphia Semiconductor Index on Wednesday, largely driven by Nvidia.
+The Gates Foundation and OpenAI have announced a new $50 million collaboration to integrate artificial intelligence into national health systems across Africa, beginning with a pilot program in Rwanda. This initiative, named Horizon1000, aims to utilize AI tools to bolster primary healthcare delivery, support healthcare workers, enhance the quality of care, and broaden patient reach in resource-constrained areas.
 
-Huang's comments at the forum further fueled this rally, as he highlighted that the global expansion of AI infrastructure will necessitate trillions of dollars in investment. Analysts note that the "AI Revolution" is a dominant theme at Davos, with the US tech sector leading the charge. This AI boom continues robustly into 2026, despite concerns over high valuations and international tensions. Further insights into crucial industry capital expenditure plans are anticipated with upcoming earnings reports from major tech companies like Intel Corp, Apple Inc, and Meta Platforms Inc.
+Sub-Saharan Africa currently faces a critical shortage of approximately 5.6 million health workers, a gap that traditional training alone is unlikely to bridge. Horizon1000 will explore how AI can augment clinical capacity, streamline workflows, and empower frontline health workers to serve more patients efficiently. The program is slated to expand to 1,000 primary healthcare clinics and surrounding communities across multiple African countries by 2028, with a strong emphasis on responsible deployment and ethical application of AI, guided by national governments.
 
-**Key Takeaway:** Investor enthusiasm for AI, propelled by Nvidia's CEO at Davos, is driving a substantial rally in global semiconductor stocks, signaling massive future investments in AI infrastructure.
+**Key Takeaway:** A significant $50 million partnership between the Gates Foundation and OpenAI is leveraging AI to address critical healthcare workforce shortages and improve primary care delivery across Africa, starting in Rwanda.
 <!-- NEWS_END -->
 
 ---
