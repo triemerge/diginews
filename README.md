@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 22, 2026, 12:49 PM UTC
+**Last Updated:** January 22, 2026 at 6:32 PM UTC
 
-### Gates Foundation and OpenAI Launch $50M Initiative to Integrate AI into African Healthcare Systems
+### Google's AI Mode in Search Integrates Personal App Context for Enhanced Personalization
 
-The Gates Foundation and OpenAI have announced a new $50 million collaboration to integrate artificial intelligence into national health systems across Africa, beginning with a pilot program in Rwanda. This initiative, named Horizon1000, aims to utilize AI tools to bolster primary healthcare delivery, support healthcare workers, enhance the quality of care, and broaden patient reach in resource-constrained areas.
+Google is significantly advancing its artificial intelligence capabilities within its dominant search engine by allowing "AI Mode" to draw context directly from users' other applications, such as photos and emails. This integration aims to provide more tailored and personalized answers to user queries. The new feature extends Google's Personal Intelligence, previously an opt-in experience in Gemini, into its core search functionality. This means that search results can now leverage a user's interests, habits, travel itineraries, and even photo libraries to generate responses that are highly relevant to their individual context.
 
-Sub-Saharan Africa currently faces a critical shortage of approximately 5.6 million health workers, a gap that traditional training alone is unlikely to bridge. Horizon1000 will explore how AI can augment clinical capacity, streamline workflows, and empower frontline health workers to serve more patients efficiently. The program is slated to expand to 1,000 primary healthcare clinics and surrounding communities across multiple African countries by 2028, with a strong emphasis on responsible deployment and ethical application of AI, guided by national governments.
-
-**Key Takeaway:** A significant $50 million partnership between the Gates Foundation and OpenAI is leveraging AI to address critical healthcare workforce shortages and improve primary care delivery across Africa, starting in Rwanda.
+**Key Takeaway:** Google is deepening AI integration into its search engine, using personal app data to deliver unprecedented levels of customized search results.
 <!-- NEWS_END -->
 
 ---
