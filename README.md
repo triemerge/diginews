@@ -10,12 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, January 23, 2026 at 12:46 PM UTC
+**Last Updated:** Friday, January 23, 2026 at 6:33 PM UTC
 
-### Barclays Reassures Investors on AI Investment Boom at World Economic Forum
-At the ongoing World Economic Forum in Davos, Switzerland, Barclays Investment Bank's Head of Economics Research, Christian Keller, provided reassurance to investors regarding the robust nature of the artificial intelligence (AI) investment boom. Keller stated that while a bubble might be forming, it is unlikely to burst. His remarks, made on a World Economic Forum podcast, highlighted the significant global productivity benefits being driven by AI, which are subsequently influencing tech valuations. Keller pointed to both the ongoing investment surge and the promise of future productivity growth as key factors supporting the AI boom, balancing against global economic fragmentation and trade tensions.
+### Anthropic's Claude AI Outperforms Human Engineers in Hiring Tests, Forcing Test Redesign
 
-**Key Takeaway:** A leading Barclays economist suggests the current AI investment boom is fundamentally sound, driven by tangible productivity benefits and future growth potential, despite "bubble" concerns.
+AI startup Anthropic has encountered a unique challenge in its hiring process as its advanced Claude models, particularly Opus 4 and 4.5, have begun to outperform human candidates on complex engineering tests. The take-home test, designed to assess performance engineers in optimizing code for a simulated accelerator, has been repeatedly redesigned by Anthropic's performance optimization team lead, Tristan Hume. Initially intended to differentiate top human talent, the latest Claude versions were able to match or exceed the performance of most human applicants under the given time constraints, making it difficult for the company to distinguish between top human candidates and its most capable AI. While humans can still outperform the models with unlimited time, the rapid advancement of Claude's capabilities has necessitated the creation of three new versions of the test to maintain its utility as an evaluation tool. Anthropic is also releasing the original take-home test as an open challenge.
+
+**Key Takeaway:** The ability of advanced AI models like Claude to outperform human engineers in complex coding optimization tests highlights a significant leap in AI capabilities, signaling profound implications for future hiring practices and the evolving nature of technical work.
 <!-- NEWS_END -->
 
 ---
