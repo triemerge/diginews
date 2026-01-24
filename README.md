@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 24, 2026 at 1:41 AM UTC
+**Last Updated:** Saturday, January 24, 2026 at 6:31 AM UTC
 
-### Accenture Acquires UK AI Unicorn Startup Faculty for $1 Billion
+### Meta Pauses Teen Access to AI Characters Amid Safety Concerns
 
-Accenture has reportedly acquired Faculty, a prominent UK-based AI startup, in a deal valued at approximately $1 billion (£746 million). This acquisition marks Faculty as the first UK tech "unicorn" of 2026 and represents the largest takeover ever of a British privately held AI startup. Faculty, co-founded in 2014 by UCL graduates Marc Warner, Angie Ma, and Andy Brookes, specializes in developing AI tools and technology designed to enhance business performance.
+Meta has temporarily suspended teen users' ability to interact with AI characters on its platforms. The move comes as a response to growing concerns over the potential risks of AI interactions for younger audiences, particularly regarding safety and well-being. This decision impacts a significant user base, reflecting a proactive stance by the tech giant to address ethical considerations in the deployment of artificial intelligence, especially when engaging with minors. The pause allows Meta to further evaluate and implement safeguards to ensure that AI character interactions are appropriate and safe for teenagers.
 
-The deal will see around 400 Faculty staff, all described as native AI professionals, transition to Accenture. Marc Warner, formerly CEO of Faculty, is set to become chief technology officer of Accenture and will join the company's Global Management Committee. This strategic move by Accenture underscores a significant investment in the rapidly expanding artificial intelligence sector and aims to bolster its capabilities in providing AI-driven solutions to businesses globally.
-
-**Key Takeaway:** Accenture's $1 billion acquisition of UK AI startup Faculty highlights the continued consolidation and high-value investment in the artificial intelligence sector by major professional services firms.
+**Key Takeaway:** Meta is halting teen access to AI characters on its platforms to enhance safety protocols and address concerns about the impact of AI on young users.
 <!-- NEWS_END -->
 
 ---
