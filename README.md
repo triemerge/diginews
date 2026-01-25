@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 25, 2026 at 12:41 PM UTC
+**Last Updated:** Friday, January 25, 2026 at 6:29 PM UTC
 
-### Amazon Plans 30,000 Corporate Layoffs in 2026, AI Cited as Key Factor
+### Tesla Shifts Autopilot Features to $99-Per-Month Full Self-Driving Subscription
 
-Amazon is reportedly initiating a significant round of job cuts in early 2026, with plans to eliminate 30,000 corporate positions. This move continues a trend of widespread tech layoffs seen in the preceding years. Notably, the increasing adoption of artificial intelligence (AI) is identified as a critical factor contributing to these workforce reductions. Reports indicate that AI technologies were responsible for at least 55,000 job losses in the United States in 2025 alone. The expectation is that 2026 will further solidify AI's role in job displacement, as companies increasingly leverage the technology for tasks such as writing software code and automating routine operations to enhance efficiency and reduce human reliance. While some experts anticipate a muted overall impact of AI on the labor market, a significant surge in anxiety regarding the technology's influence on employment is projected for the year. India's Economic Survey 2023-24 had previously highlighted AI's potential to create considerable uncertainty for workers across various skill sets, with back-end operations like business processing outsourcing (BPO) being particularly vulnerable.
+Tesla has implemented a significant change to its vehicle features, requiring owners to pay for a new $99-per-month Full Self-Driving (FSD) subscription to retain access to previously included functionalities like Autosteer. This move mandates that Tesla owners wishing to keep these advanced driver-assistance features will need to subscribe to FSD or purchase the complete FSD package for $8,000 before February 14. This strategic decision by Tesla impacts existing owners who relied on these features without an ongoing subscription and marks a notable shift in the company's monetization strategy for its autonomous driving technology.
 
-**Key Takeaway:** Amazon's planned layoff of 30,000 corporate employees in 2026 highlights the accelerating impact of AI on job displacement across the tech sector.
+**Key Takeaway:** Tesla is now requiring a $99 monthly subscription or an $8,000 upfront purchase for features like Autosteer, fundamentally changing access to core driver-assistance technologies for its customers.
 <!-- NEWS_END -->
 
 ---
