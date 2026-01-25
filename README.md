@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 25, 2026, 6:31 AM UTC
+**Last Updated:** January 25, 2026 at 12:41 PM UTC
 
-### Brazil Proposes High-Tech International Airport to Boost Connectivity
+### Amazon Plans 30,000 Corporate Layoffs in 2026, AI Cited as Key Factor
 
-A consortium of private investors, with the backing of the Development Bank of Latin America and the Caribbean (CAF), revealed plans on January 24 for a new high-tech international airport in Brazil's historically underserved Northeast region. The project, announced during the 'Brasil 360° Tourism & Investment Forum' in São Paulo, aims to revolutionize air connectivity and requires congressional approval for Bill 4.392/2025, which would permit foreign airlines to operate cabotage flights, essential for establishing a true regional hub. Pre-feasibility studies for the proposed multi-runway complex envision a facility equipped with automated baggage-handling robots, biometric e-gates, and solar-powered infrastructure, designed to accommodate 15 million passengers annually by 2035. States like Paraíba and Rio Grande do Norte are competing to host the airport, offering complementary tourism assets and tax incentives. The Ministry of Portos e Aeroportos estimates that this functional hub could reduce travel times for executives heading to renewable energy projects or tech parks by up to four hours.
+Amazon is reportedly initiating a significant round of job cuts in early 2026, with plans to eliminate 30,000 corporate positions. This move continues a trend of widespread tech layoffs seen in the preceding years. Notably, the increasing adoption of artificial intelligence (AI) is identified as a critical factor contributing to these workforce reductions. Reports indicate that AI technologies were responsible for at least 55,000 job losses in the United States in 2025 alone. The expectation is that 2026 will further solidify AI's role in job displacement, as companies increasingly leverage the technology for tasks such as writing software code and automating routine operations to enhance efficiency and reduce human reliance. While some experts anticipate a muted overall impact of AI on the labor market, a significant surge in anxiety regarding the technology's influence on employment is projected for the year. India's Economic Survey 2023-24 had previously highlighted AI's potential to create considerable uncertainty for workers across various skill sets, with back-end operations like business processing outsourcing (BPO) being particularly vulnerable.
 
-**Key Takeaway:** A major high-tech airport project in Brazil's Northeast promises to significantly enhance regional connectivity and integrate advanced technology into its operations by 2035.
+**Key Takeaway:** Amazon's planned layoff of 30,000 corporate employees in 2026 highlights the accelerating impact of AI on job displacement across the tech sector.
 <!-- NEWS_END -->
 
 ---
