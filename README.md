@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, January 26, 2026 at 1:52 AM UTC
+**Last Updated:** Monday, January 26, 2026 at 6:36 AM UTC
 
-### UK Government Invests £36 Million to Boost AI Supercomputing in Cambridge
+### UK Government Boosts AI Supercomputing Power at Cambridge with £36 Million Investment
 
-The UK government has announced a significant investment of £36 million to enhance the artificial intelligence (AI) supercomputing capacity at the University of Cambridge, aiming to boost British AI innovation. This funding will increase the power of the DAWN supercomputer, already one of the UK's most powerful AI machines, sixfold by spring 2026. The expanded computing resources will be made available free of charge to UK researchers and tech startups, providing them with critical infrastructure to develop advanced AI tools and drive breakthroughs. The DAWN supercomputer has already supported over 350 projects, including the development of AI tools for personalized cancer vaccines and environmental modeling. This initiative is expected to accelerate advancements in areas such as early disease detection, smarter public services, and improved climate weather data.
+The UK government has announced a significant investment of £36 million to enhance the artificial intelligence (AI) supercomputing capabilities at the University of Cambridge, aiming to increase its capacity sixfold by Spring 2026. This funding targets the AI Research Resource (AIRR), a national program that provides UK researchers and tech startups with free access to high-powered computing resources typically only available to major tech companies. The investment will specifically bolster the DAWN supercomputer at Cambridge, which is already a leading facility in the UK for AI research. This expansion is expected to accelerate breakthroughs in critical areas such as personalized cancer vaccines and environmental modeling, among other AI tools for future development. The government emphasizes that this move will cement Cambridge's role within the Oxford-Cambridge corridor as a crucial hub for science, technology, and innovation.
 
-**Key Takeaway:** The UK government's substantial investment in AI supercomputing at Cambridge is set to significantly accelerate British AI research and development by providing crucial infrastructure to researchers and startups.
+**Key Takeaway:** The UK government's substantial £36 million investment will sixfold increase Cambridge's AI supercomputing capacity, providing a major boost for British AI research and startups.
 <!-- NEWS_END -->
 
 ---
