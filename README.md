@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, January 25, 2026 at 6:29 PM UTC
+**Last Updated:** Monday, January 26, 2026 at 1:52 AM UTC
 
-### Tesla Shifts Autopilot Features to $99-Per-Month Full Self-Driving Subscription
+### UK Government Invests £36 Million to Boost AI Supercomputing in Cambridge
 
-Tesla has implemented a significant change to its vehicle features, requiring owners to pay for a new $99-per-month Full Self-Driving (FSD) subscription to retain access to previously included functionalities like Autosteer. This move mandates that Tesla owners wishing to keep these advanced driver-assistance features will need to subscribe to FSD or purchase the complete FSD package for $8,000 before February 14. This strategic decision by Tesla impacts existing owners who relied on these features without an ongoing subscription and marks a notable shift in the company's monetization strategy for its autonomous driving technology.
+The UK government has announced a significant investment of £36 million to enhance the artificial intelligence (AI) supercomputing capacity at the University of Cambridge, aiming to boost British AI innovation. This funding will increase the power of the DAWN supercomputer, already one of the UK's most powerful AI machines, sixfold by spring 2026. The expanded computing resources will be made available free of charge to UK researchers and tech startups, providing them with critical infrastructure to develop advanced AI tools and drive breakthroughs. The DAWN supercomputer has already supported over 350 projects, including the development of AI tools for personalized cancer vaccines and environmental modeling. This initiative is expected to accelerate advancements in areas such as early disease detection, smarter public services, and improved climate weather data.
 
-**Key Takeaway:** Tesla is now requiring a $99 monthly subscription or an $8,000 upfront purchase for features like Autosteer, fundamentally changing access to core driver-assistance technologies for its customers.
+**Key Takeaway:** The UK government's substantial investment in AI supercomputing at Cambridge is set to significantly accelerate British AI research and development by providing crucial infrastructure to researchers and startups.
 <!-- NEWS_END -->
 
 ---
