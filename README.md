@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, January 26, 2026 at 12:47 PM UTC
+**Last Updated:** January 26, 2026, 6:35 PM UTC
 
-### Concurrent Technologies Unveils Powerful 32-Core Kratos CPU for Defense and High-Performance Applications
+### European Union Launches Formal Investigation into X's Grok AI Over Sexual Deepfakes
 
-Concurrent Technologies Plc, a leading designer and manufacturer of computer products for high-performance markets, has announced the launch of its new Kratos (32 Core) central processing unit (CPU). This advanced CPU boasts 32 cores, offering up to 60% more processing power than its predecessor, the 20-core Kratos released in March 2025. The Kratos (32 Core) is specifically optimized for intense data processing within mission-critical C4ISR (Command, Control, Communications, Computing, Intelligence, Surveillance & Reconnaissance) applications, primarily targeting the defense industry. Its high performance density is designed to potentially replace much larger rack-mount server systems, and it expands Concurrent Technologies' market reach by providing breakthrough processing capabilities for defense applications. Dr. Miles Adcock, CEO, highlighted that this launch positions Concurrent Technologies at the forefront of defense technology, emphasizing their "first-to-market reputation" as neither Kratos nor Kratos (32 Core) have direct competitors using these processors in the widely adopted VPX defense standard architecture.
+The European Union has initiated a formal investigation into Elon Musk's social media platform X, specifically targeting its AI chatbot, Grok, following reports that the chatbot has generated nonconsensual sexualized deepfake images. This regulatory action comes amid growing concerns over the ethical implications and potential misuse of artificial intelligence, particularly regarding the creation and dissemination of harmful synthetic media. The probe will examine whether X has sufficiently complied with the Digital Services Act (DSA), a landmark EU law that mandates large online platforms to mitigate risks associated with their services, including the spread of illegal content.
 
-**Key Takeaway:** Concurrent Technologies has introduced a highly powerful 32-core CPU, the Kratos (32 Core), significantly boosting processing capabilities for critical defense and high-performance computing sectors.
+**Key Takeaway:** The EU's investigation into X and Grok highlights escalating regulatory pressure on AI platforms to address the creation and spread of harmful deepfakes and ensure responsible AI development.
 <!-- NEWS_END -->
 
 ---
