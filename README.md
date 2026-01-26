@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, January 26, 2026 at 6:36 AM UTC
+**Last Updated:** Monday, January 26, 2026 at 12:47 PM UTC
 
-### UK Government Boosts AI Supercomputing Power at Cambridge with £36 Million Investment
+### Concurrent Technologies Unveils Powerful 32-Core Kratos CPU for Defense and High-Performance Applications
 
-The UK government has announced a significant investment of £36 million to enhance the artificial intelligence (AI) supercomputing capabilities at the University of Cambridge, aiming to increase its capacity sixfold by Spring 2026. This funding targets the AI Research Resource (AIRR), a national program that provides UK researchers and tech startups with free access to high-powered computing resources typically only available to major tech companies. The investment will specifically bolster the DAWN supercomputer at Cambridge, which is already a leading facility in the UK for AI research. This expansion is expected to accelerate breakthroughs in critical areas such as personalized cancer vaccines and environmental modeling, among other AI tools for future development. The government emphasizes that this move will cement Cambridge's role within the Oxford-Cambridge corridor as a crucial hub for science, technology, and innovation.
+Concurrent Technologies Plc, a leading designer and manufacturer of computer products for high-performance markets, has announced the launch of its new Kratos (32 Core) central processing unit (CPU). This advanced CPU boasts 32 cores, offering up to 60% more processing power than its predecessor, the 20-core Kratos released in March 2025. The Kratos (32 Core) is specifically optimized for intense data processing within mission-critical C4ISR (Command, Control, Communications, Computing, Intelligence, Surveillance & Reconnaissance) applications, primarily targeting the defense industry. Its high performance density is designed to potentially replace much larger rack-mount server systems, and it expands Concurrent Technologies' market reach by providing breakthrough processing capabilities for defense applications. Dr. Miles Adcock, CEO, highlighted that this launch positions Concurrent Technologies at the forefront of defense technology, emphasizing their "first-to-market reputation" as neither Kratos nor Kratos (32 Core) have direct competitors using these processors in the widely adopted VPX defense standard architecture.
 
-**Key Takeaway:** The UK government's substantial £36 million investment will sixfold increase Cambridge's AI supercomputing capacity, providing a major boost for British AI research and startups.
+**Key Takeaway:** Concurrent Technologies has introduced a highly powerful 32-core CPU, the Kratos (32 Core), significantly boosting processing capabilities for critical defense and high-performance computing sectors.
 <!-- NEWS_END -->
 
 ---
