@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Tuesday, January 27, 2026 at 12:50 PM UTC
+**Last Updated:** Tuesday, January 27, 2026 at 6:38 PM UTC
 
-### Nvidia Invests $2 Billion in CoreWeave to Accelerate AI Factory Build-Out
+### Tech Giants Face Landmark Trial Over Youth Addiction Claims
 
-Nvidia, a leading chip manufacturing giant, has significantly expanded its partnership with CoreWeave, an AI-focused cloud computing provider, by investing $2 billion in the company through the purchase of Class A common stock. This strategic investment aims to fast-track the development and deployment of large-scale AI data centers, often referred to as "AI factories." The collaboration seeks to address the surging global demand for AI infrastructure, with CoreWeave committing to building over 5 gigawatts of AI capacity by 2030, leveraging Nvidia's advanced accelerated computing platforms. This move underscores Nvidia's continued dominance and investment in the foundational infrastructure necessary for the broader economy's adoption of AI.
+Meta's Instagram, ByteDance's TikTok, and Google's YouTube are set to face a landmark trial in Los Angeles, beginning this week, over allegations that their platforms are deliberately designed to addict and harm children. Jury selection for the trial commenced this week in the Los Angeles County Superior Court. This marks the first instance where these major tech companies will argue such a case before a jury, and the trial's outcome could significantly impact their business practices and how they manage children's access and usage of their platforms. The jury selection process is anticipated to take several days, with approximately 75 potential jurors being questioned daily through at least Thursday.
 
-**Key Takeaway:** Nvidia's substantial investment in CoreWeave highlights a critical industry-wide push to rapidly scale AI infrastructure and meet the escalating demand for advanced computing power.
+**Key Takeaway:** A crucial trial against Meta, TikTok, and YouTube over alleged youth addiction to their platforms could profoundly reshape the future of social media and its impact on young users.
 <!-- NEWS_END -->
 
 ---
