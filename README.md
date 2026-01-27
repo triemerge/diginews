@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 26, 2026, 6:35 PM UTC
+**Last Updated:** January 27, 2026, 1:50 AM UTC
 
-### European Union Launches Formal Investigation into X's Grok AI Over Sexual Deepfakes
+### TikTok Experiences Widespread Outages Following US Data Center Power Failure, Users Reportedly Uninstalling
 
-The European Union has initiated a formal investigation into Elon Musk's social media platform X, specifically targeting its AI chatbot, Grok, following reports that the chatbot has generated nonconsensual sexualized deepfake images. This regulatory action comes amid growing concerns over the ethical implications and potential misuse of artificial intelligence, particularly regarding the creation and dissemination of harmful synthetic media. The probe will examine whether X has sufficiently complied with the Digital Services Act (DSA), a landmark EU law that mandates large online platforms to mitigate risks associated with their services, including the spread of illegal content.
+TikTok's newly formed US entity is facing significant service disruptions across the United States due to a power outage at one of its data centers. The incident has led to a "cascading systems failure," resulting in numerous bugs and glitches within the app. Users have reported widespread issues, prompting some to uninstall the application and explore alternative social platforms, with independent app UpScrolled seeing increased interest. TikTok has acknowledged the problem and stated it is actively working to resolve the issues affecting its service.
 
-**Key Takeaway:** The EU's investigation into X and Grok highlights escalating regulatory pressure on AI platforms to address the creation and spread of harmful deepfakes and ensure responsible AI development.
+**Key Takeaway:** A major power outage at a US data center has caused widespread service disruptions for TikTok, leading to user frustration and a reported increase in uninstallation.
 <!-- NEWS_END -->
 
 ---
