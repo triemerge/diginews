@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 28, 2026 at 1:46 AM UTC
+**Last Updated:** January 28, 2026, 6:36 AM UTC
 
-### EU Imposes Six-Month Deadline on Google to Open Android AI Search to Rivals
+### Google and Apple Forge Major AI Partnership, Gemini to Power Revamped Siri
 
-The European Union has given Google a six-month ultimatum to dismantle technical barriers preventing rival AI search assistants from operating effectively on its Android platform. This mandate is part of the EU's ongoing efforts to curb the dominance of Big Tech companies and promote competition in the burgeoning artificial intelligence sector. Google is also required to provide key data to other search engine providers. This move comes amidst a broader regulatory push by the EU to ensure fair play and prevent monopolies in digital markets, particularly concerning AI-driven services.
+Google AI CEO Demis Hassabis has expressed pride in the company's partnership with Apple, confirming that Apple has selected Google's Gemini AI to power its foundational models. This multi-year agreement is reportedly valued at approximately $1 billion annually. The collaboration marks a significant strategic pivot for Apple, which has historically favored in-house development. The integration of Gemini is expected to lead to a revamped Siri, which is anticipated to roll out with iOS 26.4. This alliance positions Google's AI technology at the core of Apple's ubiquitous iPhone ecosystem, underscoring the increasing importance of advanced AI capabilities in consumer devices.
 
-**Key Takeaway:** The European Union is forcing Google to open up its Android ecosystem to competing AI search assistants, signaling a significant regulatory intervention in the AI market and a continued crackdown on Big Tech's market control.
+**Key Takeaway:** Apple's decision to integrate Google's Gemini AI into its core products, including a revamped Siri, signifies a landmark partnership that will deeply embed advanced AI into the iPhone experience for millions of users.
 <!-- NEWS_END -->
 
 ---
