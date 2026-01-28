@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 28, 2026, 6:36 AM UTC
+**Last Updated:** Wednesday, January 28, 2026 at 12:50 PM UTC
 
-### Google and Apple Forge Major AI Partnership, Gemini to Power Revamped Siri
+### Amazon Announces 16,000 Additional Job Cuts Amidst Streamlining Efforts
 
-Google AI CEO Demis Hassabis has expressed pride in the company's partnership with Apple, confirming that Apple has selected Google's Gemini AI to power its foundational models. This multi-year agreement is reportedly valued at approximately $1 billion annually. The collaboration marks a significant strategic pivot for Apple, which has historically favored in-house development. The integration of Gemini is expected to lead to a revamped Siri, which is anticipated to roll out with iOS 26.4. This alliance positions Google's AI technology at the core of Apple's ubiquitous iPhone ecosystem, underscoring the increasing importance of advanced AI capabilities in consumer devices.
+Amazon has officially informed its employees of plans to cut approximately 16,000 corporate jobs globally as part of ongoing efforts to streamline operations. This latest round of layoffs follows an initial announcement in October that saw 14,000 positions eliminated, bringing the total announced job reductions to 30,000 within three months. The company's senior vice president of people experience and technology, Beth Galetti, stated that Amazon aims to strengthen its organization by reducing management layers and bureaucracy. While the majority of the impacted jobs are expected to be in the US, some roles in the UK will also be affected. These cuts represent roughly 4.6% of Amazon's corporate workforce, which stood at about 350,000 as of September 30. CEO Andy Jassy has previously indicated a determination to reduce management layers that grew significantly during a pandemic-era hiring surge, and he has also warned that AI automation could further shrink the workforce. The announcement came after an internal email detailing the cuts was reportedly sent to employees in error.
 
-**Key Takeaway:** Apple's decision to integrate Google's Gemini AI into its core products, including a revamped Siri, signifies a landmark partnership that will deeply embed advanced AI into the iPhone experience for millions of users.
+**Key Takeaway:** Amazon is continuing its significant workforce reduction, with 16,000 additional corporate jobs being cut globally, reflecting a strategic move towards streamlining operations and potentially incorporating more AI automation.
 <!-- NEWS_END -->
 
 ---
