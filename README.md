@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Tuesday, January 27, 2026 at 6:38 PM UTC
+**Last Updated:** January 28, 2026 at 1:46 AM UTC
 
-### Tech Giants Face Landmark Trial Over Youth Addiction Claims
+### EU Imposes Six-Month Deadline on Google to Open Android AI Search to Rivals
 
-Meta's Instagram, ByteDance's TikTok, and Google's YouTube are set to face a landmark trial in Los Angeles, beginning this week, over allegations that their platforms are deliberately designed to addict and harm children. Jury selection for the trial commenced this week in the Los Angeles County Superior Court. This marks the first instance where these major tech companies will argue such a case before a jury, and the trial's outcome could significantly impact their business practices and how they manage children's access and usage of their platforms. The jury selection process is anticipated to take several days, with approximately 75 potential jurors being questioned daily through at least Thursday.
+The European Union has given Google a six-month ultimatum to dismantle technical barriers preventing rival AI search assistants from operating effectively on its Android platform. This mandate is part of the EU's ongoing efforts to curb the dominance of Big Tech companies and promote competition in the burgeoning artificial intelligence sector. Google is also required to provide key data to other search engine providers. This move comes amidst a broader regulatory push by the EU to ensure fair play and prevent monopolies in digital markets, particularly concerning AI-driven services.
 
-**Key Takeaway:** A crucial trial against Meta, TikTok, and YouTube over alleged youth addiction to their platforms could profoundly reshape the future of social media and its impact on young users.
+**Key Takeaway:** The European Union is forcing Google to open up its Android ecosystem to competing AI search assistants, signaling a significant regulatory intervention in the AI market and a continued crackdown on Big Tech's market control.
 <!-- NEWS_END -->
 
 ---
