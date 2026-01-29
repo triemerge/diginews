@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 29, 2026, 1:58 AM UTC
+**Last Updated:** January 29, 2026, 6:46 AM UTC
 
-### Google Integrates Gemini AI Tools, Including Image Generation and 'Auto Browse,' into Chrome
+### Investors React to Big Tech AI Spending with Scrutiny on Growth
 
-Google is significantly enhancing its Chrome browser by rolling out a suite of new Gemini-powered artificial intelligence features, including an AI image generator and an "Auto Browse" mode. This integration marks a major step in bringing advanced AI capabilities directly into the user's web browsing experience. Users will now be able to leverage AI for tasks such as generating images directly within the browser and utilizing a new "side panel option for virtual assistant". The "Auto Browse" mode, for now accessible to paid Google AI subscribers, will enable the browser to complete specific tasks like shopping for party supplies or making appointments autonomously. This move follows Google's recent AI enhancements to other core services like Gmail, indicating a broader strategy to embed Gemini across its product ecosystem.
+Investors are closely scrutinizing the artificial intelligence (AI) spending of major technology companies, indicating a significant shift in market expectations since the launch of ChatGPT over three years ago. While companies that demonstrate robust revenue growth alongside heavy AI investments, such as Meta Platforms, are largely forgiven for their record spending, those showing slower growth or capacity constraints, like Microsoft's Azure cloud business, face investor apprehension.
 
-**Key Takeaway:** Google is embedding its Gemini AI directly into the Chrome browser, offering users advanced functionalities like AI image generation and an "Auto Browse" mode to streamline their online activities.
+Meta Platforms saw its revenue surge by 24% in the December quarter, partly due to AI-enhanced online ad targeting. The company also issued a first-quarter revenue forecast that surpassed estimates, demonstrating that its expanding sales can support an anticipated 87% increase in data-center spending this year, potentially reaching $135 billion. In contrast, Microsoft reported Azure cloud-computing growth that only slightly exceeded expectations and lagged its record quarterly spending. Microsoft's finance chief, Amy Hood, attributed some of this slower growth to the allocation of AI chips for internal development rather than entirely to Azure, which limited its growth metric. This week's earnings reports from major tech firms like Meta and Microsoft are providing a clearer picture of the current state of AI and what markets are prioritizing: not just ambition, but tangible revenue generation and strategic reshaping from AI investments.
+
+**Key Takeaway:** Investors are now demanding clear evidence of revenue growth and strategic impact from Big Tech's massive AI investments, rewarding companies that deliver and penalizing those with slower returns despite high spending.
 <!-- NEWS_END -->
 
 ---
