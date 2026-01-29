@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 29, 2026, 6:46 AM UTC
+**Last Updated:** Thursday, January 29, 2026 at 12:56 PM UTC
 
-### Investors React to Big Tech AI Spending with Scrutiny on Growth
+### Tesla Pivots to Robotics, Discontinuing Model S and X Production
 
-Investors are closely scrutinizing the artificial intelligence (AI) spending of major technology companies, indicating a significant shift in market expectations since the launch of ChatGPT over three years ago. While companies that demonstrate robust revenue growth alongside heavy AI investments, such as Meta Platforms, are largely forgiven for their record spending, those showing slower growth or capacity constraints, like Microsoft's Azure cloud business, face investor apprehension.
+Tesla is reportedly planning to cease production of its premium Model S and Model X electric vehicles in the upcoming quarter to reallocate resources towards its ambitious robotics initiatives, including the Optimus humanoid robot. This strategic shift was announced by CEO Elon Musk during the company's recent earnings call for the 2025 fiscal year. The move signals a significant pivot for the electric vehicle giant, indicating an intensified focus on artificial intelligence and robotics as core future endeavors, potentially redefining Tesla's primary business model.
 
-Meta Platforms saw its revenue surge by 24% in the December quarter, partly due to AI-enhanced online ad targeting. The company also issued a first-quarter revenue forecast that surpassed estimates, demonstrating that its expanding sales can support an anticipated 87% increase in data-center spending this year, potentially reaching $135 billion. In contrast, Microsoft reported Azure cloud-computing growth that only slightly exceeded expectations and lagged its record quarterly spending. Microsoft's finance chief, Amy Hood, attributed some of this slower growth to the allocation of AI chips for internal development rather than entirely to Azure, which limited its growth metric. This week's earnings reports from major tech firms like Meta and Microsoft are providing a clearer picture of the current state of AI and what markets are prioritizing: not just ambition, but tangible revenue generation and strategic reshaping from AI investments.
-
-**Key Takeaway:** Investors are now demanding clear evidence of revenue growth and strategic impact from Big Tech's massive AI investments, rewarding companies that deliver and penalizing those with slower returns despite high spending.
+**Key Takeaway:** Tesla is making a monumental strategic shift, discontinuing its flagship Model S and X cars to prioritize the development and production of humanoid robots.
 <!-- NEWS_END -->
 
 ---
