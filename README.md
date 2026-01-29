@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 28, 2026, 6:37 PM UTC
+**Last Updated:** January 29, 2026, 1:58 AM UTC
 
-### Amazon Confirms Another 16,000 Corporate Job Cuts in Latest Restructuring
+### Google Integrates Gemini AI Tools, Including Image Generation and 'Auto Browse,' into Chrome
 
-Amazon has announced a new round of significant layoffs, confirming the elimination of approximately 16,000 additional corporate jobs globally. This latest reduction brings the total number of positions cut since October to a staggering 30,000, marking the largest workforce reduction in the company's history. Beth Galetti, a senior vice president at Amazon, made the announcement in a blog post on Wednesday. The cuts are part of an ongoing restructuring effort within the tech giant. While Amazon had a hiring surge during the pandemic, the current economic climate and a strategic re-evaluation of its workforce have led to these widespread job losses across various departments.
+Google is significantly enhancing its Chrome browser by rolling out a suite of new Gemini-powered artificial intelligence features, including an AI image generator and an "Auto Browse" mode. This integration marks a major step in bringing advanced AI capabilities directly into the user's web browsing experience. Users will now be able to leverage AI for tasks such as generating images directly within the browser and utilizing a new "side panel option for virtual assistant". The "Auto Browse" mode, for now accessible to paid Google AI subscribers, will enable the browser to complete specific tasks like shopping for party supplies or making appointments autonomously. This move follows Google's recent AI enhancements to other core services like Gmail, indicating a broader strategy to embed Gemini across its product ecosystem.
 
-**Key Takeaway:** Amazon's continued mass layoffs, totaling 30,000 positions, signify a major shift in the tech industry's employment landscape and the company's operational strategy.
+**Key Takeaway:** Google is embedding its Gemini AI directly into the Chrome browser, offering users advanced functionalities like AI image generation and an "Auto Browse" mode to streamline their online activities.
 <!-- NEWS_END -->
 
 ---
