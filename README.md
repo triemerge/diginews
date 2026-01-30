@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, January 30, 2026 at 12:54 PM UTC
+**Last Updated:** January 30, 2026 at 6:41 PM UTC
 
-### Google Explores Opt-Out for Websites from AI Overviews Scraping
+### Amazon Discovered Child Sexual Abuse Material in AI Training Data
 
-Google is reportedly considering implementing a mechanism that would allow websites to opt out of having their content scraped and utilized for the company's AI Overviews feature. This potential move comes amidst increasing concerns from content creators and publishers regarding the use of their material to train artificial intelligence models without explicit consent or compensation. The discussions indicate Google's acknowledgment of the growing debate surrounding copyright, data privacy, and the ethical implications of AI's reliance on vast amounts of online data. If implemented, this opt-out feature could significantly alter how websites interact with Google's AI-powered search results and provide publishers with more control over their intellectual property in the age of generative AI.
+Amazon has reportedly identified a "high volume" of Child Sexual Abuse Material (CSAM) within its AI training data, though the company has not disclosed the origin of this deeply disturbing content. This revelation comes as the National Center for Missing and Exploited Children (NCMEC) reported over one million instances of AI-related child sexual abuse material in 2025, with the vast majority of these reports linked to Amazon. The discovery highlights a severe ethical and safety crisis facing the development and deployment of artificial intelligence, raising serious questions about data sourcing, vetting processes, and the responsible creation of AI models.
 
-**Key Takeaway:** Google is exploring a system to allow websites to prevent their content from being used in AI Overviews, addressing widespread concerns about AI data scraping and content ownership.
+**Key Takeaway:** Amazon's discovery of a significant amount of child sexual abuse material in its AI training data reveals a critical and alarming ethical failure in AI development and underscores urgent challenges in data security and child protection within the technology sector.
 <!-- NEWS_END -->
 
 ---
