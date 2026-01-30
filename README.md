@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, January 30, 2026 at 6:48 AM UTC
+**Last Updated:** Friday, January 30, 2026 at 12:54 PM UTC
 
-### Global Markets Experience $9 Trillion Volatility Amid Tech Plunge and AI Bubble Fears
+### Google Explores Opt-Out for Websites from AI Overviews Scraping
 
-Global financial markets experienced unprecedented volatility on January 30, 2026, with an estimated $9 trillion in market capitalization shifting within a 6.5-hour window. This turbulent session saw significant swings in both commodity prices and major US technology stocks. Gold prices initially plummeted by approximately 8%, erasing nearly $3 trillion, before recovering around $2 trillion by the day's close. Silver followed a similar pattern. Concurrently, major US technology stocks came under considerable pressure, with Oracle experiencing a 5.4% drop and chipmaker Nvidia declining 2.7% at the open, fueled by growing fears of an artificial intelligence (AI) bubble bursting. The broader S&P 500 index erased $780 billion in intraday trading before recovering $530 billion, and the Nasdaq saw a $760 billion wipeout before regaining $580 billion. This market turmoil suggests underlying fragility and investor apprehension regarding the sustainability of high equity valuations, particularly in the technology sector, amidst concerns that organizations are seeing little return despite significant AI investment.
+Google is reportedly considering implementing a mechanism that would allow websites to opt out of having their content scraped and utilized for the company's AI Overviews feature. This potential move comes amidst increasing concerns from content creators and publishers regarding the use of their material to train artificial intelligence models without explicit consent or compensation. The discussions indicate Google's acknowledgment of the growing debate surrounding copyright, data privacy, and the ethical implications of AI's reliance on vast amounts of online data. If implemented, this opt-out feature could significantly alter how websites interact with Google's AI-powered search results and provide publishers with more control over their intellectual property in the age of generative AI.
 
-**Key Takeaway:** Fears of an AI bubble bursting triggered massive volatility across global financial markets, causing significant drops and subsequent recoveries in tech stocks and commodities.
+**Key Takeaway:** Google is exploring a system to allow websites to prevent their content from being used in AI Overviews, addressing widespread concerns about AI data scraping and content ownership.
 <!-- NEWS_END -->
 
 ---
