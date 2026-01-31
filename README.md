@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** January 30, 2026 at 6:41 PM UTC
+**Last Updated:** Friday, January 31, 2026 at 1:54 AM UTC
 
-### Amazon Discovered Child Sexual Abuse Material in AI Training Data
+### Microsoft's AI Data Center Spending Triggers Wall Street Concern Despite Strong Earnings
 
-Amazon has reportedly identified a "high volume" of Child Sexual Abuse Material (CSAM) within its AI training data, though the company has not disclosed the origin of this deeply disturbing content. This revelation comes as the National Center for Missing and Exploited Children (NCMEC) reported over one million instances of AI-related child sexual abuse material in 2025, with the vast majority of these reports linked to Amazon. The discovery highlights a severe ethical and safety crisis facing the development and deployment of artificial intelligence, raising serious questions about data sourcing, vetting processes, and the responsible creation of AI models.
+Despite reporting a robust financial quarter with earnings and revenue exceeding expectations, Microsoft's stock experienced a significant slide as investors reacted to the company's escalating capital expenditures related to building out its artificial intelligence (AI) infrastructure. Executives highlighted increased spending on AI hardware and data center expansion, coupled with a slight deceleration in Azure cloud growth. This combination has reignited concerns among investors regarding the long-term profitability of the "spend now, monetize later" strategy in the ongoing AI arms race. The situation is seen as a crucial indicator for both large tech firms and smaller AI infrastructure startups, emphasizing the capital-intensive reality of the AI boom and prompting stricter scrutiny of unit economics. It also raises questions about Microsoft's future AI strategy and its relationship with partners like OpenAI as costs continue to climb.
 
-**Key Takeaway:** Amazon's discovery of a significant amount of child sexual abuse material in its AI training data reveals a critical and alarming ethical failure in AI development and underscores urgent challenges in data security and child protection within the technology sector.
+**Key Takeaway:** Microsoft's strong earnings were overshadowed by investor apprehension over the accelerating costs of AI infrastructure, highlighting the financial pressures and strategic shifts in the booming AI sector.
 <!-- NEWS_END -->
 
 ---
