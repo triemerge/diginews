@@ -10,12 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Saturday, January 31, 2026 at 6:38 AM UTC
+**Last Updated:** Friday, January 31, 2026 at 12:46 PM UTC
 
-### Amazon's Project Kuiper Faces Deployment Delays, Seeks Extension from FCC
-Amazon's Project Kuiper, its ambitious satellite internet constellation designed to rival SpaceX's Starlink, has informed the Federal Communications Commission (FCC) that it requires more time to deploy its satellites. The company will not meet the July deadline to launch half of its low Earth orbit (LEO) constellation. Amazon has outlined plans for "more than 100 missions planned through Q1 2029" to deploy the constellation. This development indicates a potential setback in the race to provide global satellite internet access, as Amazon works to catch up to competitors who already have thousands of satellites in orbit.
+### SpaceX Plans to Deploy Up to 1 Million Starlink Satellites for Orbital Data Center
 
-**Key Takeaway:** Amazon's Project Kuiper is experiencing delays in its satellite deployment schedule, necessitating an extension from the FCC and potentially impacting its competitive standing in the satellite internet market.
+SpaceX is reportedly aiming to deploy a staggering one million Starlink satellites in orbit, ranging from 500 to 2,000 kilometers, to support an "orbital data center" push. This ambitious plan signifies a massive expansion beyond its current thousands of operational satellites, indicating a significant long-term vision for its satellite internet constellation. The details of this extensive deployment were revealed in an FCC filing, showcasing SpaceX's intent to dramatically scale up its satellite infrastructure.
+
+**Key Takeaway:** SpaceX is planning a monumental expansion of its Starlink constellation, potentially deploying up to one million satellites for an orbital data center.
 <!-- NEWS_END -->
 
 ---
