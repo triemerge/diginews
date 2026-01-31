@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, January 31, 2026 at 12:46 PM UTC
+**Last Updated:** Saturday, January 31, 2026 at 6:31 PM UTC
 
-### SpaceX Plans to Deploy Up to 1 Million Starlink Satellites for Orbital Data Center
+### Nvidia CEO Confirms Significant Investment in OpenAI, Dispelling Previous Speculation
 
-SpaceX is reportedly aiming to deploy a staggering one million Starlink satellites in orbit, ranging from 500 to 2,000 kilometers, to support an "orbital data center" push. This ambitious plan signifies a massive expansion beyond its current thousands of operational satellites, indicating a significant long-term vision for its satellite internet constellation. The details of this extensive deployment were revealed in an FCC filing, showcasing SpaceX's intent to dramatically scale up its satellite infrastructure.
+Jensen Huang, CEO of Nvidia Corp, has confirmed that Nvidia will "absolutely" be involved in OpenAI's current funding round. This statement clarifies earlier reports that suggested a massive US$100 billion investment plan had stalled due to internal doubts at Nvidia. While Huang indicated the investment would not reach the previously rumored US$100 billion figure, he stated it would likely be the largest investment Nvidia has ever made. He expressed enthusiasm for the investment, calling it "such a good investment" and "a great pleasure" during a press briefing in Taipei. The original US$100 billion letter of intent between Nvidia and OpenAI in September was reportedly aimed at supporting new data centers and AI infrastructure built with Nvidia components, targeting 10 gigawatts of computing power.
 
-**Key Takeaway:** SpaceX is planning a monumental expansion of its Starlink constellation, potentially deploying up to one million satellites for an orbital data center.
+**Key Takeaway:** Nvidia's CEO has confirmed a substantial, though reduced, investment in OpenAI, solidifying the chip giant's strategic commitment to the rapidly evolving artificial intelligence landscape.
 <!-- NEWS_END -->
 
 ---
