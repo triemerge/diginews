@@ -10,13 +10,12 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, January 31, 2026 at 1:54 AM UTC
+**Last Updated:** Saturday, January 31, 2026 at 6:38 AM UTC
 
-### Microsoft's AI Data Center Spending Triggers Wall Street Concern Despite Strong Earnings
+### Amazon's Project Kuiper Faces Deployment Delays, Seeks Extension from FCC
+Amazon's Project Kuiper, its ambitious satellite internet constellation designed to rival SpaceX's Starlink, has informed the Federal Communications Commission (FCC) that it requires more time to deploy its satellites. The company will not meet the July deadline to launch half of its low Earth orbit (LEO) constellation. Amazon has outlined plans for "more than 100 missions planned through Q1 2029" to deploy the constellation. This development indicates a potential setback in the race to provide global satellite internet access, as Amazon works to catch up to competitors who already have thousands of satellites in orbit.
 
-Despite reporting a robust financial quarter with earnings and revenue exceeding expectations, Microsoft's stock experienced a significant slide as investors reacted to the company's escalating capital expenditures related to building out its artificial intelligence (AI) infrastructure. Executives highlighted increased spending on AI hardware and data center expansion, coupled with a slight deceleration in Azure cloud growth. This combination has reignited concerns among investors regarding the long-term profitability of the "spend now, monetize later" strategy in the ongoing AI arms race. The situation is seen as a crucial indicator for both large tech firms and smaller AI infrastructure startups, emphasizing the capital-intensive reality of the AI boom and prompting stricter scrutiny of unit economics. It also raises questions about Microsoft's future AI strategy and its relationship with partners like OpenAI as costs continue to climb.
-
-**Key Takeaway:** Microsoft's strong earnings were overshadowed by investor apprehension over the accelerating costs of AI infrastructure, highlighting the financial pressures and strategic shifts in the booming AI sector.
+**Key Takeaway:** Amazon's Project Kuiper is experiencing delays in its satellite deployment schedule, necessitating an extension from the FCC and potentially impacting its competitive standing in the satellite internet market.
 <!-- NEWS_END -->
 
 ---
