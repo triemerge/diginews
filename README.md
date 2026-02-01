@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 1, 2026, 6:48 AM UTC
+**Last Updated:** February 1, 2026, 12:49 PM UTC
 
-### Fitbit Users Must Migrate Data to Google Accounts by May
+### Tech Giants Brace for New EU Digital Services Act Enforcement
 
-Fitbit users are being urged to migrate their data to a Google account by May to avoid losing access to crucial historic health metrics. The deadline applies to data points such as heart rate, workouts, calorie burn, and sleep time, which could be permanently lost if users miss the transition. This move continues Google's integration of Fitbit following its acquisition.
+Major technology companies, including Google, Meta, and Amazon, are reportedly making final preparations as the European Union's Digital Services Act (DSA) is poised for full enforcement for all online platforms starting February 17, 2026. This landmark regulation aims to create a safer and more accountable online environment by imposing strict rules on content moderation, transparency in algorithms, and targeted advertising practices. Platforms will face significant fines, potentially up to 6% of their global annual revenue, for non-compliance. The expanded scope, which previously applied only to very large online platforms (VLOPs) and very large online search engines (VLOSEs) since August 2025, now encompasses a much broader range of online services, requiring extensive adjustments to their operations and content handling policies across the EU.
 
-**Key Takeaway:** Fitbit users face a May deadline to migrate their health data to a Google account or risk permanent loss of their historical fitness information.
+**Key Takeaway:** The full enforcement of the EU's Digital Services Act on February 17, 2026, will significantly impact a wide array of online platforms, compelling them to overhaul their content moderation and data transparency practices to avoid substantial penalties.
 <!-- NEWS_END -->
 
 ---
