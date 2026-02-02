@@ -10,13 +10,12 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, February 2, 2026 at 12:58 PM UTC
+**Last Updated:** Monday, February 2, 2026 at 6:43 PM UTC
 
-### Apple Considers Ending Decade-Long Chip Partnership with TSMC Amidst AI Boom
+### Google Gemini Tests Migration Tool for AI Chatbot Users
+Google's AI chatbot, Gemini, is reportedly testing a new tool designed to assist users in migrating their data from competing AI chatbots like ChatGPT. This development highlights the intense competition in the burgeoning AI chatbot market, as major tech companies vie for user loyalty and market share. The tool aims to simplify the process for users who wish to switch to Gemini, potentially by making it easier to transfer conversation histories or preferences. This move by Google underscores the company's aggressive strategy to enhance Gemini's appeal and functionality amidst a rapidly evolving AI landscape where user experience and seamless transitions are becoming increasingly important.
 
-Apple is reportedly exploring Intel for its chip manufacturing, a move that could signal the end of its exclusive, decade-long partnership with Taiwan Semiconductor Manufacturing Company (TSMC). This potential shift is largely attributed to the surging demand for AI chips, which has propelled Nvidia to become TSMC's largest customer. As a result, Apple's access to TSMC's advanced 3-nanometer production is being impacted. The company is also facing increased prices from memory suppliers, adding to its supply chain challenges. Industry reports indicate that Apple may need to accept significant price increases and can no longer rely on guaranteed production capacity from TSMC, with some analysts estimating a potential increase of $57 per base iPhone 18 for memory alone.
-
-**Key Takeaway:** The immense demand for AI chips is reshaping the semiconductor industry, forcing major players like Apple to reconsider long-standing strategic partnerships and grapple with increased production costs and supply chain uncertainties.
+**Key Takeaway:** Google is actively working to attract users from rival AI chatbots by developing tools to facilitate easier migration to its Gemini platform, intensifying competition in the AI market.
 <!-- NEWS_END -->
 
 ---
