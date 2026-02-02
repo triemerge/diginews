@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, February 2, 2026 at 7:01 AM UTC
+**Last Updated:** Monday, February 2, 2026 at 12:58 PM UTC
 
-### NVIDIA Plans "Largest Ever Investment" in OpenAI
+### Apple Considers Ending Decade-Long Chip Partnership with TSMC Amidst AI Boom
 
-NVIDIA CEO Jensen Huang has indicated that the company intends to make its "largest ever investment" in OpenAI, the developer of ChatGPT. This declaration underscores NVIDIA's continued commitment to advancing artificial intelligence technologies and strengthening its partnership with a leading force in the AI landscape. The exact details and scale of this investment were not immediately disclosed.
+Apple is reportedly exploring Intel for its chip manufacturing, a move that could signal the end of its exclusive, decade-long partnership with Taiwan Semiconductor Manufacturing Company (TSMC). This potential shift is largely attributed to the surging demand for AI chips, which has propelled Nvidia to become TSMC's largest customer. As a result, Apple's access to TSMC's advanced 3-nanometer production is being impacted. The company is also facing increased prices from memory suppliers, adding to its supply chain challenges. Industry reports indicate that Apple may need to accept significant price increases and can no longer rely on guaranteed production capacity from TSMC, with some analysts estimating a potential increase of $57 per base iPhone 18 for memory alone.
 
-**Key Takeaway:** NVIDIA's commitment to a record investment in OpenAI signals a significant acceleration in the development and deployment of advanced AI.
+**Key Takeaway:** The immense demand for AI chips is reshaping the semiconductor industry, forcing major players like Apple to reconsider long-standing strategic partnerships and grapple with increased production costs and supply chain uncertainties.
 <!-- NEWS_END -->
 
 ---
