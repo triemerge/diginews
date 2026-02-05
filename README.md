@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Thursday, February 5, 2026 at 2:01 AM UTC
+**Last Updated:** Thursday, February 5, 2026 at 6:58 AM UTC
 
-### Nvidia Unveils Nemotron Parse for Advanced AI Document Intelligence
+### TSMC Accelerates Advanced Chip Production with New 3nm Plant in Japan
 
-Nvidia has introduced Nemotron Parse and Retrieval-Augmented Generation (RAG) models, marking a significant advancement in intelligent document processing. These new AI models go beyond traditional Optical Character Recognition (OCR) by understanding the complex context of documents, including tables, charts, and mixed-media layouts. This capability allows for the extraction of structured data and insights from vast archives of information with human-like comprehension.
+Taiwan Semiconductor Manufacturing Co. (TSMC) is significantly upgrading its commitment to advanced chip manufacturing in Japan, with plans to produce cutting-edge 3-nanometer (nm) chips at its second wafer fabrication plant in Kumamoto. This marks an escalation from the original blueprint, which aimed for 7nm chip production by late 2027. The decision signifies a major triumph for Japan's ambitions to bolster its domestic chipmaking capabilities and will see TSMC's overall investment in the Kumamoto plant increase to ¥2.6 trillion ($17 billion). The go-to chipmaker for tech giants like Nvidia and Apple, TSMC's move is poised to profoundly impact the global semiconductor supply chain and the development of future high-tech products.
 
-Companies such as Docusign, Justt, and Edison Scientific are already implementing this technology to process large volumes of contracts, payment disputes, and scientific literature. The Nemotron Parse models have achieved top rankings on leading multimodal retrieval accuracy benchmarks, including MTEB, MMTEB, and ViDoRe V3. The models are now accessible as NIM microservices on build.nvidia.com, GitHub, and Hugging Face, enabling enterprises to deploy them within their own environments.
-
-**Key Takeaway:** Nvidia's Nemotron Parse significantly enhances enterprise AI by enabling advanced, context-aware understanding and processing of complex documents, moving beyond simple text extraction to derive meaningful intelligence.
+**Key Takeaway:** TSMC's commitment to 3nm chip production in Japan represents a significant advancement in global semiconductor manufacturing, reinforcing Japan's role in the high-tech industry.
 <!-- NEWS_END -->
 
 ---
