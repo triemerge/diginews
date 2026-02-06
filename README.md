@@ -10,12 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 6, 2026, 12:58 PM UTC
+**Last Updated:** February 6, 2026, 6:51 PM UTC
 
-### International AI Safety Report 2026 Released as a Comprehensive Assessment
-A new International AI Safety Report 2026 has been published, presenting the most comprehensive evidence-based assessment to date of artificial intelligence capabilities, emerging risks, and necessary safety measures. Over 100 independent experts, including Nobel laureates and Turing Award winners, contributed to the report, with a Gates Cambridge Scholar also participating in the writing group for the "Current Capabilities" section. Professor Yoshua Bengio, who chaired the project, highlighted the "evidence dilemma" facing policymakers, where AI capabilities evolve rapidly but scientific evidence for policy decisions emerges slowly. The report aims to provide reliable evidence to help policymakers, researchers, and the public make informed choices regarding the development and deployment of this critical technology.
+### Investors Seek "AI-Resistant" Stocks as Tech Sector Faces Disruption Concerns
 
-**Key Takeaway:** A major international report has been released to provide a comprehensive, evidence-based guide for understanding and managing the rapidly evolving risks and capabilities of artificial intelligence.
+A significant shift is occurring in the stock market as investors increasingly gravitate towards companies with business models that artificial intelligence (AI) cannot easily replicate, causing a slide in traditional technology shares. The S&P 500 Index has reportedly dropped 2% this week, largely due to concerns among investors that the rapid advancement and rollout of new AI tools, particularly from startups like Anthropic, will disrupt existing software business models.
+
+This trend marks a reversal from the long-standing thesis that AI would primarily fuel growth across the technology sector. Instead, investors are now prioritizing companies with "physical, real-world components" that are deemed "AI resistant". Sectors such as homebuilding, transportation, and heavy machinery manufacturing have seen strong gains, alongside consumer staples firms, which are up 4.7%. Analysts suggest that core activities like manufacturing, distribution, and assembly in these industries are less susceptible to AI replacement, making them attractive havens for investors.
+
+**Key Takeaway:** The market is witnessing a fundamental re-evaluation of company valuations as investors increasingly favor businesses less vulnerable to AI disruption, signaling a broader economic impact beyond just the immediate tech sector.
 <!-- NEWS_END -->
 
 ---
