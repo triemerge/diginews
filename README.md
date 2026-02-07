@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 7, 2026 at 12:47 PM UTC
+**Last Updated:** February 7, 2026 at 6:35 PM UTC
 
-### Big Tech's $600 Billion AI Spending Spree Fuels Investor Unease
+### Big Tech Companies Turn to Nuclear Energy to Power AI Expansion
 
-Major technology companies are planning to invest an unprecedented $600 billion in artificial intelligence infrastructure in 2026, a massive spending spree that is creating significant apprehension among investors. This substantial capital expenditure is raising concerns about its potential impact on corporate profitability and is being viewed as an "existential threat" to traditional software firms.
+Major technology companies, including Meta, Microsoft, Amazon, and Google, are making substantial investments in nuclear energy to meet the immense power demands of their rapidly expanding artificial intelligence (AI) data centers. This strategic shift involves plans to either expand existing nuclear plants, reopen dormant reactors, or invest in new small modular reactor (SMR) technologies. For instance, Meta recently finalized a deal to enhance three nuclear plants and intends to reactivate an abandoned reactor in Illinois. Similarly, Microsoft is looking to bring Pennsylvania's Three Mile Island plant back online. Both Amazon and Google are focusing their efforts on SMRs, with Google specifically committing to financing the manufacturer Kairos Power to ensure its first SMR is operational by 2030. This move comes as the energy requirements for AI continue to skyrocket, prompting tech giants to secure reliable and cleaner power sources for their infrastructure. Challenges remain, however, including significant financial hurdles and public safety concerns.
 
-Companies like Amazon and Alphabet have disclosed plans for capital outlays far exceeding previous expectations for AI infrastructure. Amazon's capital expenditure could double from the previous year, while Alphabet indicated its spending might also double in 2026. These announcements have led to a mixed market reaction, with Amazon's shares falling sharply in pre-market trading, and Alphabet also experiencing losses. Meanwhile, data analytics firms, in particular, are facing considerable selling pressure due to fears that powerful new AI models could disrupt their business models. For instance, London-listed RELX's shares saw a significant drop, contributing to its worst week since 2020, and the S&P 500 software and services index has declined by nearly 10% this week, losing an estimated $1 trillion in market value since late January. Despite some analysts suggesting the selloff might be overdone given the profitability of these tech giants, investors remain cautious, interpreting headlines that once spurred optimism now with greater scrutiny over return on investment and potential market leadership narrowness.
-
-**Key Takeaway:** Big tech's enormous $600 billion investment into AI infrastructure in 2026 is causing investor concern over profitability and the disruptive potential of AI across the software sector.
+**Key Takeaway:** Major tech companies are increasingly investing in nuclear energy solutions, including both traditional and advanced small modular reactors, to power the energy-intensive future of artificial intelligence.
 <!-- NEWS_END -->
 
 ---
