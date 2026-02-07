@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 6, 2026, 6:51 PM UTC
+**Last Updated:** February 7, 2026, 1:57 AM UTC
 
-### Investors Seek "AI-Resistant" Stocks as Tech Sector Faces Disruption Concerns
+### EU Accuses TikTok of 'Addictive Design' Harmful to Children
 
-A significant shift is occurring in the stock market as investors increasingly gravitate towards companies with business models that artificial intelligence (AI) cannot easily replicate, causing a slide in traditional technology shares. The S&P 500 Index has reportedly dropped 2% this week, largely due to concerns among investors that the rapid advancement and rollout of new AI tools, particularly from startups like Anthropic, will disrupt existing software business models.
+The European Union has formally accused TikTok of breaching its digital rules by employing an "addictive design" that allegedly harms children and seeks changes to protect users. The European Commission, acting under the Digital Services Act (DSA), announced that it has opened formal proceedings against the popular video-sharing platform. The preliminary findings suggest that TikTok's design features, such as autoplay and infinite scroll, may exploit the vulnerabilities and inexperience of minors, potentially leading to behavioral addictions and detrimental impacts on mental health. The EU is demanding that TikTok address these concerns by implementing changes to its platform to ensure greater user safety, particularly for its younger demographic.
 
-This trend marks a reversal from the long-standing thesis that AI would primarily fuel growth across the technology sector. Instead, investors are now prioritizing companies with "physical, real-world components" that are deemed "AI resistant". Sectors such as homebuilding, transportation, and heavy machinery manufacturing have seen strong gains, alongside consumer staples firms, which are up 4.7%. Analysts suggest that core activities like manufacturing, distribution, and assembly in these industries are less susceptible to AI replacement, making them attractive havens for investors.
-
-**Key Takeaway:** The market is witnessing a fundamental re-evaluation of company valuations as investors increasingly favor businesses less vulnerable to AI disruption, signaling a broader economic impact beyond just the immediate tech sector.
+**Key Takeaway:** The EU's accusation against TikTok for its "addictive design" marks a significant regulatory move that could force major changes in how social media platforms are engineered, especially concerning the well-being of young users.
 <!-- NEWS_END -->
 
 ---
