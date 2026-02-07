@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 7, 2026 at 6:41 AM UTC
+**Last Updated:** February 7, 2026 at 12:47 PM UTC
 
-### Honda and Mythic Partner to Develop 100x Energy-Efficient Analog AI Chip for Next-Generation Vehicles
+### Big Tech's $600 Billion AI Spending Spree Fuels Investor Unease
 
-Honda Motor Co., Ltd. and Mythic have announced a joint development agreement to create a highly energy-efficient analog AI System-on-Chip (SOC) for future software-defined vehicles (SDVs). The collaboration involves Honda R&D Co. Ltd. licensing Mythic's Analog Processing Unit (APU) technology. This partnership aims to integrate Mythic's intelligent, ultra-efficient analog compute-in-memory technology into Honda's vehicles by the late 2020s or early 2030s, aligning with Honda's focus on safety. The goal is to produce an AI chip that is 100 times more energy-efficient than current solutions, which could revolutionize the capabilities and sustainability of AI in automotive applications.
+Major technology companies are planning to invest an unprecedented $600 billion in artificial intelligence infrastructure in 2026, a massive spending spree that is creating significant apprehension among investors. This substantial capital expenditure is raising concerns about its potential impact on corporate profitability and is being viewed as an "existential threat" to traditional software firms.
 
-**Key Takeaway:** Honda's collaboration with Mythic to develop a 100x more energy-efficient analog AI chip signals a significant leap in bringing advanced, sustainable AI capabilities to future vehicles.
+Companies like Amazon and Alphabet have disclosed plans for capital outlays far exceeding previous expectations for AI infrastructure. Amazon's capital expenditure could double from the previous year, while Alphabet indicated its spending might also double in 2026. These announcements have led to a mixed market reaction, with Amazon's shares falling sharply in pre-market trading, and Alphabet also experiencing losses. Meanwhile, data analytics firms, in particular, are facing considerable selling pressure due to fears that powerful new AI models could disrupt their business models. For instance, London-listed RELX's shares saw a significant drop, contributing to its worst week since 2020, and the S&P 500 software and services index has declined by nearly 10% this week, losing an estimated $1 trillion in market value since late January. Despite some analysts suggesting the selloff might be overdone given the profitability of these tech giants, investors remain cautious, interpreting headlines that once spurred optimism now with greater scrutiny over return on investment and potential market leadership narrowness.
+
+**Key Takeaway:** Big tech's enormous $600 billion investment into AI infrastructure in 2026 is causing investor concern over profitability and the disruptive potential of AI across the software sector.
 <!-- NEWS_END -->
 
 ---
