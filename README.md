@@ -10,14 +10,17 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Sunday, February 8, 2026 at 2:30 AM UTC
+**Last Updated:** Friday, February 8, 2026 at 6:49 AM UTC
 
-### AI Voice Startup ElevenLabs Achieves $11 Billion Valuation in Latest Funding Round
-ElevenLabs, a prominent AI voice technology startup, has successfully completed a new funding round, raising $500 million and tripling its valuation to an impressive $11 billion. This significant investment was led by Sequoia Capital, with continued participation from existing backers such as Andreessen Horowitz and Iconiq, alongside new investors including Lightspeed Venture Partners, Evantic Capital, and Bond.
+### Big Tech Pledges $650 Billion Towards AI Infrastructure in 2026, Sparking Market Scrutiny
 
-Founded in 2022, the London-based company initially focused on AI text-to-speech models but has since expanded its offerings to include speech-to-text, sound effects, dubbing, music, and conversational AI. ElevenLabs provides products that enable enterprises to deploy voice and chat agents, and it offers a platform for brands and creators to generate and localize audio content, utilized by major entities like publisher Time and chip giant Nvidia, which also invested in the company in September. The company reported over $330 million in annual recurring revenue (ARR) by the end of 2025, driven by enterprise adoption from companies such as Deutsche Telekom and Revolut. Co-founder Mati Staniszewski indicated that the new funding will support further research and product development, international expansion into markets like India, Japan, Singapore, Brazil, and Mexico, and a potential expansion beyond voice to incorporate video and agents that can "talk, type, and take action."
+Major global technology corporations are set to invest an estimated $650 billion into artificial intelligence (AI) infrastructure throughout 2026, marking a significant increase in capital expenditure that has drawn considerable attention from financial markets. Industry leaders such as Amazon, Alphabet, Meta, and Microsoft have outlined ambitious spending programs that substantially exceed previous years' investments. Data aggregated by Bloomberg indicates this collective spending represents an approximate 60% increase from the $359 billion expended in 2025.
 
-**Key Takeaway:** The substantial $500 million funding round and $11 billion valuation for ElevenLabs underscore the continued rapid growth and investor confidence in advanced AI voice technology and its broader applications, positioning the company for a potential IPO.
+Amazon, for instance, projected $200 billion in capital expenditures for 2026, a figure that surpassed analyst forecasts and contributes significantly to the overall investment sum. Similarly, Alphabet has allocated between $175 billion and $185 billion, while Meta plans expenditures ranging from $115 billion to $135 billion. This unprecedented scale of commitment to advancing AI capabilities reflects the sector's strategic prioritization of next-generation computing.
+
+However, these massive investment announcements have prompted mixed reactions in equity markets. Amazon shares experienced a decline following its announcement, with other leading technology firms also seeing adjustments in their market valuations. Analysts note that investors are seeking substantive performance metrics to accompany these ambitious expenditure forecasts, and concerns about potential overspending or an "AI bubble" have emerged. Despite these concerns, some industry figures, like Nvidia CEO Jensen Huang, insist that the increases in capital expenditures are "justified." Fixed-income markets are also closely monitoring the situation as tech enterprises increasingly utilize debt financing to support their AI objectives.
+
+**Key Takeaway:** Major tech companies are committing an unprecedented $650 billion to AI infrastructure in 2026, demonstrating a significant industry-wide shift towards advanced AI, albeit raising market concerns about investment returns and potential overexpansion.
 <!-- NEWS_END -->
 
 ---
