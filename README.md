@@ -10,13 +10,14 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 7, 2026 at 6:35 PM UTC
+**Last Updated:** Sunday, February 8, 2026 at 2:30 AM UTC
 
-### Big Tech Companies Turn to Nuclear Energy to Power AI Expansion
+### AI Voice Startup ElevenLabs Achieves $11 Billion Valuation in Latest Funding Round
+ElevenLabs, a prominent AI voice technology startup, has successfully completed a new funding round, raising $500 million and tripling its valuation to an impressive $11 billion. This significant investment was led by Sequoia Capital, with continued participation from existing backers such as Andreessen Horowitz and Iconiq, alongside new investors including Lightspeed Venture Partners, Evantic Capital, and Bond.
 
-Major technology companies, including Meta, Microsoft, Amazon, and Google, are making substantial investments in nuclear energy to meet the immense power demands of their rapidly expanding artificial intelligence (AI) data centers. This strategic shift involves plans to either expand existing nuclear plants, reopen dormant reactors, or invest in new small modular reactor (SMR) technologies. For instance, Meta recently finalized a deal to enhance three nuclear plants and intends to reactivate an abandoned reactor in Illinois. Similarly, Microsoft is looking to bring Pennsylvania's Three Mile Island plant back online. Both Amazon and Google are focusing their efforts on SMRs, with Google specifically committing to financing the manufacturer Kairos Power to ensure its first SMR is operational by 2030. This move comes as the energy requirements for AI continue to skyrocket, prompting tech giants to secure reliable and cleaner power sources for their infrastructure. Challenges remain, however, including significant financial hurdles and public safety concerns.
+Founded in 2022, the London-based company initially focused on AI text-to-speech models but has since expanded its offerings to include speech-to-text, sound effects, dubbing, music, and conversational AI. ElevenLabs provides products that enable enterprises to deploy voice and chat agents, and it offers a platform for brands and creators to generate and localize audio content, utilized by major entities like publisher Time and chip giant Nvidia, which also invested in the company in September. The company reported over $330 million in annual recurring revenue (ARR) by the end of 2025, driven by enterprise adoption from companies such as Deutsche Telekom and Revolut. Co-founder Mati Staniszewski indicated that the new funding will support further research and product development, international expansion into markets like India, Japan, Singapore, Brazil, and Mexico, and a potential expansion beyond voice to incorporate video and agents that can "talk, type, and take action."
 
-**Key Takeaway:** Major tech companies are increasingly investing in nuclear energy solutions, including both traditional and advanced small modular reactors, to power the energy-intensive future of artificial intelligence.
+**Key Takeaway:** The substantial $500 million funding round and $11 billion valuation for ElevenLabs underscore the continued rapid growth and investor confidence in advanced AI voice technology and its broader applications, positioning the company for a potential IPO.
 <!-- NEWS_END -->
 
 ---
