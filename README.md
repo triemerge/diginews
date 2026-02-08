@@ -10,12 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Sunday, February 8, 2026 at 12:49 PM UTC
+**Last Updated:** Friday, February 7, 2026, 6:36 PM UTC
 
-### EU Accuses TikTok of 'Addictive Design' Harmful to Children
-The European Union has formally accused TikTok of breaching its digital rules, citing concerns over the platform's "addictive design" that allegedly harms children. The EU is seeking changes to TikTok's practices, specifically pointing to features like autoplay and infinite scroll as contributing factors to potential harm. This move highlights a growing global push for stricter regulation of social media platforms, particularly concerning their impact on younger users and their mental well-being. Authorities are demanding modifications to the app's design to protect users more effectively.
+### EU Accuses TikTok of 'Addictive Design' Harming Children
 
-**Key Takeaway:** The EU's accusation against TikTok for its "addictive design" signals a significant regulatory effort to protect children online and could force major changes in how social media platforms are designed and operate globally.
+The European Union has formally accused TikTok of violating its digital rules, citing concerns over the platform's "addictive design" and its detrimental impact on children. The accusations specifically highlight features like autoplay and infinite scroll as contributing to harmful user engagement practices. The EU is demanding that TikTok implement changes to better protect its younger users.
+
+**Key Takeaway:** The EU's action against TikTok signals a growing global regulatory push to address the potentially harmful design elements of social media platforms, particularly concerning their effects on minors.
 <!-- NEWS_END -->
 
 ---
