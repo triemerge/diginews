@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, February 7, 2026, 6:36 PM UTC
+**Last Updated:** Monday, February 9, 2026 at 2:08 AM UTC
 
-### EU Accuses TikTok of 'Addictive Design' Harming Children
+### Investor Sentiment Mixed on Big Tech's Aggressive AI Spending
 
-The European Union has formally accused TikTok of violating its digital rules, citing concerns over the platform's "addictive design" and its detrimental impact on children. The accusations specifically highlight features like autoplay and infinite scroll as contributing to harmful user engagement practices. The EU is demanding that TikTok implement changes to better protect its younger users.
+Recent developments show a complex and varied investor reaction to the massive capital expenditures by major tech companies in artificial intelligence, despite bullish statements from industry leaders. While Amazon's announcement of substantial capital spending led to a 10% drop in its stock, Meta Platforms saw a 10% increase in its stock after revealing plans to allocate an additional $115 billion to $135 billion towards AI development. Amidst this mixed market response, Nvidia CEO Jensen Huang has publicly defended the significant investments in AI infrastructure, asserting their justification. These contrasting market movements, despite both companies committing heavily to AI, highlight a nuanced investor perspective on the immediate returns and potential "AI bubble" concerns surrounding these vast expenditures.
 
-**Key Takeaway:** The EU's action against TikTok signals a growing global regulatory push to address the potentially harmful design elements of social media platforms, particularly concerning their effects on minors.
+**Key Takeaway:** Investor confidence in large-scale AI investments is becoming increasingly selective, as evidenced by divergent stock reactions to Amazon and Meta's spending plans, even as tech leaders like Nvidia defend the long-term value of these commitments.
 <!-- NEWS_END -->
 
 ---
