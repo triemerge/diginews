@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, February 9, 2026 at 2:08 AM UTC
+**Last Updated:** Monday, February 9, 2026 at 7:04 AM UTC
 
-### Investor Sentiment Mixed on Big Tech's Aggressive AI Spending
+### Big Tech Companies to Invest an Unprecedented US$650 Billion in AI Infrastructure
 
-Recent developments show a complex and varied investor reaction to the massive capital expenditures by major tech companies in artificial intelligence, despite bullish statements from industry leaders. While Amazon's announcement of substantial capital spending led to a 10% drop in its stock, Meta Platforms saw a 10% increase in its stock after revealing plans to allocate an additional $115 billion to $135 billion towards AI development. Amidst this mixed market response, Nvidia CEO Jensen Huang has publicly defended the significant investments in AI infrastructure, asserting their justification. These contrasting market movements, despite both companies committing heavily to AI, highlight a nuanced investor perspective on the immediate returns and potential "AI bubble" concerns surrounding these vast expenditures.
+Four of the largest US technology companies—Alphabet, Amazon, Meta Platforms, and Microsoft—are projected to collectively spend approximately US$650 billion this year on capital expenditures, primarily directed towards building new data centers and the necessary equipment for artificial intelligence (AI) initiatives. This massive investment marks an unparalleled surge in AI infrastructure spending this century, with each company's individual forecast for this year expected to approach or even surpass their combined budgets for the past three years.
 
-**Key Takeaway:** Investor confidence in large-scale AI investments is becoming increasingly selective, as evidenced by divergent stock reactions to Amazon and Meta's spending plans, even as tech leaders like Nvidia defend the long-term value of these commitments.
+This significant financial commitment underscores a profound recalibration in how growth is pursued and measured within the tech sector, moving towards a phase where physical infrastructure, energy access, and computing capacity are becoming primary drivers of competitive advantage. The consensus among these tech giants is that the race to provide AI compute power represents a "winner-take-all" or "winner-takes-most" market, and none are willing to fall behind. While concerns about an "AI bubble" exist, analyses suggest that this current AI boom appears more like a durable economic shift, with leading firms already profitable and funding investments from their cash flows rather than relying heavily on debt. This influx of investment is expected to boost global growth and productivity as AI moves from promise to tangible economic impact, a trend projected to continue through 2026.
+
+**Key Takeaway:** Major tech companies are making an unprecedented collective investment of US$650 billion in AI infrastructure this year, signaling a significant, sustained shift towards AI-driven growth and competitive advantage.
 <!-- NEWS_END -->
 
 ---
