@@ -10,12 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, February 9, 2026 at 1:08 PM UTC
+**Last Updated:** February 10, 2026 at 5:51 AM UTC
 
-### Google DeepMind and Meta's AI Models Show Early Signs of Self-Improvement in Math and Coding
-Recent research from Google DeepMind and Meta has revealed promising advancements in their respective AI models, with early indications of "self-improvement" capabilities, particularly in complex tasks like mathematics and coding. Google DeepMind's AlphaGeometry, which recently achieved gold-medal level performance in geometry Olympiads, demonstrates an ability to learn and adapt its problem-solving strategies. Similarly, Meta's ongoing research into large language models (LLMs) suggests that with specific training methodologies, these models can refine their own outputs, leading to more accurate and efficient solutions to programming challenges and mathematical equations. This nascent self-improvement involves the AI evaluating its own solutions, identifying errors, and iteratively refining its approach without direct human intervention after the initial training phase. The implications for autonomous AI development and the potential for these systems to tackle increasingly complex scientific and engineering problems are significant, although the current capabilities are still in early stages of development and far from general self-improvement.
+### OpenAI Begins Testing Advertisements in ChatGPT for Free and Go Users
 
-**Key Takeaway:** Early research from Google DeepMind and Meta indicates their AI models are beginning to show self-improvement capabilities in specific domains like math and coding, hinting at future autonomous AI development.
+OpenAI has commenced testing advertisements within its AI chatbot, ChatGPT, targeting free and "Go" tier users in the United States. This move, which comes after recent public criticism and competition from rivals like Anthropic, signals a significant shift in the company's monetization strategy for its popular artificial intelligence tool. OpenAI stated that the introduction of ads aims to fund the continued free access to ChatGPT for a broader user base while reducing usage limitations. The company assured users that these advertisements will be clearly labeled as "sponsored" and will be visually separated from ChatGPT's responses, ensuring they do not influence the AI's generated answers. The initial rollout is limited to a subset of logged-in adult users on the Free and Go plans.
+
+**Key Takeaway:** OpenAI is introducing advertisements in ChatGPT for free and Go users in the U.S. to support free access and manage operational costs, explicitly stating that ads will not influence AI responses.
 <!-- NEWS_END -->
 
 ---
