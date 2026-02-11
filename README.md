@@ -10,12 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Wednesday, February 11, 2026 at 1:09 PM UTC
+**Last Updated:** Wednesday, February 11, 2026 at 7:02 PM UTC
 
-### FCC Green-Lights Amazon's Second-Gen Kuiper Satellite System
-The Federal Communications Commission (FCC) has granted approval for Amazon's second-generation Project Kuiper satellite system. This development is crucial for Amazon's ambitious plan to deploy a constellation of satellites aimed at providing broadband internet services globally, similar to SpaceX's Starlink. The approval comes as Amazon also seeks an extension for its first-generation Leo system, which faces a July deadline. This regulatory clearance allows Amazon to proceed with the next phase of its satellite internet infrastructure, intensifying the competition in the low-Earth orbit (LEO) satellite broadband sector.
+### Big Tech Poised for Tariff Carve-Out as US Weighs AI Chip Exemptions
 
-**Key Takeaway:** The FCC's approval of Amazon's second-gen Kuiper satellites marks a significant regulatory milestone for the company's global satellite internet aspirations, heating up the race for space-based broadband.
+The United States is reportedly considering exempting major technology companies such as Amazon, Google, and Microsoft from impending tariffs on artificial intelligence (AI) chips. This potential move by the Trump administration, currently in the development stage, aims to provide carve-outs tied to investment commitments made by the Taiwan Semiconductor Manufacturing Company (TSMC), which is investing significantly in US-based factories, particularly in Arizona. The proposed exemptions, if finalized, would see the Commerce Department granting relief from tariffs, potentially extending to a broader range of semiconductors and their derivatives that were previously subject to a 25% tariff. This development follows pledges by Taiwanese companies to invest at least $250 billion in developing semiconductor, energy, and AI manufacturing within the United States, an initiative intended to establish the US as a global hub for advanced technology and innovation.
+
+**Key Takeaway:** The US is considering exempting major tech firms from AI chip tariffs, a move tied to significant Taiwanese investment in US manufacturing, which could profoundly shape the future of AI development and the global semiconductor supply chain.
 <!-- NEWS_END -->
 
 ---
