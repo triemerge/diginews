@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 11, 2026, 2:21 AM UTC
+**Last Updated:** February 11, 2026, 7:00 AM UTC
 
-### Major Tech Firm Initiates Hundreds of Layoffs Amid AI Restructuring
+### Agentic AI Disrupts Traditional IT Services Billing Models
 
-A significant U.S. technology company, employing nearly 80,000 individuals, has reportedly commenced a quiet dismissal of hundreds of employees in February as part of a broader restructuring related to artificial intelligence. This internal shakeup highlights the disruptive impact of AI integration on the tech workforce, as companies re-evaluate roles and operational needs in an evolving landscape. The layoffs were reported on February 10, 2026, at 7:33 PM EST.
+Agentic AI is significantly impacting the traditional billing models within the global IT services sector, leading to a steady decline in blended billing rates over the past two years in both the US and India for various roles, including web and mobile developers, full-stack engineers, and cybersecurity professionals. Experts anticipate that the introduction of products like Claude Cowork and OpenAI's Agent platform will further intensify this trend. While the reduction in rate cards might appear modest, clients are increasingly demanding substantial productivity-linked discounts, requiring IT firms to reinvest these savings into expanding project scopes or developing new AI use cases. This shift has resulted in a sharp compression of the total contract value (TCV) for typical five-year deals, which saw a 20%-35% reduction in 2025 and is projected to decline further by 32%-44% this year. Industry trackers such as HfS Research and Everest concur that the RFP-based bidding model is losing its relevance as IT vendors struggle in a competitive environment driven by a race to the bottom.
 
-**Key Takeaway:** AI's transformative influence is leading to significant workforce adjustments and layoffs within major tech companies as they realign their strategies.
+**Key Takeaway:** The rise of Agentic AI is fundamentally reshaping the economics of the IT services industry, forcing a re-evaluation of billing structures and contract values.
 <!-- NEWS_END -->
 
 ---
