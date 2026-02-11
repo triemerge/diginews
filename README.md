@@ -10,13 +10,12 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 11, 2026, 7:00 AM UTC
+**Last Updated:** Wednesday, February 11, 2026 at 1:09 PM UTC
 
-### Agentic AI Disrupts Traditional IT Services Billing Models
+### FCC Green-Lights Amazon's Second-Gen Kuiper Satellite System
+The Federal Communications Commission (FCC) has granted approval for Amazon's second-generation Project Kuiper satellite system. This development is crucial for Amazon's ambitious plan to deploy a constellation of satellites aimed at providing broadband internet services globally, similar to SpaceX's Starlink. The approval comes as Amazon also seeks an extension for its first-generation Leo system, which faces a July deadline. This regulatory clearance allows Amazon to proceed with the next phase of its satellite internet infrastructure, intensifying the competition in the low-Earth orbit (LEO) satellite broadband sector.
 
-Agentic AI is significantly impacting the traditional billing models within the global IT services sector, leading to a steady decline in blended billing rates over the past two years in both the US and India for various roles, including web and mobile developers, full-stack engineers, and cybersecurity professionals. Experts anticipate that the introduction of products like Claude Cowork and OpenAI's Agent platform will further intensify this trend. While the reduction in rate cards might appear modest, clients are increasingly demanding substantial productivity-linked discounts, requiring IT firms to reinvest these savings into expanding project scopes or developing new AI use cases. This shift has resulted in a sharp compression of the total contract value (TCV) for typical five-year deals, which saw a 20%-35% reduction in 2025 and is projected to decline further by 32%-44% this year. Industry trackers such as HfS Research and Everest concur that the RFP-based bidding model is losing its relevance as IT vendors struggle in a competitive environment driven by a race to the bottom.
-
-**Key Takeaway:** The rise of Agentic AI is fundamentally reshaping the economics of the IT services industry, forcing a re-evaluation of billing structures and contract values.
+**Key Takeaway:** The FCC's approval of Amazon's second-gen Kuiper satellites marks a significant regulatory milestone for the company's global satellite internet aspirations, heating up the race for space-based broadband.
 <!-- NEWS_END -->
 
 ---
