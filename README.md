@@ -10,15 +10,17 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Thursday, February 12, 2026 at 1:06 PM UTC
+**Last Updated:** February 12, 2026 at 7:02 PM UTC
 
-### Samsung Begins Mass Production and Commercial Shipment of Industry-First HBM4 Memory for AI Computing
+### Indian IT Sector Faces Significant Decline Amidst AI Disruption Concerns
 
-Samsung Electronics has announced that it has commenced mass production and commercial shipments of its advanced High Bandwidth Memory 4 (HBM4), establishing itself as an early leader in the HBM4 market. This achievement marks an industry first and is expected to significantly impact the capabilities of artificial intelligence (AI) computing. By utilizing its cutting-edge 6th-generation 10-nanometer (nm)-class DRAM process (1c), Samsung has achieved stable yields and leading performance from the initial stages of mass production without requiring additional redesigns.
+Indian IT services stocks, including major players like HCL Technologies, Infosys, Wipro, LTIMindtree, and Tata Consultancy Services (TCS), have experienced a substantial downturn since the beginning of 2026, with the NIFTY IT index sliding over 10% year-to-date and over the past 30 days. This sell-off is primarily attributed to renewed investor concerns regarding the potential disruption that artificial intelligence (AI) startups and advancements could pose to established IT companies.
 
-The HBM4 memory delivers a consistent processing speed of 11.7 gigabits-per-second (Gbps), which is approximately 46% faster than the industry standard of 8Gbps, setting a new benchmark for HBM4 performance. This represents a 1.22x increase over its predecessor, HBM3E, and can be further boosted to 13Gbps to alleviate data bottlenecks in scaling AI models. Furthermore, the total memory bandwidth per single stack has increased by 2.7 times compared to HBM3E, reaching a maximum of 3.3 terabytes-per-second (TB/s). Samsung is offering HBM4 in capacities ranging from 24 gigabytes (GB) to 36GB through 12-layer stacking technology and plans to expand offerings up to 48GB with 16-layer stacking. The new HBM4 also addresses power consumption and thermal challenges by integrating advanced low-power design solutions, achieving a 40% improvement in power efficiency and enhancing thermal resistance by 10% and heat dissipation by 30% compared to HBM3E.
+On February 12, Indian equity markets closed lower, with heavy selling in IT stocks outweighing gains in other sectors. Infosys saw its share price drop over 6%, reaching its lowest level since April 2025, partly due to weakness in its ADRs and concerns that AI-led changes could impact its traditional software maintenance business. Similarly, Tech Mahindra fell over 6%, and Wipro's share price declined by 4.70%, hitting a fresh 52-week low.
 
-**Key Takeaway:** Samsung's pioneering mass production and commercial shipment of HBM4 memory significantly advance AI computing capabilities by providing unprecedented speed, bandwidth, and power efficiency for next-generation data centers.
+The apprehension extends globally, with software stocks on Wall Street also coming under pressure due to fears of AI-driven disruption. Salesforce, ServiceNow, and the iShares Expanded Tech-Software Sector ETF (IGV) all saw declines, with Cisco Systems also reporting weak guidance. This trend highlights a growing investor sentiment that AI startups might bypass or significantly alter the business models of traditional IT services providers, despite industry bodies like Nasscom asserting that AI will redefine and augment, rather than disrupt, India's technology services sector.
+
+**Key Takeaway:** Investor worries about AI startups disrupting established IT companies are causing a significant decline in traditional IT services stock valuations globally, particularly impacting the Indian IT sector.
 <!-- NEWS_END -->
 
 ---
