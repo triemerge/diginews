@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Wednesday, February 11, 2026 at 7:02 PM UTC
+**Last Updated:** Thursday, February 12, 2026 at 2:08 AM UTC
 
-### Big Tech Poised for Tariff Carve-Out as US Weighs AI Chip Exemptions
+### Blackstone Boosts Anthropic Investment to $1 Billion Amidst Soaring AI Valuations
 
-The United States is reportedly considering exempting major technology companies such as Amazon, Google, and Microsoft from impending tariffs on artificial intelligence (AI) chips. This potential move by the Trump administration, currently in the development stage, aims to provide carve-outs tied to investment commitments made by the Taiwan Semiconductor Manufacturing Company (TSMC), which is investing significantly in US-based factories, particularly in Arizona. The proposed exemptions, if finalized, would see the Commerce Department granting relief from tariffs, potentially extending to a broader range of semiconductors and their derivatives that were previously subject to a 25% tariff. This development follows pledges by Taiwanese companies to invest at least $250 billion in developing semiconductor, energy, and AI manufacturing within the United States, an initiative intended to establish the US as a global hub for advanced technology and innovation.
+Blackstone has significantly increased its stake in AI startup Anthropic, bringing its total investment to approximately $1 billion, as Anthropic's valuation reportedly reaches an astonishing $350 billion. This substantial increase in capital reflects the continued influx of global investment into leading artificial intelligence laboratories and the rapidly escalating valuations within the sector. Blackstone is contributing an additional $200 million to Anthropic's ongoing funding round, which has reportedly surpassed its initial $10 billion target and is now projected to exceed $20 billion. This surge in demand has nearly doubled Anthropic's valuation from less than a year ago. Major investors participating in this round include Coatue Management, GIC, and Iconiq Capital, with strategic backers like NVIDIA and Microsoft also involved. Blackstone's latest investment primarily comes from its retail-focused Blackstone Private Equity Strategies Fund (BXPE). Anthropic, known for its Claude family of AI models, aims to develop large-scale generative AI systems with a focus on reliability and enterprise applications. The company recently launched Opus 4.6, its latest flagship model, boasting improvements in reasoning, coding, and complex text generation. The strong investor confidence comes as generative AI tools continue to automate functions in areas like coding and analysis, leading to cautiousness among investors regarding traditional software firms.
 
-**Key Takeaway:** The US is considering exempting major tech firms from AI chip tariffs, a move tied to significant Taiwanese investment in US manufacturing, which could profoundly shape the future of AI development and the global semiconductor supply chain.
+**Key Takeaway:** Global capital continues to pour into generative AI, with Blackstone's increased $1 billion investment in Anthropic highlighting the sector's rapid growth and soaring valuations.
 <!-- NEWS_END -->
 
 ---
