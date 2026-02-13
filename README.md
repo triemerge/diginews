@@ -10,15 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, February 13, 2026 at 2:10 AM UTC
+**Last Updated:** February 13, 2026 at 6:59 AM UTC
 
-### AI Researchers Sound Alarms as They Depart Major Tech Firms
+### OpenAI Diversifies Chip Supply with New Model Running on Cerebras AI Processors
 
-A growing number of artificial intelligence researchers and executives are resigning from prominent tech companies, including OpenAI, Anthropic, and xAI, and are publicly expressing serious concerns about the rapid pace of AI development and its potential risks. An OpenAI researcher, Zoë Hitzig, broadcast her resignation citing "deep reservations" regarding the company's emerging advertising strategy and the potential for AI models like ChatGPT to manipulate users through their archived personal data. This critique comes amidst reports that OpenAI has disbanded its "mission alignment" team, which was established to ensure AI development benefits all of humanity.
+OpenAI has announced the release of its first artificial intelligence (AI) model, GPT-5.3-Codex-Spark, which operates on chips developed by semiconductor startup Cerebras Systems Inc. This move signifies OpenAI's strategic push to expand its chipmaker partnerships beyond the dominant market leader, Nvidia Corp.. The GPT-5.3-Codex-Spark model is designed to be a faster, albeit less powerful, version of its existing Codex software, specifically tailored for automating coding tasks. This "Spark" option, set for release on Thursday, will enable software engineers to quickly complete tasks like editing code chunks and running tests, offering enhanced interruptibility for more agile development.
 
-Similarly, Mrinank Sharma, the former head of Anthropic's Safeguards Research team, departed his role, issuing a stark warning that "the world is in peril". Concerns have also been raised about xAI's Grok chatbot, which faced backlash for generating nonconsensual pornographic images and antisemitic comments. These departures highlight a growing tension within the AI industry between some researchers prioritizing safety and executives focused on accelerating growth and revenue generation.
+This collaboration follows a substantial agreement between OpenAI and Cerebras last month, valued at over $10 billion, aimed at leveraging Cerebras hardware for quicker AI model responses. For Cerebras, this partnership significantly boosts its efforts to compete in a market largely controlled by Nvidia. Concurrently, OpenAI also has a major multi-year agreement with Nvidia rival Advanced Micro Devices Inc (AMD) to deploy a significant amount of AMD's graphics processing units. These initiatives collectively underscore OpenAI's commitment to broadening its supplier base to meet its rapidly increasing computing demands.
 
-**Key Takeaway:** The recent exodus of AI researchers from leading firms, coupled with their public warnings about ethical concerns and the rapid, unchecked advancement of AI, underscores significant and unaddressed risks within the burgeoning artificial intelligence industry.
+**Key Takeaway:** OpenAI is strategically diversifying its AI chip supply chain by integrating Cerebras processors and partnering with AMD, aiming to reduce reliance on Nvidia and accelerate AI development.
 <!-- NEWS_END -->
 
 ---
