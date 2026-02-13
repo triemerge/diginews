@@ -10,17 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 12, 2026 at 7:02 PM UTC
+**Last Updated:** Friday, February 13, 2026 at 2:10 AM UTC
 
-### Indian IT Sector Faces Significant Decline Amidst AI Disruption Concerns
+### AI Researchers Sound Alarms as They Depart Major Tech Firms
 
-Indian IT services stocks, including major players like HCL Technologies, Infosys, Wipro, LTIMindtree, and Tata Consultancy Services (TCS), have experienced a substantial downturn since the beginning of 2026, with the NIFTY IT index sliding over 10% year-to-date and over the past 30 days. This sell-off is primarily attributed to renewed investor concerns regarding the potential disruption that artificial intelligence (AI) startups and advancements could pose to established IT companies.
+A growing number of artificial intelligence researchers and executives are resigning from prominent tech companies, including OpenAI, Anthropic, and xAI, and are publicly expressing serious concerns about the rapid pace of AI development and its potential risks. An OpenAI researcher, Zoë Hitzig, broadcast her resignation citing "deep reservations" regarding the company's emerging advertising strategy and the potential for AI models like ChatGPT to manipulate users through their archived personal data. This critique comes amidst reports that OpenAI has disbanded its "mission alignment" team, which was established to ensure AI development benefits all of humanity.
 
-On February 12, Indian equity markets closed lower, with heavy selling in IT stocks outweighing gains in other sectors. Infosys saw its share price drop over 6%, reaching its lowest level since April 2025, partly due to weakness in its ADRs and concerns that AI-led changes could impact its traditional software maintenance business. Similarly, Tech Mahindra fell over 6%, and Wipro's share price declined by 4.70%, hitting a fresh 52-week low.
+Similarly, Mrinank Sharma, the former head of Anthropic's Safeguards Research team, departed his role, issuing a stark warning that "the world is in peril". Concerns have also been raised about xAI's Grok chatbot, which faced backlash for generating nonconsensual pornographic images and antisemitic comments. These departures highlight a growing tension within the AI industry between some researchers prioritizing safety and executives focused on accelerating growth and revenue generation.
 
-The apprehension extends globally, with software stocks on Wall Street also coming under pressure due to fears of AI-driven disruption. Salesforce, ServiceNow, and the iShares Expanded Tech-Software Sector ETF (IGV) all saw declines, with Cisco Systems also reporting weak guidance. This trend highlights a growing investor sentiment that AI startups might bypass or significantly alter the business models of traditional IT services providers, despite industry bodies like Nasscom asserting that AI will redefine and augment, rather than disrupt, India's technology services sector.
-
-**Key Takeaway:** Investor worries about AI startups disrupting established IT companies are causing a significant decline in traditional IT services stock valuations globally, particularly impacting the Indian IT sector.
+**Key Takeaway:** The recent exodus of AI researchers from leading firms, coupled with their public warnings about ethical concerns and the rapid, unchecked advancement of AI, underscores significant and unaddressed risks within the burgeoning artificial intelligence industry.
 <!-- NEWS_END -->
 
 ---
