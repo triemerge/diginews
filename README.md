@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 13, 2026 at 6:59 AM UTC
+**Last Updated:** Friday, February 13, 2026 at 12:58 PM UTC
 
-### OpenAI Diversifies Chip Supply with New Model Running on Cerebras AI Processors
+### Russia Blocks WhatsApp, Promotes State-Backed Messenger Amid Privacy Concerns
 
-OpenAI has announced the release of its first artificial intelligence (AI) model, GPT-5.3-Codex-Spark, which operates on chips developed by semiconductor startup Cerebras Systems Inc. This move signifies OpenAI's strategic push to expand its chipmaker partnerships beyond the dominant market leader, Nvidia Corp.. The GPT-5.3-Codex-Spark model is designed to be a faster, albeit less powerful, version of its existing Codex software, specifically tailored for automating coding tasks. This "Spark" option, set for release on Thursday, will enable software engineers to quickly complete tasks like editing code chunks and running tests, offering enhanced interruptibility for more agile development.
+Russia has reportedly blocked the popular messaging application WhatsApp within the country, directing its citizens to adopt the state-backed Max Messenger instead. This move raises significant concerns regarding digital privacy and potential government surveillance for Russian users. While the precise legal violations cited for the ban are not fully detailed, the action aligns with a broader trend of increased control over digital communications within Russia. The push towards a domestic application suggests a strategic effort to enhance state oversight of citizen communications, potentially impacting freedom of expression and access to information for millions.
 
-This collaboration follows a substantial agreement between OpenAI and Cerebras last month, valued at over $10 billion, aimed at leveraging Cerebras hardware for quicker AI model responses. For Cerebras, this partnership significantly boosts its efforts to compete in a market largely controlled by Nvidia. Concurrently, OpenAI also has a major multi-year agreement with Nvidia rival Advanced Micro Devices Inc (AMD) to deploy a significant amount of AMD's graphics processing units. These initiatives collectively underscore OpenAI's commitment to broadening its supplier base to meet its rapidly increasing computing demands.
-
-**Key Takeaway:** OpenAI is strategically diversifying its AI chip supply chain by integrating Cerebras processors and partnering with AMD, aiming to reduce reliance on Nvidia and accelerate AI development.
+**Key Takeaway:** Russia's decision to block WhatsApp and promote a state-backed alternative intensifies global concerns over digital privacy and government control of online communication.
 <!-- NEWS_END -->
 
 ---
