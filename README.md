@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, February 13, 2026 at 12:58 PM UTC
+**Last Updated:** Friday, February 13, 2026 at 6:49 PM UTC
 
-### Russia Blocks WhatsApp, Promotes State-Backed Messenger Amid Privacy Concerns
+### Global Tech Giants Form "Trusted Tech Alliance" to Establish Shared Principles
 
-Russia has reportedly blocked the popular messaging application WhatsApp within the country, directing its citizens to adopt the state-backed Max Messenger instead. This move raises significant concerns regarding digital privacy and potential government surveillance for Russian users. While the precise legal violations cited for the ban are not fully detailed, the action aligns with a broader trend of increased control over digital communications within Russia. The push towards a domestic application suggests a strategic effort to enhance state oversight of citizen communications, potentially impacting freedom of expression and access to information for millions.
+At the Munich Security Conference on Friday, February 13, 2026, fifteen prominent technology companies from Africa, Asia, Europe, and North America announced the formation of the "Trusted Tech Alliance (TTA)." This new consortium aims to establish and uphold a shared set of principles for a reliable and secure technology stack, encompassing areas such as connectivity, cloud infrastructure, semiconductors, software, and artificial intelligence. The initiative responds to the rapid pace of technological change and increasing complexity in the digital landscape, where customers and countries are seeking greater resilience and reliability from technology providers.
 
-**Key Takeaway:** Russia's decision to block WhatsApp and promote a state-backed alternative intensifies global concerns over digital privacy and government control of online communication.
+The TTA members are committing to common standards of transparency, security, and data protection, with the goal of fostering trust and ensuring the benefits of technology reach people globally. Signatories to the Alliance include major industry players like Anthropic, AWS, Cassava Technologies, Cohere, Ericsson, Google Cloud, Hanwha, Jio Platforms, Microsoft, Nokia, Nscale, NTT, Rapidus, Saab, and SAP. The alliance emphasizes working with governments and customers to guarantee that emerging technologies contribute to public trust, job creation, and economic growth.
+
+**Key Takeaway:** A coalition of global tech leaders has formed the Trusted Tech Alliance to establish common principles for security, transparency, and data protection across the technology stack, aiming to build trust in a rapidly evolving digital world.
 <!-- NEWS_END -->
 
 ---
