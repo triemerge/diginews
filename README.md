@@ -10,15 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, February 14, 2026 at 6:43 AM UTC
+**Last Updated:** February 14, 2026, 12:47 PM UTC
 
-### US FTC Accelerates Probe into Microsoft's Cloud and AI Business Practices
+### India Approves ₹10,000 Crore Fund to Bolster Deep-Tech Startups
 
-The US Federal Trade Commission (FTC) is reportedly intensifying its investigation into Microsoft's business practices, focusing on whether the tech giant is illegally monopolizing the enterprise computing market through its cloud software and artificial intelligence (AI) offerings, including Copilot. This accelerated scrutiny follows previous complaints from Google regarding Microsoft's practices in Europe.
+The Indian government has given its approval for a substantial ₹10,000 crore (approximately $1.2 billion USD) Fund of Funds (FoF) aimed at mobilizing venture capital and providing crucial support to deep-tech, tech-driven innovative manufacturing startups, and early-growth stage enterprises. This initiative, announced on Saturday, February 14, 2026, represents the second phase of the Fund of Funds scheme under the Startup India program, building upon the initial fund established in 2016.
 
-The FTC has recently issued civil investigative demands to companies that compete with Microsoft in the business software and cloud computing sectors. These demands, akin to civil subpoenas, aim to gather evidence on whether Microsoft makes it more challenging for customers to utilize Windows, Office, and other products on rival cloud services. Additionally, the agency is seeking information on Microsoft's bundling of AI, security, and identity software into its other prominent products, such as Windows and Office. The probe suggests a significant regulatory push to examine the competitive landscape in the rapidly evolving cloud and AI markets.
+The newly sanctioned FOF 2.0 is designed to sustain the momentum of investments in the startup ecosystem with an expanded scope. A key focus of this fund will be to prioritize breakthroughs in high-tech areas that require long-term capital, empowering early-growth stage founders and establishing a safety net for novel and innovative ideas to mitigate early-stage failures often caused by insufficient funding. Furthermore, the scheme aims to encourage investments beyond major metropolitan areas, fostering innovation across all regions of the country. The government stated that the fund is structured to address high-risk capital gaps and strengthen India's domestic venture capital base, particularly for smaller funds. The Cabinet had approved this second tranche of the Startup India Fund of Funds Scheme on Friday, February 13, 2026.
 
-**Key Takeaway:** The US FTC is deepening its antitrust investigation into Microsoft's cloud and AI business practices, signaling increased regulatory scrutiny over the competitive dynamics of the enterprise software and artificial intelligence sectors.
+**Key Takeaway:** India's approval of a ₹10,000 crore fund signifies a major strategic investment to nurture deep-tech startups and innovation nationwide, aiming to fortify its domestic venture capital ecosystem and drive future technological advancements.
 <!-- NEWS_END -->
 
 ---
