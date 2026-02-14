@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, February 13, 2026 at 6:49 PM UTC
+**Last Updated:** February 14, 2026, 1:59 AM UTC
 
-### Global Tech Giants Form "Trusted Tech Alliance" to Establish Shared Principles
+### Amazon Leo Hints at Opening Satellite Internet Tech to Third-Party Antennas
 
-At the Munich Security Conference on Friday, February 13, 2026, fifteen prominent technology companies from Africa, Asia, Europe, and North America announced the formation of the "Trusted Tech Alliance (TTA)." This new consortium aims to establish and uphold a shared set of principles for a reliable and secure technology stack, encompassing areas such as connectivity, cloud infrastructure, semiconductors, software, and artificial intelligence. The initiative responds to the rapid pace of technological change and increasing complexity in the digital landscape, where customers and countries are seeking greater resilience and reliability from technology providers.
+Amazon's Project Kuiper, its ambitious satellite internet initiative, has indicated a potential strategy to open its technology to third-party antenna manufacturers. A recent regulatory filing revealed details about the "Amazon Leo modem module (ALMM)," suggesting it can be integrated into external antenna hardware designed for enterprise and government users. This move could signify Amazon's intent to broaden the reach and adoption of its satellite internet services beyond its proprietary equipment, fostering partnerships and potentially accelerating the deployment of satellite-based connectivity in various sectors.
 
-The TTA members are committing to common standards of transparency, security, and data protection, with the goal of fostering trust and ensuring the benefits of technology reach people globally. Signatories to the Alliance include major industry players like Anthropic, AWS, Cassava Technologies, Cohere, Ericsson, Google Cloud, Hanwha, Jio Platforms, Microsoft, Nokia, Nscale, NTT, Rapidus, Saab, and SAP. The alliance emphasizes working with governments and customers to guarantee that emerging technologies contribute to public trust, job creation, and economic growth.
-
-**Key Takeaway:** A coalition of global tech leaders has formed the Trusted Tech Alliance to establish common principles for security, transparency, and data protection across the technology stack, aiming to build trust in a rapidly evolving digital world.
+**Key Takeaway:** Amazon's exploration of opening its Leo satellite internet modem technology to third-party antennas suggests a strategic move to expand its market presence and foster wider adoption of its Project Kuiper services.
 <!-- NEWS_END -->
 
 ---
