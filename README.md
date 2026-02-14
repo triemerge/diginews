@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 14, 2026, 1:59 AM UTC
+**Last Updated:** Friday, February 14, 2026 at 6:43 AM UTC
 
-### Amazon Leo Hints at Opening Satellite Internet Tech to Third-Party Antennas
+### US FTC Accelerates Probe into Microsoft's Cloud and AI Business Practices
 
-Amazon's Project Kuiper, its ambitious satellite internet initiative, has indicated a potential strategy to open its technology to third-party antenna manufacturers. A recent regulatory filing revealed details about the "Amazon Leo modem module (ALMM)," suggesting it can be integrated into external antenna hardware designed for enterprise and government users. This move could signify Amazon's intent to broaden the reach and adoption of its satellite internet services beyond its proprietary equipment, fostering partnerships and potentially accelerating the deployment of satellite-based connectivity in various sectors.
+The US Federal Trade Commission (FTC) is reportedly intensifying its investigation into Microsoft's business practices, focusing on whether the tech giant is illegally monopolizing the enterprise computing market through its cloud software and artificial intelligence (AI) offerings, including Copilot. This accelerated scrutiny follows previous complaints from Google regarding Microsoft's practices in Europe.
 
-**Key Takeaway:** Amazon's exploration of opening its Leo satellite internet modem technology to third-party antennas suggests a strategic move to expand its market presence and foster wider adoption of its Project Kuiper services.
+The FTC has recently issued civil investigative demands to companies that compete with Microsoft in the business software and cloud computing sectors. These demands, akin to civil subpoenas, aim to gather evidence on whether Microsoft makes it more challenging for customers to utilize Windows, Office, and other products on rival cloud services. Additionally, the agency is seeking information on Microsoft's bundling of AI, security, and identity software into its other prominent products, such as Windows and Office. The probe suggests a significant regulatory push to examine the competitive landscape in the rapidly evolving cloud and AI markets.
+
+**Key Takeaway:** The US FTC is deepening its antitrust investigation into Microsoft's cloud and AI business practices, signaling increased regulatory scrutiny over the competitive dynamics of the enterprise software and artificial intelligence sectors.
 <!-- NEWS_END -->
 
 ---
