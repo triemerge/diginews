@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 14, 2026, 12:47 PM UTC
+**Last Updated:** February 14, 2026, 6:34 PM UTC
 
-### India Approves ₹10,000 Crore Fund to Bolster Deep-Tech Startups
+### South Korean Crypto Exchange Bithumb Faces Probe After $40 Billion Bitcoin Giveaway Blunder
 
-The Indian government has given its approval for a substantial ₹10,000 crore (approximately $1.2 billion USD) Fund of Funds (FoF) aimed at mobilizing venture capital and providing crucial support to deep-tech, tech-driven innovative manufacturing startups, and early-growth stage enterprises. This initiative, announced on Saturday, February 14, 2026, represents the second phase of the Fund of Funds scheme under the Startup India program, building upon the initial fund established in 2016.
+South Korean cryptocurrency exchange Bithumb is under regulatory scrutiny following an accidental giveaway of over $40 billion in Bitcoin in a botched prize event. The Wall Street Journal reported the massive error, which has prompted local regulators to launch an investigation into the exchange. In response, Bithumb has committed to covering losses for any users who sold their Bitcoin due to the incident, temporarily waived trading fees across all assets for the week, and pledged to establish a permanent Customer Protection Fund to safeguard its users. The CEO of Bithumb attributed the colossal mistake to a "deficiency in internal system control."
 
-The newly sanctioned FOF 2.0 is designed to sustain the momentum of investments in the startup ecosystem with an expanded scope. A key focus of this fund will be to prioritize breakthroughs in high-tech areas that require long-term capital, empowering early-growth stage founders and establishing a safety net for novel and innovative ideas to mitigate early-stage failures often caused by insufficient funding. Furthermore, the scheme aims to encourage investments beyond major metropolitan areas, fostering innovation across all regions of the country. The government stated that the fund is structured to address high-risk capital gaps and strengthen India's domestic venture capital base, particularly for smaller funds. The Cabinet had approved this second tranche of the Startup India Fund of Funds Scheme on Friday, February 13, 2026.
-
-**Key Takeaway:** India's approval of a ₹10,000 crore fund signifies a major strategic investment to nurture deep-tech startups and innovation nationwide, aiming to fortify its domestic venture capital ecosystem and drive future technological advancements.
+**Key Takeaway:** A massive $40 billion accidental Bitcoin giveaway by Bithumb highlights significant internal control failures in cryptocurrency exchanges and triggers immediate regulatory action.
 <!-- NEWS_END -->
 
 ---
