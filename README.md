@@ -10,13 +10,12 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 14, 2026, 6:34 PM UTC
+**Last Updated:** Sunday, February 15, 2026 at 2:10 AM UTC
 
-### South Korean Crypto Exchange Bithumb Faces Probe After $40 Billion Bitcoin Giveaway Blunder
+### UN Approves 40-Member Scientific Panel on Artificial Intelligence Impact
+The United Nations has approved the formation of a 40-member scientific panel tasked with assessing the wide-ranging impacts of artificial intelligence. This significant move comes amidst growing global concerns and discussions surrounding the ethical, societal, and economic implications of rapidly advancing AI technologies. The panel aims to provide comprehensive insights and guidance to the international community regarding the responsible development and deployment of AI. This initiative highlights a concerted global effort to understand and manage the transformative power of artificial intelligence, including its potential benefits and risks across various sectors. The establishment of such a body underscores the increasing recognition among international organizations of the need for collaborative oversight and informed decision-making in the AI landscape.
 
-South Korean cryptocurrency exchange Bithumb is under regulatory scrutiny following an accidental giveaway of over $40 billion in Bitcoin in a botched prize event. The Wall Street Journal reported the massive error, which has prompted local regulators to launch an investigation into the exchange. In response, Bithumb has committed to covering losses for any users who sold their Bitcoin due to the incident, temporarily waived trading fees across all assets for the week, and pledged to establish a permanent Customer Protection Fund to safeguard its users. The CEO of Bithumb attributed the colossal mistake to a "deficiency in internal system control."
-
-**Key Takeaway:** A massive $40 billion accidental Bitcoin giveaway by Bithumb highlights significant internal control failures in cryptocurrency exchanges and triggers immediate regulatory action.
+**Key Takeaway:** The UN's establishment of a 40-member scientific panel marks a crucial step toward global governance and understanding of AI's extensive impact.
 <!-- NEWS_END -->
 
 ---
