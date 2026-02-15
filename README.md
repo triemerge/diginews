@@ -10,12 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Sunday, February 15, 2026 at 2:10 AM UTC
+**Last Updated:** Sunday, February 15, 2026 at 6:52 AM UTC
 
-### UN Approves 40-Member Scientific Panel on Artificial Intelligence Impact
-The United Nations has approved the formation of a 40-member scientific panel tasked with assessing the wide-ranging impacts of artificial intelligence. This significant move comes amidst growing global concerns and discussions surrounding the ethical, societal, and economic implications of rapidly advancing AI technologies. The panel aims to provide comprehensive insights and guidance to the international community regarding the responsible development and deployment of AI. This initiative highlights a concerted global effort to understand and manage the transformative power of artificial intelligence, including its potential benefits and risks across various sectors. The establishment of such a body underscores the increasing recognition among international organizations of the need for collaborative oversight and informed decision-making in the AI landscape.
+### Pentagon Considers Cutting Ties with Anthropic Amid AI Safeguards Dispute
 
-**Key Takeaway:** The UN's establishment of a 40-member scientific panel marks a crucial step toward global governance and understanding of AI's extensive impact.
+The Pentagon is reportedly contemplating ending its collaboration with artificial intelligence firm Anthropic due to the company's steadfast refusal to remove restrictions on how the U.S. military can utilize its AI models. The dispute centers on the Pentagon's insistence that AI tools be made available for "all lawful purposes," which encompasses areas like weapons development, intelligence gathering, and battlefield operations. Anthropic, a leading AI developer, has not agreed to these terms, prompting frustration from the Pentagon after months of negotiations, according to an administration official cited in an Axios report. Other major AI companies, including OpenAI, Google, and xAI, are also being pushed by the Pentagon to make their tools accessible on classified networks without the typical user restrictions. Anthropic has stated that its discussions with the U.S. government have focused on usage policy questions, specifically concerning hard limits around fully autonomous weapons and mass domestic surveillance, rather than current operations. Notably, Anthropic's AI model, Claude, was previously employed by the U.S. military in an operation to capture former Venezuelan President Nicolas Maduro, deployed through its partnership with data firm Palantir.
+
+**Key Takeaway:** A significant ethical and strategic conflict is emerging between the U.S. military and leading AI developers like Anthropic over the acceptable uses and safeguards for advanced artificial intelligence in defense applications.
 <!-- NEWS_END -->
 
 ---
