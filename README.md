@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, February 13, 2026 at 6:36 PM UTC
+**Last Updated:** Monday, February 16, 2026 at 2:06 AM UTC
 
-### Hackers Attempting to 'Clone' Google's Gemini for Cyberattacks
+### India Launches Major National AI Initiative at Global Impact Summit
 
-Hackers are reportedly attempting to "clone" Google's Gemini AI model for deployment in various cyberattack schemes. This development underscores an emerging and significant threat within the cybersecurity landscape, where advanced artificial intelligence capabilities are being weaponized by malicious actors. The report, featured among the latest tech news, suggests a new frontier in cyber warfare where AI is not merely a target but also an instrument for executing sophisticated attacks.
+India is set to inaugurate its first set of sovereign AI models and announce significant national AI research programs at the AI Impact Summit 2026, which commenced on February 16th. Prime Minister Narendra Modi is slated to inaugurate the "India AI Impact Expo 2026," which will feature pavilions from 13 countries. The summit, hosted in Delhi and marking the fourth such global event, is expected to draw participation from over 100 countries and more than 100 global AI leaders, including Google's Sundar Pichai and OpenAI CEO Sam Altman.
 
-**Key Takeaway:** The weaponization of advanced AI models like Google's Gemini by hackers for cyberattacks signifies a critical and evolving threat to global cybersecurity.
+A key focus of this initiative is the development of home-grown AI models, trained on Indian datasets to address the nation's linguistic diversity and specific sectoral challenges in areas like governance, healthcare, and industry. The government also plans to expand shared computing facilities and establish AI labs across 500 universities, aiming to cultivate a large national talent pipeline by providing students with hands-on access to AI infrastructure and real-world use cases. This push is seen as India's strongest effort to translate its AI ambitions into tangible impact, with a projected $70 billion already invested in AI-related infrastructure, and further increases expected.
+
+**Key Takeaway:** India is making a significant global push in artificial intelligence, launching sovereign AI models and a massive talent development program at the AI Impact Summit 2026 to address national challenges and foster innovation.
 <!-- NEWS_END -->
 
 ---
