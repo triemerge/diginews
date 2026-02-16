@@ -10,19 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, February 16, 2026 at 7:02 AM UTC
+**Last Updated:** Monday, February 16, 2026 at 1:02 PM UTC
 
-### India Hosts Global AI Impact Summit to Shape Future of Artificial Intelligence
+### India AI Impact Summit Underlines Nation's AI Leadership with 100 Million ChatGPT Users
 
-New Delhi is currently hosting the India AI Impact Summit 2026, a significant international gathering from February 16-20, aimed at deliberating the future of artificial intelligence with a focus on inclusivity, responsibility, and measurable impact. Prime Minister Narendra Modi inaugurated the event, which has convened global political leaders, prominent technology giants, startups, and researchers. As the first major AI summit to be held in the Global South, it underscores India's ambition to influence global AI norms while simultaneously developing its domestic AI capabilities.
+India is currently hosting its inaugural AI Impact Summit, a significant event highlighting the nation's burgeoning role in the global artificial intelligence landscape. Amidst discussions on the future and impact of AI, OpenAI CEO Sam Altman announced that ChatGPT has reached an impressive milestone of 100 million weekly active users in India, demonstrating the rapid and widespread adoption of AI technologies within the country. Prime Minister Modi has affirmed India's position at the forefront of AI transformation. Further emphasizing India's digital prowess, the National Payments Corporation of India (NPCI) launched the 'UPI One World' wallet service at the summit, specifically catering to foreign delegates. Industry experts like Microsoft India President Puneet Chandok have also contributed to the discourse, projecting that AI will primarily reshape jobs rather than eliminate them. However, there are also calls for careful consideration, with CEA Nageswaran emphasizing that technological transformation must align with mass employability.
 
-The summit is seeing participation from over 45 countries, with an impressive list of attendees including Sundar Pichai of Alphabet Inc., Sam Altman from OpenAI, Demis Hassabis of DeepMind, and Dario Amodei from Anthropic. French Prime Minister Emmanuel Macron and Brazil's President Luiz Inácio Lula da Silva are also gracing the occasion.
-
-Discussions at the summit are centered on critical themes such as bridging the AI adoption gap between the Global North and South, establishing trusted and sovereign tech stacks, promoting ethical AI governance, and ensuring that AI serves to augment livelihoods rather than displace them. India's commitment to building a comprehensive AI ecosystem is highlighted by the government's investment of Rs 10,372 crore under the IndiaAI Mission, which includes onboarding over 38,000 GPUs for shared compute access, developing 12 indigenous foundation models, and approving more than 30 India-specific AI applications. Talent development is also a key component, with initiatives supporting thousands of students across various academic levels.
-
-The event also features an AI Impact Expo, spanning over 70,000 square meters, showcasing AI applications across vital sectors like agriculture, healthcare, education, and public services. Through various working groups and thematic sessions, the summit endeavors to generate actionable proposals, including shared compute frameworks and AI commons for the public good. The summit positions India as a crucial link between technological innovation and equitable global impact.
-
-**Key Takeaway:** India's inaugural AI Impact Summit is bringing together global leaders and tech giants to collaboratively shape an inclusive, responsible, and impactful future for artificial intelligence, with a particular focus on addressing the needs and perspectives of the Global South.
+**Key Takeaway:** The ongoing India AI Impact Summit solidifies the nation's growing influence in the global AI arena, with Sam Altman's revelation of 100 million weekly ChatGPT users in India underscoring the country's rapid embrace of artificial intelligence.
 <!-- NEWS_END -->
 
 ---
