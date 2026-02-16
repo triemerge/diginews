@@ -10,15 +10,19 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, February 16, 2026 at 2:06 AM UTC
+**Last Updated:** Monday, February 16, 2026 at 7:02 AM UTC
 
-### India Launches Major National AI Initiative at Global Impact Summit
+### India Hosts Global AI Impact Summit to Shape Future of Artificial Intelligence
 
-India is set to inaugurate its first set of sovereign AI models and announce significant national AI research programs at the AI Impact Summit 2026, which commenced on February 16th. Prime Minister Narendra Modi is slated to inaugurate the "India AI Impact Expo 2026," which will feature pavilions from 13 countries. The summit, hosted in Delhi and marking the fourth such global event, is expected to draw participation from over 100 countries and more than 100 global AI leaders, including Google's Sundar Pichai and OpenAI CEO Sam Altman.
+New Delhi is currently hosting the India AI Impact Summit 2026, a significant international gathering from February 16-20, aimed at deliberating the future of artificial intelligence with a focus on inclusivity, responsibility, and measurable impact. Prime Minister Narendra Modi inaugurated the event, which has convened global political leaders, prominent technology giants, startups, and researchers. As the first major AI summit to be held in the Global South, it underscores India's ambition to influence global AI norms while simultaneously developing its domestic AI capabilities.
 
-A key focus of this initiative is the development of home-grown AI models, trained on Indian datasets to address the nation's linguistic diversity and specific sectoral challenges in areas like governance, healthcare, and industry. The government also plans to expand shared computing facilities and establish AI labs across 500 universities, aiming to cultivate a large national talent pipeline by providing students with hands-on access to AI infrastructure and real-world use cases. This push is seen as India's strongest effort to translate its AI ambitions into tangible impact, with a projected $70 billion already invested in AI-related infrastructure, and further increases expected.
+The summit is seeing participation from over 45 countries, with an impressive list of attendees including Sundar Pichai of Alphabet Inc., Sam Altman from OpenAI, Demis Hassabis of DeepMind, and Dario Amodei from Anthropic. French Prime Minister Emmanuel Macron and Brazil's President Luiz Inácio Lula da Silva are also gracing the occasion.
 
-**Key Takeaway:** India is making a significant global push in artificial intelligence, launching sovereign AI models and a massive talent development program at the AI Impact Summit 2026 to address national challenges and foster innovation.
+Discussions at the summit are centered on critical themes such as bridging the AI adoption gap between the Global North and South, establishing trusted and sovereign tech stacks, promoting ethical AI governance, and ensuring that AI serves to augment livelihoods rather than displace them. India's commitment to building a comprehensive AI ecosystem is highlighted by the government's investment of Rs 10,372 crore under the IndiaAI Mission, which includes onboarding over 38,000 GPUs for shared compute access, developing 12 indigenous foundation models, and approving more than 30 India-specific AI applications. Talent development is also a key component, with initiatives supporting thousands of students across various academic levels.
+
+The event also features an AI Impact Expo, spanning over 70,000 square meters, showcasing AI applications across vital sectors like agriculture, healthcare, education, and public services. Through various working groups and thematic sessions, the summit endeavors to generate actionable proposals, including shared compute frameworks and AI commons for the public good. The summit positions India as a crucial link between technological innovation and equitable global impact.
+
+**Key Takeaway:** India's inaugural AI Impact Summit is bringing together global leaders and tech giants to collaboratively shape an inclusive, responsible, and impactful future for artificial intelligence, with a particular focus on addressing the needs and perspectives of the Global South.
 <!-- NEWS_END -->
 
 ---
