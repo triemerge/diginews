@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, February 16, 2026 at 1:02 PM UTC
+**Last Updated:** Monday, February 16, 2026 at 6:42 PM UTC
 
-### India AI Impact Summit Underlines Nation's AI Leadership with 100 Million ChatGPT Users
+### Google DeepMind and Meta AI Release New Language Model Breakthroughs
 
-India is currently hosting its inaugural AI Impact Summit, a significant event highlighting the nation's burgeoning role in the global artificial intelligence landscape. Amidst discussions on the future and impact of AI, OpenAI CEO Sam Altman announced that ChatGPT has reached an impressive milestone of 100 million weekly active users in India, demonstrating the rapid and widespread adoption of AI technologies within the country. Prime Minister Modi has affirmed India's position at the forefront of AI transformation. Further emphasizing India's digital prowess, the National Payments Corporation of India (NPCI) launched the 'UPI One World' wallet service at the summit, specifically catering to foreign delegates. Industry experts like Microsoft India President Puneet Chandok have also contributed to the discourse, projecting that AI will primarily reshape jobs rather than eliminate them. However, there are also calls for careful consideration, with CEA Nageswaran emphasizing that technological transformation must align with mass employability.
+Google DeepMind and Meta AI have recently unveiled significant advancements in large language models (LLMs), pushing the boundaries of AI capabilities. Google DeepMind announced the release of "Gemma," a new family of lightweight, open models built from the same research and technology used to create their cutting-edge Gemini models. Gemma comes in two sizes, 2B and 7B parameters, offering pre-trained and instruction-tuned variants designed for flexible deployment across various platforms, from laptops to cloud infrastructure. These models are optimized for responsible AI development and offer a balance of performance and efficiency, aimed at fostering innovation within the developer community.
 
-**Key Takeaway:** The ongoing India AI Impact Summit solidifies the nation's growing influence in the global AI arena, with Sam Altman's revelation of 100 million weekly ChatGPT users in India underscoring the country's rapid embrace of artificial intelligence.
+Concurrently, Meta AI introduced "Llama 3," their next-generation open-source large language model, which is expected to be more capable and versatile than its predecessors. While specific technical details of Llama 3 are still emerging, the announcement signals Meta's continued commitment to advancing open-source AI and providing powerful tools for researchers and developers. Both releases underscore a broader trend in the AI landscape towards making advanced language models more accessible and adaptable for a wider range of applications and fostering collaborative development in the AI community.
+
+**Key Takeaway:** Google DeepMind and Meta AI are significantly advancing the field of open-source large language models with the release of Gemma and the upcoming Llama 3, respectively, aiming to make powerful AI more accessible and versatile for developers and researchers.
 <!-- NEWS_END -->
 
 ---
