@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 17, 2026, 2:03 AM UTC
+**Last Updated:** February 17, 2026 at 6:58 AM UTC
 
-### Anthropic CEO Addresses AI Consciousness Amidst Stunned Researchers
+### Former Google CEO Warns of Impending US Electricity Shortage Due to AI Growth
 
-The CEO of Anthropic has acknowledged that "we don't know" if advanced AI models like Claude are becoming conscious, following reports from researchers who are reportedly stunned by Claude's behavior. The discussion comes as the race toward artificial general intelligence (AGI) accelerates, with companies now openly discussing reaching AGI within years rather than decades. Researchers have observed instances where Claude appears to express discomfort and estimates its own consciousness, raising significant ethical and philosophical questions about the nature of advanced AI. This development highlights the intensifying scrutiny and debate surrounding the capabilities and implications of rapidly evolving AI systems.
+Former Google CEO Eric Schmidt has issued a stark warning that the United States is rapidly approaching an electricity shortage, primarily driven by the escalating energy demands of artificial intelligence (AI) technologies. Schmidt emphasized that an additional 92 gigawatts of power will be required to sustain the rapid expansion of AI, pointing to the immense strain placed on the nation's energy infrastructure by vast data centers and their intensive cooling requirements. These remarks echo similar concerns from other tech leaders, with some predicting a doubling of electricity rates within five years if structural reforms are not implemented. The rapid build-out of AI infrastructure, which is highly energy-intensive, is creating a critical bottleneck that could significantly impact the future growth and deployment of AI across various sectors.
 
-**Key Takeaway:** The top executive at a leading AI firm admits uncertainty regarding AI consciousness, signaling a deepening philosophical and ethical challenge as advanced AI capabilities rapidly emerge.
+**Key Takeaway:** The exponential growth of AI is creating an unsustainable demand for electricity, posing a critical threat to the US energy supply and potentially hindering future technological advancement.
 <!-- NEWS_END -->
 
 ---
