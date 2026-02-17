@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 17, 2026, 1:02 PM UTC
+**Last Updated:** Tuesday, February 17, 2026 at 6:57 PM UTC
 
-### Google DeepMind Unveils Groundbreaking AI Model, Gemini Ultra 1.5, with Enhanced Context Window
+### Micron Commits $200 Billion to Boost Domestic AI Memory Production
 
-Google DeepMind has officially launched Gemini Ultra 1.5, an advanced iteration of its large language model, which boasts a significantly expanded context window and enhanced performance. This new version is designed to handle substantially larger inputs, allowing for more complex reasoning and richer interactions across various applications. The expanded context window, which can process up to 1 million tokens, enables the model to analyze extensive documents, entire codebases, or even lengthy video and audio content more effectively, promising to revolutionize how AI assists with data analysis, content generation, and intricate problem-solving. This release is a major step forward in Google's efforts to provide more capable and versatile AI tools to developers and enterprises globally.
+Micron Technology, the largest memory-chip manufacturer in the United States, has announced a monumental investment of $200 billion to expand its domestic production of silicon chips crucial for artificial intelligence (AI) systems, smartphones, laptops, vehicles, and data centers. This ambitious plan is a direct response to what company executives describe as the most severe memory supply crunch in over four decades, driven by rapidly accelerating demand for AI-related components. The core of this expansion will be in Boise, Idaho, where Micron's headquarters are located. The company plans to more than double the size of its 450-acre campus, constructing two massive fabrication plants. The first plant, known as ID1, is anticipated to begin producing silicon wafers, specifically DRAM for high-bandwidth memory (HBM) chips essential for advanced AI computing, by mid-2027. Both facilities are expected to be fully operational by the end of 2028, with each spanning 600,000 square feet, making them among the largest clean rooms ever built in the U.S. This significant investment underscores the escalating "manufacturing arms race" fueled by the AI boom, as companies like OpenAI, Oracle, xAI, and Anthropic rapidly advance their data center capabilities.
 
-**Key Takeaway:** Google DeepMind's Gemini Ultra 1.5 significantly boosts AI's capacity for complex reasoning by expanding its context window to 1 million tokens, enabling the processing of vast amounts of information.
+**Key Takeaway:** Micron's $200 billion investment in domestic memory chip production is a critical, large-scale move to secure essential hardware for the booming AI industry and prevent future supply shortages.
 <!-- NEWS_END -->
 
 ---
