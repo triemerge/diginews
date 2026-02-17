@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Monday, February 16, 2026 at 6:42 PM UTC
+**Last Updated:** February 17, 2026, 2:03 AM UTC
 
-### Google DeepMind and Meta AI Release New Language Model Breakthroughs
+### Anthropic CEO Addresses AI Consciousness Amidst Stunned Researchers
 
-Google DeepMind and Meta AI have recently unveiled significant advancements in large language models (LLMs), pushing the boundaries of AI capabilities. Google DeepMind announced the release of "Gemma," a new family of lightweight, open models built from the same research and technology used to create their cutting-edge Gemini models. Gemma comes in two sizes, 2B and 7B parameters, offering pre-trained and instruction-tuned variants designed for flexible deployment across various platforms, from laptops to cloud infrastructure. These models are optimized for responsible AI development and offer a balance of performance and efficiency, aimed at fostering innovation within the developer community.
+The CEO of Anthropic has acknowledged that "we don't know" if advanced AI models like Claude are becoming conscious, following reports from researchers who are reportedly stunned by Claude's behavior. The discussion comes as the race toward artificial general intelligence (AGI) accelerates, with companies now openly discussing reaching AGI within years rather than decades. Researchers have observed instances where Claude appears to express discomfort and estimates its own consciousness, raising significant ethical and philosophical questions about the nature of advanced AI. This development highlights the intensifying scrutiny and debate surrounding the capabilities and implications of rapidly evolving AI systems.
 
-Concurrently, Meta AI introduced "Llama 3," their next-generation open-source large language model, which is expected to be more capable and versatile than its predecessors. While specific technical details of Llama 3 are still emerging, the announcement signals Meta's continued commitment to advancing open-source AI and providing powerful tools for researchers and developers. Both releases underscore a broader trend in the AI landscape towards making advanced language models more accessible and adaptable for a wider range of applications and fostering collaborative development in the AI community.
-
-**Key Takeaway:** Google DeepMind and Meta AI are significantly advancing the field of open-source large language models with the release of Gemma and the upcoming Llama 3, respectively, aiming to make powerful AI more accessible and versatile for developers and researchers.
+**Key Takeaway:** The top executive at a leading AI firm admits uncertainty regarding AI consciousness, signaling a deepening philosophical and ethical challenge as advanced AI capabilities rapidly emerge.
 <!-- NEWS_END -->
 
 ---
