@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Tuesday, February 17, 2026 at 6:57 PM UTC
+**Last Updated:** Wednesday, February 18, 2026 at 2:07 AM UTC
 
-### Micron Commits $200 Billion to Boost Domestic AI Memory Production
+### Tower Semiconductor and Scintil Photonics Unveil First DWDM Laser Sources for Next-Gen AI Infrastructure
 
-Micron Technology, the largest memory-chip manufacturer in the United States, has announced a monumental investment of $200 billion to expand its domestic production of silicon chips crucial for artificial intelligence (AI) systems, smartphones, laptops, vehicles, and data centers. This ambitious plan is a direct response to what company executives describe as the most severe memory supply crunch in over four decades, driven by rapidly accelerating demand for AI-related components. The core of this expansion will be in Boise, Idaho, where Micron's headquarters are located. The company plans to more than double the size of its 450-acre campus, constructing two massive fabrication plants. The first plant, known as ID1, is anticipated to begin producing silicon wafers, specifically DRAM for high-bandwidth memory (HBM) chips essential for advanced AI computing, by mid-2027. Both facilities are expected to be fully operational by the end of 2028, with each spanning 600,000 square feet, making them among the largest clean rooms ever built in the U.S. This significant investment underscores the escalating "manufacturing arms race" fueled by the AI boom, as companies like OpenAI, Oracle, xAI, and Anthropic rapidly advance their data center capabilities.
+Tower Semiconductor and Scintil Photonics have announced the availability of the world's first heterogeneously integrated Dense Wavelength Division Multiplexing (DWDM) laser sources, specifically designed for next-generation AI infrastructure using Scintil's SHIP™ (Scintil Heterogeneous Integrated Photonics) technology. This development is crucial for the escalating demands of AI data centers, which require networking solutions that can deliver ever-growing bandwidth density, ultra-low tail latency, and reduced energy consumption per bit. The new DWDM lasers are an essential component for Co-Packaged Optics (CPO) architectures, aiming to improve GPU utilization and the return on investment for hyperscale data centers in the era of agentic AI.
 
-**Key Takeaway:** Micron's $200 billion investment in domestic memory chip production is a critical, large-scale move to secure essential hardware for the booming AI industry and prevent future supply shortages.
+This collaboration leverages Tower's high-volume silicon photonics platform, combined with Scintil's heterogeneous integration of monolithic laser sources, to meet the stringent technical requirements for AI. The validation of Scintil's SHIP™ technology on Tower's platform signifies its readiness for high-volume manufacturing, enhancing Tower's capabilities in the rapidly evolving AI sector. Dr. Ed Preisler, VP and GM of RF Business Unit at Tower Semiconductor, emphasized the importance of this revolutionary monolithic DWDM laser technology in enabling future scale-up architectures.
+
+**Key Takeaway:** The introduction of the first DWDM laser sources for AI infrastructure marks a significant advancement in semiconductor technology, promising to enhance the speed, efficiency, and scalability of AI data centers.
 <!-- NEWS_END -->
 
 ---
