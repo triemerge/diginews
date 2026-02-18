@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Wednesday, February 18, 2026 at 2:07 AM UTC
+**Last Updated:** February 18, 2026 at 7:00 AM UTC
 
-### Tower Semiconductor and Scintil Photonics Unveil First DWDM Laser Sources for Next-Gen AI Infrastructure
+### Anthropic Unveils Claude Sonnet 4.6, Elevating AI Capabilities
 
-Tower Semiconductor and Scintil Photonics have announced the availability of the world's first heterogeneously integrated Dense Wavelength Division Multiplexing (DWDM) laser sources, specifically designed for next-generation AI infrastructure using Scintil's SHIP™ (Scintil Heterogeneous Integrated Photonics) technology. This development is crucial for the escalating demands of AI data centers, which require networking solutions that can deliver ever-growing bandwidth density, ultra-low tail latency, and reduced energy consumption per bit. The new DWDM lasers are an essential component for Co-Packaged Optics (CPO) architectures, aiming to improve GPU utilization and the return on investment for hyperscale data centers in the era of agentic AI.
+Anthropic, a leading artificial intelligence company, has announced the launch of Claude Sonnet 4.6, touted as its most advanced Sonnet model to date. The new AI model introduces substantial upgrades across a spectrum of functionalities, including coding, computer usage, long-context reasoning, agent planning, knowledge work, and design. Claude Sonnet 4.6 is set to become the default model for users of Anthropic's Free and Pro plans on claude.ai and Claude Cowork, maintaining the same pricing as its predecessor, Sonnet 4.5. This release follows a period where Anthropic's workplace tools reportedly contributed to a significant market shift, impacting software stock valuations.
 
-This collaboration leverages Tower's high-volume silicon photonics platform, combined with Scintil's heterogeneous integration of monolithic laser sources, to meet the stringent technical requirements for AI. The validation of Scintil's SHIP™ technology on Tower's platform signifies its readiness for high-volume manufacturing, enhancing Tower's capabilities in the rapidly evolving AI sector. Dr. Ed Preisler, VP and GM of RF Business Unit at Tower Semiconductor, emphasized the importance of this revolutionary monolithic DWDM laser technology in enabling future scale-up architectures.
-
-**Key Takeaway:** The introduction of the first DWDM laser sources for AI infrastructure marks a significant advancement in semiconductor technology, promising to enhance the speed, efficiency, and scalability of AI data centers.
+**Key Takeaway:** Anthropic's launch of Claude Sonnet 4.6 signifies a notable leap in accessible AI model capabilities across diverse applications.
 <!-- NEWS_END -->
 
 ---
