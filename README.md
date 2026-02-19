@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Thursday, February 19, 2026 at 1:04 PM UTC
+**Last Updated:** February 19, 2026, 6:50 PM UTC
 
-### Macron Advocates for Strict EU AI Regulations and Crackdown on Child Digital Abuse
+### India Embraces AI's Future, PM Modi Emphasizes Human Control at Global Summit
 
-French President Emmanuel Macron has publicly defended the European Union's initiatives for Artificial Intelligence (AI) regulation and pledged a robust crackdown on the "digital abuse" of children, emphasizing the critical need for a regulated approach to the rapidly evolving technology. Speaking four hours ago, Macron highlighted the importance of shaping rules for AI with allies to address its potential misuse, particularly concerning the protection of minors online.
+Indian Prime Minister Narendra Modi, addressing the Leaders' Plenary session of the AI Impact Summit on Thursday, February 19, 2026, declared that India perceives artificial intelligence as a cornerstone of its future rather than a cause for apprehension. Modi emphasized the critical need for human control over AI technology, advocating for a balanced strategy that leverages AI's extensive capabilities while ensuring it remains rooted in human values and guided by robust oversight. This pronouncement highlights India's forward-looking approach to AI development and integration, positioning the country as a significant voice for responsible AI innovation globally.
 
-His comments come amid ongoing global discussions about the ethical deployment of AI and the increasing concerns over online safety for younger users. The European Union has been at the forefront of developing comprehensive AI legislation, aiming to balance innovation with strong safeguards for fundamental rights and societal well-being. This push for stringent rules underscores a growing global trend among governments to rein in the potential negative impacts of unchecked technological advancement, particularly in sensitive areas like AI and child protection.
-
-**Key Takeaway:** President Macron's recent statements underscore a strong European commitment to regulating AI and enhancing online child safety, signaling a global shift towards more controlled technological development.
+**Key Takeaway:** India's Prime Minister advocates for human-centric AI development, emphasizing control and responsible innovation as the nation embraces the technology's future.
 <!-- NEWS_END -->
 
 ---
