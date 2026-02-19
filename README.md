@@ -10,13 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 19, 2026, 2:06 AM UTC
+**Last Updated:** February 19, 2026, 6:59 AM UTC
 
-### Escalating AI Demand Triggers Critical Hardware Supply Crisis
+### Microsoft Unveils $50 Billion AI Initiative for Global South, Bolstering India's AI Ambitions
 
-The booming demand from artificial intelligence (AI) data centers is causing a severe hardware supply crisis, with significant implications for the entire tech industry, including consumer electronics manufacturers. Western Digital's hard drive capacity for 2026 is reportedly almost entirely allocated to AI data centers, signaling a major shift in storage demand. This crunch extends beyond just hard drives, as Phison's CEO has issued warnings about an impending "AI memory crisis" that could potentially lead to the bankruptcy or exit of various product lines for consumer electronics companies by the end of 2026. The unprecedented hunger for advanced storage and memory to power AI models and infrastructure is straining the supply chain, creating a critical bottleneck for future technological development and production across multiple sectors.
+Microsoft has announced a significant $50 billion commitment towards advancing artificial intelligence across the Global South, with a particular focus on India. This expansive initiative, unveiled during the India AI Impact Summit 2026, aims to bridge the growing AI divide and foster inclusive economic development through technology.
 
-**Key Takeaway:** The insatiable demand for hardware by AI data centers is creating a profound supply crisis in storage and memory, threatening to disrupt consumer electronics production and fundamentally reshape the tech industry's foundational infrastructure.
+The comprehensive plan includes a major educator program in India, targeting the training of 5.6 million people in 2025 and an ambitious goal to equip 20 million Indians with AI credentials by 2030 through programs like "Microsoft Elevate for Educators," which will support two million teachers across over 200,000 schools. Beyond skilling, Microsoft intends to equip 25,000 institutions with inclusive AI infrastructure and integrate AI learning pathways into prominent government platforms. The company's investment in the Global South last fiscal year already exceeded $2 billion, supporting schools and non-profits with financial grants, technology donations, and discounted products. This move is positioned as a critical intervention to prevent the widening AI usage gap between the Global North and South from exacerbating existing economic disparities, as highlighted by Microsoft's AI Diffusion Report. Furthermore, Microsoft is contributing adoption metrics through GitHub repositories and Azure Foundry to support the World Bank's forthcoming Global AI Adoption Index, recognizing India's significant developer ecosystem with 24 million developers.
+
+**Key Takeaway:** Microsoft's substantial $50 billion investment in AI development across the Global South, with a strong emphasis on education and infrastructure in India, marks a pivotal effort to democratize AI access and mitigate global technological disparities.
 <!-- NEWS_END -->
 
 ---
