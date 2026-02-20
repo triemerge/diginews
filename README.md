@@ -10,13 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, February 20, 2026 at 6:56 AM UTC
+**Last Updated:** Friday, February 20, 2026 at 12:57 PM UTC
 
-### Nvidia Nears Scaled-Down $30 Billion Investment in OpenAI
+### India Implements New IT Rules for AI-Generated Content, Mandating Deepfake Labeling
 
-Nvidia is reportedly on the verge of finalizing a $30 billion investment in OpenAI as part of a new funding round for the ChatGPT maker. This potential agreement represents a significant reduction from an earlier plan to inject up to $100 billion into OpenAI. The deal, which could be concluded as early as this weekend, underscores the continued close ties between the leading AI chip manufacturer and one of the most prominent developers of artificial intelligence models. Nvidia has become a critical supplier of the processors essential for training and operating large language models (LLMs) like those developed by OpenAI. LLM developers are directing substantial investments into Nvidia's products, accelerating the development of GPU-intensive data centers to meet the anticipated demand for AI services.
+India has rolled out new Information Technology (IT) rules, effective today, which specifically target AI-generated content, including deepfakes, synthetic audio, and altered visuals. Under these amendments to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, social media platforms are now legally required to label all such synthetically generated content with visible markers that users can immediately identify. This marks the first instance of AI-generated content being brought under a formal regulatory framework in India. The new framework also mandates that platforms embed metadata and unique identifiers into all synthetically generated content, ensuring that it can be traced back to its source and that these identifiers cannot be altered, hidden, or deleted.
 
-**Key Takeaway:** Nvidia is set to make a substantial $30 billion investment in OpenAI, solidifying the strategic relationship between the dominant AI chip supplier and a leading generative AI developer amidst continued high investment in the AI sector.
+**Key Takeaway:** India's new IT rules establish a precedent for regulating AI-generated content, requiring platforms to label deepfakes and other synthetic media to combat misinformation and enhance traceability.
 <!-- NEWS_END -->
 
 ---
