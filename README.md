@@ -10,13 +10,12 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, February 20, 2026 at 12:57 PM UTC
+**Last Updated:** Friday, February 20, 2026 at 6:47 PM UTC
 
-### India Implements New IT Rules for AI-Generated Content, Mandating Deepfake Labeling
+### Google Upgrades Gemini to 3.1 Pro, Enhancing AI Reasoning Capabilities
+Google has rolled out an upgrade to its Gemini AI model, now introducing Gemini 3.1 Pro. This latest iteration significantly boosts the AI's reasoning capabilities. While the upgrade aims to improve overall performance, some users have noted that the model's responses feel less human in the process. The advancement in Gemini's core model has broad implications for various applications relying on Google's AI, potentially impacting how it processes and generates information across its services.
 
-India has rolled out new Information Technology (IT) rules, effective today, which specifically target AI-generated content, including deepfakes, synthetic audio, and altered visuals. Under these amendments to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, social media platforms are now legally required to label all such synthetically generated content with visible markers that users can immediately identify. This marks the first instance of AI-generated content being brought under a formal regulatory framework in India. The new framework also mandates that platforms embed metadata and unique identifiers into all synthetically generated content, ensuring that it can be traced back to its source and that these identifiers cannot be altered, hidden, or deleted.
-
-**Key Takeaway:** India's new IT rules establish a precedent for regulating AI-generated content, requiring platforms to label deepfakes and other synthetic media to combat misinformation and enhance traceability.
+**Key Takeaway:** Google's upgrade to Gemini 3.1 Pro enhances its AI reasoning abilities, marking a notable step in foundational AI model development.
 <!-- NEWS_END -->
 
 ---
