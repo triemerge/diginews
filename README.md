@@ -10,15 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 21, 2026, 6:40 AM UTC
+**Last Updated:** Friday, February 21, 2026 at 12:45 PM UTC
 
-### Big Tech Companies Redirect Hundreds of Billions from Stock Buybacks to AI Investments
+### Anthropic's New AI Tool Rocks Cybersecurity Stock Market
 
-Major technology companies are significantly altering their financial strategies, reining in stock buybacks to instead channel hundreds of billions of dollars into artificial intelligence (AI) development and infrastructure. This shift marks a strategic pivot where tech giants prioritize developing advanced AI capabilities over returning cash to shareholders through repurchases.
+Anthropic, a leading artificial intelligence company, has introduced Claude Code Security, an innovative AI-powered tool designed to scan codebases for vulnerabilities and suggest patches. The announcement on Friday, February 21, 2026, sent immediate shockwaves through the cybersecurity sector, resulting in a significant market downturn for several prominent cybersecurity firms.
 
-According to reports, capital expenditure by the eight largest tech companies is projected to increase substantially, with some forecasts suggesting AI infrastructure investment could easily exceed $500 billion this year. Companies like Amazon have reportedly halted share buybacks for three years and proposed $200 billion in capital expenditure for the current year, indicating a massive redirection of funds. This focus on AI is seen as more critical for future growth and market positioning than immediate shareholder returns.
+The unveiling of Claude Code Security, integrated into Anthropic's Claude Code platform, prompted a broad-based sell-off across the cybersecurity industry. Major players like CrowdStrike saw their stock drop by approximately 8%, while Cloudflare slid 8%, Okta fell over 9%, SailPoint shed roughly 9%, and Zscaler declined about 5.5%. Even Palo Alto Networks and Fortinet experienced declines of 2-4% during the trading session. The Global X Cybersecurity ETF closed at its lowest point since November 2023, down nearly 5%, with the combined sell-off wiping billions in market value from the sector in a single day. This incident marks the latest in a series of AI-triggered disruptions that have impacted software stocks throughout the year, highlighting the increasing influence of AI advancements on traditional tech industries.
 
-**Key Takeaway:** Major tech companies are fundamentally reorienting their financial priorities, shifting vast capital from stock buybacks to aggressive investments in AI infrastructure, underscoring AI's paramount strategic importance in the industry.
+**Key Takeaway:** Anthropic's new AI-powered code security tool has immediately disrupted the cybersecurity market, causing a multi-billion dollar stock devaluation and signaling AI's growing capacity to reshape established tech sectors.
 <!-- NEWS_END -->
 
 ---
