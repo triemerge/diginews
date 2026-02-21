@@ -10,15 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, February 21, 2026 at 1:57 AM UTC
+**Last Updated:** February 21, 2026, 6:40 AM UTC
 
-### India Joins Pax Silica, Securing Global Silicon Supply Chain and Attracting Major AI Investments
+### Big Tech Companies Redirect Hundreds of Billions from Stock Buybacks to AI Investments
 
-India has made a significant move in the global technology landscape by formally joining Pax Silica, a US-led coalition aimed at securing the worldwide silicon supply chain from critical mineral extraction to microchip production. This commitment, formalized at the India AI Impact Summit, positions India as a crucial player in global technology geopolitics. The summit, which concluded on February 20, 2026, also saw an impressive pledge of $250 billion in investments for AI infrastructure and garnered over 500,000 visitors.
+Major technology companies are significantly altering their financial strategies, reining in stock buybacks to instead channel hundreds of billions of dollars into artificial intelligence (AI) development and infrastructure. This shift marks a strategic pivot where tech giants prioritize developing advanced AI capabilities over returning cash to shareholders through repurchases.
 
-The "Delhi Declaration" for AI, signed by more than 70 countries, is set to be unveiled following the summit, indicating a concerted international effort towards the responsible development and deployment of artificial intelligence. India's inclusion in Pax Silica, making it the twelfth nation to join, is a strategic move to reduce its 95% dependency on semiconductor imports and attract foreign direct investment into domestic fabrication clusters. Brazil also participated in the AI Summit, with its President Luiz Inacio Lula da Silva meeting Indian Prime Minister Narendra Modi to deepen cooperation on critical minerals and AI, further highlighting the global focus on these strategic areas.
+According to reports, capital expenditure by the eight largest tech companies is projected to increase substantially, with some forecasts suggesting AI infrastructure investment could easily exceed $500 billion this year. Companies like Amazon have reportedly halted share buybacks for three years and proposed $200 billion in capital expenditure for the current year, indicating a massive redirection of funds. This focus on AI is seen as more critical for future growth and market positioning than immediate shareholder returns.
 
-**Key Takeaway:** India's entry into the Pax Silica coalition and the substantial investment commitments at the AI Impact Summit mark a pivotal moment in global tech, signaling a major shift towards securing critical technology supply chains and accelerating AI development through international cooperation.
+**Key Takeaway:** Major tech companies are fundamentally reorienting their financial priorities, shifting vast capital from stock buybacks to aggressive investments in AI infrastructure, underscoring AI's paramount strategic importance in the industry.
 <!-- NEWS_END -->
 
 ---
