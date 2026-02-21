@@ -10,12 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, February 20, 2026 at 6:47 PM UTC
+**Last Updated:** Friday, February 21, 2026 at 1:57 AM UTC
 
-### Google Upgrades Gemini to 3.1 Pro, Enhancing AI Reasoning Capabilities
-Google has rolled out an upgrade to its Gemini AI model, now introducing Gemini 3.1 Pro. This latest iteration significantly boosts the AI's reasoning capabilities. While the upgrade aims to improve overall performance, some users have noted that the model's responses feel less human in the process. The advancement in Gemini's core model has broad implications for various applications relying on Google's AI, potentially impacting how it processes and generates information across its services.
+### India Joins Pax Silica, Securing Global Silicon Supply Chain and Attracting Major AI Investments
 
-**Key Takeaway:** Google's upgrade to Gemini 3.1 Pro enhances its AI reasoning abilities, marking a notable step in foundational AI model development.
+India has made a significant move in the global technology landscape by formally joining Pax Silica, a US-led coalition aimed at securing the worldwide silicon supply chain from critical mineral extraction to microchip production. This commitment, formalized at the India AI Impact Summit, positions India as a crucial player in global technology geopolitics. The summit, which concluded on February 20, 2026, also saw an impressive pledge of $250 billion in investments for AI infrastructure and garnered over 500,000 visitors.
+
+The "Delhi Declaration" for AI, signed by more than 70 countries, is set to be unveiled following the summit, indicating a concerted international effort towards the responsible development and deployment of artificial intelligence. India's inclusion in Pax Silica, making it the twelfth nation to join, is a strategic move to reduce its 95% dependency on semiconductor imports and attract foreign direct investment into domestic fabrication clusters. Brazil also participated in the AI Summit, with its President Luiz Inacio Lula da Silva meeting Indian Prime Minister Narendra Modi to deepen cooperation on critical minerals and AI, further highlighting the global focus on these strategic areas.
+
+**Key Takeaway:** India's entry into the Pax Silica coalition and the substantial investment commitments at the AI Impact Summit mark a pivotal moment in global tech, signaling a major shift towards securing critical technology supply chains and accelerating AI development through international cooperation.
 <!-- NEWS_END -->
 
 ---
