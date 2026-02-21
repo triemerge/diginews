@@ -10,15 +10,15 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, February 21, 2026 at 12:45 PM UTC
+**Last Updated:** February 21, 2026, 6:34 PM UTC
 
-### Anthropic's New AI Tool Rocks Cybersecurity Stock Market
+### Google to Prominently Highlight Source Links in AI Overviews and AI Mode
 
-Anthropic, a leading artificial intelligence company, has introduced Claude Code Security, an innovative AI-powered tool designed to scan codebases for vulnerabilities and suggest patches. The announcement on Friday, February 21, 2026, sent immediate shockwaves through the cybersecurity sector, resulting in a significant market downturn for several prominent cybersecurity firms.
+Google is reportedly implementing significant changes to how it displays source links within its AI Overviews and AI Mode, aiming to make source attribution more prominent and accessible for users. Previously, citations in AI Overviews were often basic, placed at the end of sentences, and could be easily overlooked, making it difficult for users to identify the origin of the information.
 
-The unveiling of Claude Code Security, integrated into Anthropic's Claude Code platform, prompted a broad-based sell-off across the cybersecurity industry. Major players like CrowdStrike saw their stock drop by approximately 8%, while Cloudflare slid 8%, Okta fell over 9%, SailPoint shed roughly 9%, and Zscaler declined about 5.5%. Even Palo Alto Networks and Fortinet experienced declines of 2-4% during the trading session. The Global X Cybersecurity ETF closed at its lowest point since November 2023, down nearly 5%, with the combined sell-off wiping billions in market value from the sector in a single day. This incident marks the latest in a series of AI-triggered disruptions that have impacted software stocks throughout the year, highlighting the increasing influence of AI advancements on traditional tech industries.
+The updated experience, showcased by Robby Stein, VP of Google Search, will group links at the top of the AI Overview page, facilitating easier access to sources. Additionally, hovering over a link in Google AI Overviews will now display a pop-up detailing all sources relevant to that specific topic. This new search interface is already being rolled out to users on both desktop and mobile platforms. This move comes amidst ongoing criticism from users and publishers regarding AI Overviews, with some claiming a reduction in traffic to their websites.
 
-**Key Takeaway:** Anthropic's new AI-powered code security tool has immediately disrupted the cybersecurity market, causing a multi-billion dollar stock devaluation and signaling AI's growing capacity to reshape established tech sectors.
+**Key Takeaway:** Google is enhancing the transparency and discoverability of source attribution in its AI Overviews, directly addressing concerns about content origin and information integrity in AI-powered search results.
 <!-- NEWS_END -->
 
 ---
