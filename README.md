@@ -10,15 +10,13 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** February 21, 2026, 6:34 PM UTC
+**Last Updated:** Friday, February 21, 2026 at 2:06 AM UTC
 
-### Google to Prominently Highlight Source Links in AI Overviews and AI Mode
+### Microsoft's Xbox Division Sees Major Leadership Change as Phil Spencer Retires
 
-Google is reportedly implementing significant changes to how it displays source links within its AI Overviews and AI Mode, aiming to make source attribution more prominent and accessible for users. Previously, citations in AI Overviews were often basic, placed at the end of sentences, and could be easily overlooked, making it difficult for users to identify the origin of the information.
+Phil Spencer, a pivotal figure who has led Microsoft's Xbox division for many years, is stepping down after a 38-year tenure with the company. His departure marks a significant shift in the leadership of Microsoft's gaming arm. Asha Sharma, who has a background in the Seattle startup community and extensive experience in consumer platforms, has been named the new CEO of gaming, taking over from Spencer. This leadership transition is a major development for the gaming industry and Microsoft's future strategies in the competitive gaming market.
 
-The updated experience, showcased by Robby Stein, VP of Google Search, will group links at the top of the AI Overview page, facilitating easier access to sources. Additionally, hovering over a link in Google AI Overviews will now display a pop-up detailing all sources relevant to that specific topic. This new search interface is already being rolled out to users on both desktop and mobile platforms. This move comes amidst ongoing criticism from users and publishers regarding AI Overviews, with some claiming a reduction in traffic to their websites.
-
-**Key Takeaway:** Google is enhancing the transparency and discoverability of source attribution in its AI Overviews, directly addressing concerns about content origin and information integrity in AI-powered search results.
+**Key Takeaway:** Phil Spencer's retirement and Asha Sharma's appointment as the new gaming CEO signals a significant leadership change for Microsoft's Xbox division, with potential implications for the future direction of its gaming platforms and strategy.
 <!-- NEWS_END -->
 
 ---
