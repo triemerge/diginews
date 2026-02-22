@@ -10,13 +10,17 @@ Every **6 hours**, this repository automatically updates itself with the single 
 ##  Latest Tech Update
 
 <!-- NEWS_START -->
-**Last Updated:** Friday, February 21, 2026 at 2:06 AM UTC
+**Last Updated:** February 22, 2026, 6:47 AM UTC
 
-### Microsoft's Xbox Division Sees Major Leadership Change as Phil Spencer Retires
+### Anthropic's Claude Code Security Tool Triggers Multi-Billion Dollar Cybersecurity Stock Crash
 
-Phil Spencer, a pivotal figure who has led Microsoft's Xbox division for many years, is stepping down after a 38-year tenure with the company. His departure marks a significant shift in the leadership of Microsoft's gaming arm. Asha Sharma, who has a background in the Seattle startup community and extensive experience in consumer platforms, has been named the new CEO of gaming, taking over from Spencer. This leadership transition is a major development for the gaming industry and Microsoft's future strategies in the competitive gaming market.
+Anthropic's newly launched AI tool, Claude Code Security, has sent shockwaves through the cybersecurity sector, leading to a multi-billion dollar decline in stock market values for major cybersecurity firms. Unveiled on Thursday, the AI-powered tool is designed to scan codebases for security vulnerabilities, identify critical flaws, and propose readily applicable patches.
 
-**Key Takeaway:** Phil Spencer's retirement and Asha Sharma's appointment as the new gaming CEO signals a significant leadership change for Microsoft's Xbox division, with potential implications for the future direction of its gaming platforms and strategy.
+Unlike traditional code scanners that rely on pattern matching, Claude Code Security leverages artificial intelligence to "reason like a human researcher," enabling it to identify complex vulnerabilities. The tool is currently available as a limited research preview for Enterprise and Team plan customers, with open-source maintainers granted expedited access.
+
+Despite being a product announcement without immediate revenue figures or customer poaching, the market's reaction was swift and severe. Within hours of its launch, companies like CrowdStrike, Cloudflare, Okta, SailPoint, and Zscaler experienced significant drops in their stock prices, with the Global X Cybersecurity ETF (BUG) closing at its lowest level since November 2023. The combined market value damage across major cybersecurity names reportedly ran well into the billions.
+
+**Key Takeaway:** A new AI-powered cybersecurity tool from Anthropic has demonstrably disrupted the stock market, wiping billions from the valuation of leading cybersecurity companies due to its advanced vulnerability-detection capabilities.
 <!-- NEWS_END -->
 
 ---
